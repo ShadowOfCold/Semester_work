@@ -1,0 +1,5379 @@
+[
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 0,
+    "text": "Мальмё",
+    "true_entities": [
+      {
+        "text": "Мальмё",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 1,
+    "text": "Аллсвенскан",
+    "true_entities": [
+      {
+        "text": "Аллсвенскан",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 2,
+    "text": "1999",
+    "true_entities": [
+      {
+        "text": "1999",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 3,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 4,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 5,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 11,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 1,
+    "col": 12,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 0,
+    "text": "Мальмё",
+    "true_entities": [
+      {
+        "text": "Мальмё",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 1,
+    "text": "Суперэттан",
+    "true_entities": [
+      {
+        "text": "Суперэттан",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 2,
+    "text": "2000",
+    "true_entities": [
+      {
+        "text": "2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 3,
+    "text": "26",
+    "true_entities": [
+      {
+        "text": "26",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 4,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 5,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 6,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 11,
+    "text": "29",
+    "true_entities": [
+      {
+        "text": "29",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 2,
+    "col": 12,
+    "text": "14",
+    "true_entities": [
+      {
+        "text": "14",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 0,
+    "text": "Мальмё",
+    "true_entities": [
+      {
+        "text": "Мальмё",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 1,
+    "text": "Аллсвенскан",
+    "true_entities": [
+      {
+        "text": "Аллсвенскан",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 2,
+    "text": "2001",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 3,
+    "text": "8",
+    "true_entities": [
+      {
+        "text": "8",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 4,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 5,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 11,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 3,
+    "col": 12,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 0,
+    "text": "Мальмё",
+    "true_entities": [
+      {
+        "text": "Мальмё",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 3,
+    "text": "40",
+    "true_entities": [
+      {
+        "text": "40",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 4,
+    "text": "16",
+    "true_entities": [
+      {
+        "text": "16",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 5,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 6,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 11,
+    "text": "47",
+    "true_entities": [
+      {
+        "text": "47",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 4,
+    "col": 12,
+    "text": "18",
+    "true_entities": [
+      {
+        "text": "18",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 0,
+    "text": "Аякс",
+    "true_entities": [
+      {
+        "text": "Аякс",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 1,
+    "text": "Эредивизи",
+    "true_entities": [
+      {
+        "text": "Эредивизи",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 2,
+    "text": "2001/02",
+    "true_entities": [
+      {
+        "text": "2001/02",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 3,
+    "text": "24",
+    "true_entities": [
+      {
+        "text": "24",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 4,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 5,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 6,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 7,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 8,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 11,
+    "text": "33",
+    "true_entities": [
+      {
+        "text": "33",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 5,
+    "col": 12,
+    "text": "9",
+    "true_entities": [
+      {
+        "text": "9",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 0,
+    "text": "Аякс",
+    "true_entities": [
+      {
+        "text": "Аякс",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 1,
+    "text": "Эредивизи",
+    "true_entities": [
+      {
+        "text": "Эредивизи",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 2,
+    "text": "2002/03",
+    "true_entities": [
+      {
+        "text": "2002/03",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 3,
+    "text": "25",
+    "true_entities": [
+      {
+        "text": "25",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 4,
+    "text": "13",
+    "true_entities": [
+      {
+        "text": "13",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 5,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 6,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 7,
+    "text": "13",
+    "true_entities": [
+      {
+        "text": "13",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 8,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 11,
+    "text": "42",
+    "true_entities": [
+      {
+        "text": "42",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 6,
+    "col": 12,
+    "text": "21",
+    "true_entities": [
+      {
+        "text": "21",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 0,
+    "text": "Аякс",
+    "true_entities": [
+      {
+        "text": "Аякс",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 1,
+    "text": "Эредивизи",
+    "true_entities": [
+      {
+        "text": "Эредивизи",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 2,
+    "text": "2003/04",
+    "true_entities": [
+      {
+        "text": "2003/04",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 3,
+    "text": "22",
+    "true_entities": [
+      {
+        "text": "22",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 4,
+    "text": "13",
+    "true_entities": [
+      {
+        "text": "13",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 5,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 7,
+    "text": "8",
+    "true_entities": [
+      {
+        "text": "8",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 8,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 11,
+    "text": "31",
+    "true_entities": [
+      {
+        "text": "31",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 7,
+    "col": 12,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 0,
+    "text": "Аякс",
+    "true_entities": [
+      {
+        "text": "Аякс",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 1,
+    "text": "Эредивизи",
+    "true_entities": [
+      {
+        "text": "Эредивизи",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 2,
+    "text": "2004/05",
+    "true_entities": [
+      {
+        "text": "2004/05",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 3,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 4,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 5,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 11,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 8,
+    "col": 12,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 0,
+    "text": "Аякс",
+    "true_entities": [
+      {
+        "text": "Аякс",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 3,
+    "text": "74",
+    "true_entities": [
+      {
+        "text": "74",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 4,
+    "text": "35",
+    "true_entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 5,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 6,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 7,
+    "text": "27",
+    "true_entities": [
+      {
+        "text": "27",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 8,
+    "text": "9",
+    "true_entities": [
+      {
+        "text": "9",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 9,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 11,
+    "text": "110",
+    "true_entities": [
+      {
+        "text": "110",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 9,
+    "col": 12,
+    "text": "48",
+    "true_entities": [
+      {
+        "text": "48",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 0,
+    "text": "Ювентус",
+    "true_entities": [
+      {
+        "text": "Ювентус",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 1,
+    "text": "Серия А",
+    "true_entities": [
+      {
+        "text": "Серия А",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 2,
+    "text": "2004/05",
+    "true_entities": [
+      {
+        "text": "2004/05",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 3,
+    "text": "35",
+    "true_entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 4,
+    "text": "16",
+    "true_entities": [
+      {
+        "text": "16",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 7,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 8,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 11,
+    "text": "45",
+    "true_entities": [
+      {
+        "text": "45",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 10,
+    "col": 12,
+    "text": "16",
+    "true_entities": [
+      {
+        "text": "16",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 0,
+    "text": "Ювентус",
+    "true_entities": [
+      {
+        "text": "Ювентус",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 1,
+    "text": "Серия А",
+    "true_entities": [
+      {
+        "text": "Серия А",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 2,
+    "text": "2005/06",
+    "true_entities": [
+      {
+        "text": "2005/06",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 3,
+    "text": "35",
+    "true_entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 4,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 7,
+    "text": "9",
+    "true_entities": [
+      {
+        "text": "9",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 8,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 11,
+    "text": "47",
+    "true_entities": [
+      {
+        "text": "47",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 11,
+    "col": 12,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 0,
+    "text": "Ювентус",
+    "true_entities": [
+      {
+        "text": "Ювентус",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 3,
+    "text": "70",
+    "true_entities": [
+      {
+        "text": "70",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 4,
+    "text": "23",
+    "true_entities": [
+      {
+        "text": "23",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 7,
+    "text": "19",
+    "true_entities": [
+      {
+        "text": "19",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 8,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 11,
+    "text": "92",
+    "true_entities": [
+      {
+        "text": "92",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 12,
+    "col": 12,
+    "text": "26",
+    "true_entities": [
+      {
+        "text": "26",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 0,
+    "text": "Интернационале",
+    "true_entities": [
+      {
+        "text": "Интернационале",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 1,
+    "text": "Серия А",
+    "true_entities": [
+      {
+        "text": "Серия А",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 2,
+    "text": "2006/07",
+    "true_entities": [
+      {
+        "text": "2006/07",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 3,
+    "text": "27",
+    "true_entities": [
+      {
+        "text": "27",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 4,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 5,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 7,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 8,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 11,
+    "text": "36",
+    "true_entities": [
+      {
+        "text": "36",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 13,
+    "col": 12,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 0,
+    "text": "Интернационале",
+    "true_entities": [
+      {
+        "text": "Интернационале",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 1,
+    "text": "Серия А",
+    "true_entities": [
+      {
+        "text": "Серия А",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 2,
+    "text": "2007/08",
+    "true_entities": [
+      {
+        "text": "2007/08",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 3,
+    "text": "26",
+    "true_entities": [
+      {
+        "text": "26",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 4,
+    "text": "17",
+    "true_entities": [
+      {
+        "text": "17",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 7,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 8,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 11,
+    "text": "34",
+    "true_entities": [
+      {
+        "text": "34",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 14,
+    "col": 12,
+    "text": "22",
+    "true_entities": [
+      {
+        "text": "22",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 0,
+    "text": "Интернационале",
+    "true_entities": [
+      {
+        "text": "Интернационале",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 1,
+    "text": "Серия А",
+    "true_entities": [
+      {
+        "text": "Серия А",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 2,
+    "text": "2008/09",
+    "true_entities": [
+      {
+        "text": "2008/09",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 3,
+    "text": "35",
+    "true_entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 4,
+    "text": "25",
+    "true_entities": [
+      {
+        "text": "25",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 5,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 6,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 7,
+    "text": "8",
+    "true_entities": [
+      {
+        "text": "8",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 8,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 11,
+    "text": "47",
+    "true_entities": [
+      {
+        "text": "47",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 15,
+    "col": 12,
+    "text": "29",
+    "true_entities": [
+      {
+        "text": "29",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 0,
+    "text": "Интернационале",
+    "true_entities": [
+      {
+        "text": "Интернационале",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 3,
+    "text": "88",
+    "true_entities": [
+      {
+        "text": "88",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 4,
+    "text": "57",
+    "true_entities": [
+      {
+        "text": "57",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 5,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 6,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 7,
+    "text": "22",
+    "true_entities": [
+      {
+        "text": "22",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 8,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 9,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 11,
+    "text": "117",
+    "true_entities": [
+      {
+        "text": "117",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 16,
+    "col": 12,
+    "text": "66",
+    "true_entities": [
+      {
+        "text": "66",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 0,
+    "text": "Барселона",
+    "true_entities": [
+      {
+        "text": "Барселона",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 1,
+    "text": "Примера",
+    "true_entities": [
+      {
+        "text": "Примера",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 2,
+    "text": "2009/10",
+    "true_entities": [
+      {
+        "text": "2009/10",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 3,
+    "text": "29",
+    "true_entities": [
+      {
+        "text": "29",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 4,
+    "text": "16",
+    "true_entities": [
+      {
+        "text": "16",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 6,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 7,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 8,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 9,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 11,
+    "text": "45",
+    "true_entities": [
+      {
+        "text": "45",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 17,
+    "col": 12,
+    "text": "21",
+    "true_entities": [
+      {
+        "text": "21",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 0,
+    "text": "Барселона",
+    "true_entities": [
+      {
+        "text": "Барселона",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 1,
+    "text": "Примера",
+    "true_entities": [
+      {
+        "text": "Примера",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 2,
+    "text": "2010/11",
+    "true_entities": [
+      {
+        "text": "2010/11",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 3,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 4,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 5,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 10,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 11,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 18,
+    "col": 12,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 0,
+    "text": "Барселона",
+    "true_entities": [
+      {
+        "text": "Барселона",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 3,
+    "text": "29",
+    "true_entities": [
+      {
+        "text": "29",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 4,
+    "text": "16",
+    "true_entities": [
+      {
+        "text": "16",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 6,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 7,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 8,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 9,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 10,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 11,
+    "text": "46",
+    "true_entities": [
+      {
+        "text": "46",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 19,
+    "col": 12,
+    "text": "22",
+    "true_entities": [
+      {
+        "text": "22",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 0,
+    "text": "Милан",
+    "true_entities": [
+      {
+        "text": "Милан",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 1,
+    "text": "Серия А",
+    "true_entities": [
+      {
+        "text": "Серия А",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 2,
+    "text": "2010/11",
+    "true_entities": [
+      {
+        "text": "2010/11",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 3,
+    "text": "29",
+    "true_entities": [
+      {
+        "text": "29",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 4,
+    "text": "14",
+    "true_entities": [
+      {
+        "text": "14",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 5,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 6,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 7,
+    "text": "8",
+    "true_entities": [
+      {
+        "text": "8",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 8,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 11,
+    "text": "41",
+    "true_entities": [
+      {
+        "text": "41",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 20,
+    "col": 12,
+    "text": "21",
+    "true_entities": [
+      {
+        "text": "21",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 0,
+    "text": "Милан",
+    "true_entities": [
+      {
+        "text": "Милан",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 1,
+    "text": "Серия А",
+    "true_entities": [
+      {
+        "text": "Серия А",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 2,
+    "text": "2011/12",
+    "true_entities": [
+      {
+        "text": "2011/12",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 3,
+    "text": "32",
+    "true_entities": [
+      {
+        "text": "32",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 4,
+    "text": "28",
+    "true_entities": [
+      {
+        "text": "28",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 5,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 6,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 7,
+    "text": "8",
+    "true_entities": [
+      {
+        "text": "8",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 8,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 10,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 11,
+    "text": "44",
+    "true_entities": [
+      {
+        "text": "44",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 21,
+    "col": 12,
+    "text": "35",
+    "true_entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 0,
+    "text": "Милан",
+    "true_entities": [
+      {
+        "text": "Милан",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 3,
+    "text": "61",
+    "true_entities": [
+      {
+        "text": "61",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 4,
+    "text": "42",
+    "true_entities": [
+      {
+        "text": "42",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 5,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 6,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 7,
+    "text": "16",
+    "true_entities": [
+      {
+        "text": "16",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 8,
+    "text": "9",
+    "true_entities": [
+      {
+        "text": "9",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 10,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 11,
+    "text": "85",
+    "true_entities": [
+      {
+        "text": "85",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 22,
+    "col": 12,
+    "text": "56",
+    "true_entities": [
+      {
+        "text": "56",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 0,
+    "text": "Пари Сен-Жермен",
+    "true_entities": [
+      {
+        "text": "Пари Сен-Жермен",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 1,
+    "text": "Лига 1",
+    "true_entities": [
+      {
+        "text": "Лига 1",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 2,
+    "text": "2012/13",
+    "true_entities": [
+      {
+        "text": "2012/13",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 3,
+    "text": "34",
+    "true_entities": [
+      {
+        "text": "34",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 4,
+    "text": "30",
+    "true_entities": [
+      {
+        "text": "30",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 6,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 7,
+    "text": "9",
+    "true_entities": [
+      {
+        "text": "9",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 8,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 11,
+    "text": "46",
+    "true_entities": [
+      {
+        "text": "46",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 23,
+    "col": 12,
+    "text": "35",
+    "true_entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 0,
+    "text": "Пари Сен-Жермен",
+    "true_entities": [
+      {
+        "text": "Пари Сен-Жермен",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 1,
+    "text": "Лига 1",
+    "true_entities": [
+      {
+        "text": "Лига 1",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 2,
+    "text": "2013/14",
+    "true_entities": [
+      {
+        "text": "2013/14",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 3,
+    "text": "33",
+    "true_entities": [
+      {
+        "text": "33",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 4,
+    "text": "26",
+    "true_entities": [
+      {
+        "text": "26",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 6,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 7,
+    "text": "8",
+    "true_entities": [
+      {
+        "text": "8",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 8,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 9,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 10,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 11,
+    "text": "46",
+    "true_entities": [
+      {
+        "text": "46",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 24,
+    "col": 12,
+    "text": "41",
+    "true_entities": [
+      {
+        "text": "41",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 0,
+    "text": "Пари Сен-Жермен",
+    "true_entities": [
+      {
+        "text": "Пари Сен-Жермен",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 1,
+    "text": "Лига 1",
+    "true_entities": [
+      {
+        "text": "Лига 1",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 2,
+    "text": "2014/15",
+    "true_entities": [
+      {
+        "text": "2014/15",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 3,
+    "text": "24",
+    "true_entities": [
+      {
+        "text": "24",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 4,
+    "text": "19",
+    "true_entities": [
+      {
+        "text": "19",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 5,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 6,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 7,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 8,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 9,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 10,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 11,
+    "text": "37",
+    "true_entities": [
+      {
+        "text": "37",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 25,
+    "col": 12,
+    "text": "30",
+    "true_entities": [
+      {
+        "text": "30",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 0,
+    "text": "Пари Сен-Жермен",
+    "true_entities": [
+      {
+        "text": "Пари Сен-Жермен",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 1,
+    "text": "Лига 1",
+    "true_entities": [
+      {
+        "text": "Лига 1",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 2,
+    "text": "2015/16",
+    "true_entities": [
+      {
+        "text": "2015/16",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 3,
+    "text": "31",
+    "true_entities": [
+      {
+        "text": "31",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 4,
+    "text": "38",
+    "true_entities": [
+      {
+        "text": "38",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 5,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 6,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 7,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 8,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 9,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 10,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 11,
+    "text": "51",
+    "true_entities": [
+      {
+        "text": "51",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 26,
+    "col": 12,
+    "text": "50",
+    "true_entities": [
+      {
+        "text": "50",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 0,
+    "text": "Пари Сен-Жермен",
+    "true_entities": [
+      {
+        "text": "Пари Сен-Жермен",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 3,
+    "text": "122",
+    "true_entities": [
+      {
+        "text": "122",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 4,
+    "text": "113",
+    "true_entities": [
+      {
+        "text": "113",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 5,
+    "text": "13",
+    "true_entities": [
+      {
+        "text": "13",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 6,
+    "text": "16",
+    "true_entities": [
+      {
+        "text": "16",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 7,
+    "text": "33",
+    "true_entities": [
+      {
+        "text": "33",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 8,
+    "text": "20",
+    "true_entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 9,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 10,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 11,
+    "text": "180",
+    "true_entities": [
+      {
+        "text": "180",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 27,
+    "col": 12,
+    "text": "156",
+    "true_entities": [
+      {
+        "text": "156",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 0,
+    "text": "Манчестер Юнайтед",
+    "true_entities": [
+      {
+        "text": "Манчестер Юнайтед",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 1,
+    "text": "Премьер-лига",
+    "true_entities": [
+      {
+        "text": "Премьер-лига",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 2,
+    "text": "2016/17",
+    "true_entities": [
+      {
+        "text": "2016/17",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 3,
+    "text": "28",
+    "true_entities": [
+      {
+        "text": "28",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 4,
+    "text": "17",
+    "true_entities": [
+      {
+        "text": "17",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 5,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 6,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 7,
+    "text": "11",
+    "true_entities": [
+      {
+        "text": "11",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 8,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 9,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 10,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 11,
+    "text": "46",
+    "true_entities": [
+      {
+        "text": "46",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 28,
+    "col": 12,
+    "text": "28",
+    "true_entities": [
+      {
+        "text": "28",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 0,
+    "text": "Манчестер Юнайтед",
+    "true_entities": [
+      {
+        "text": "Манчестер Юнайтед",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 1,
+    "text": "Премьер-лига",
+    "true_entities": [
+      {
+        "text": "Премьер-лига",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 2,
+    "text": "2017/18",
+    "true_entities": [
+      {
+        "text": "2017/18",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 3,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 7,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 8,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 9,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 10,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 11,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 29,
+    "col": 12,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 0,
+    "text": "Манчестер Юнайтед",
+    "true_entities": [
+      {
+        "text": "Манчестер Юнайтед",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 3,
+    "text": "33",
+    "true_entities": [
+      {
+        "text": "33",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 4,
+    "text": "17",
+    "true_entities": [
+      {
+        "text": "17",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 5,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 6,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 7,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 8,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 9,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 10,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 11,
+    "text": "53",
+    "true_entities": [
+      {
+        "text": "53",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 30,
+    "col": 12,
+    "text": "29",
+    "true_entities": [
+      {
+        "text": "29",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 0,
+    "text": "Лос-Анджелес Гэлакси",
+    "true_entities": [
+      {
+        "text": "Лос-Анджелес Гэлакси",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 1,
+    "text": "MLS",
+    "true_entities": [
+      {
+        "text": "MLS",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 2,
+    "text": "2018",
+    "true_entities": [
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 3,
+    "text": "27",
+    "true_entities": [
+      {
+        "text": "27",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 4,
+    "text": "22",
+    "true_entities": [
+      {
+        "text": "22",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 11,
+    "text": "27",
+    "true_entities": [
+      {
+        "text": "27",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 31,
+    "col": 12,
+    "text": "22",
+    "true_entities": [
+      {
+        "text": "22",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 0,
+    "text": "Лос-Анджелес Гэлакси",
+    "true_entities": [
+      {
+        "text": "Лос-Анджелес Гэлакси",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 1,
+    "text": "MLS",
+    "true_entities": [
+      {
+        "text": "MLS",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 2,
+    "text": "2019",
+    "true_entities": [
+      {
+        "text": "2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 3,
+    "text": "31",
+    "true_entities": [
+      {
+        "text": "31",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 4,
+    "text": "31",
+    "true_entities": [
+      {
+        "text": "31",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 11,
+    "text": "31",
+    "true_entities": [
+      {
+        "text": "31",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 32,
+    "col": 12,
+    "text": "31",
+    "true_entities": [
+      {
+        "text": "31",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 0,
+    "text": "Лос-Анджелес Гэлакси",
+    "true_entities": [
+      {
+        "text": "Лос-Анджелес Гэлакси",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 3,
+    "text": "58",
+    "true_entities": [
+      {
+        "text": "58",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 4,
+    "text": "53",
+    "true_entities": [
+      {
+        "text": "53",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 6,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 11,
+    "text": "58",
+    "true_entities": [
+      {
+        "text": "58",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 33,
+    "col": 12,
+    "text": "53",
+    "true_entities": [
+      {
+        "text": "53",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 0,
+    "text": "Милан",
+    "true_entities": [
+      {
+        "text": "Милан",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 1,
+    "text": "Серия А",
+    "true_entities": [
+      {
+        "text": "Серия А",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 2,
+    "text": "2019/20",
+    "true_entities": [
+      {
+        "text": "2019/20",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 3,
+    "text": "18",
+    "true_entities": [
+      {
+        "text": "18",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 4,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 6,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 11,
+    "text": "20",
+    "true_entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 34,
+    "col": 12,
+    "text": "11",
+    "true_entities": [
+      {
+        "text": "11",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 0,
+    "text": "Милан",
+    "true_entities": [
+      {
+        "text": "Милан",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 1,
+    "text": "Серия А",
+    "true_entities": [
+      {
+        "text": "Серия А",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 2,
+    "text": "2020/21",
+    "true_entities": [
+      {
+        "text": "2020/21",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 3,
+    "text": "19",
+    "true_entities": [
+      {
+        "text": "19",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 4,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 6,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 7,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 8,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 11,
+    "text": "27",
+    "true_entities": [
+      {
+        "text": "27",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 35,
+    "col": 12,
+    "text": "17",
+    "true_entities": [
+      {
+        "text": "17",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 0,
+    "text": "Милан",
+    "true_entities": [
+      {
+        "text": "Милан",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 1,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 2,
+    "text": "Итого",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 3,
+    "text": "37",
+    "true_entities": [
+      {
+        "text": "37",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 4,
+    "text": "25",
+    "true_entities": [
+      {
+        "text": "25",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 5,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 6,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 7,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 8,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 9,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 10,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 11,
+    "text": "47",
+    "true_entities": [
+      {
+        "text": "47",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 36,
+    "col": 12,
+    "text": "28",
+    "true_entities": [
+      {
+        "text": "28",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 0,
+    "text": "Всего за карьеру",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 1,
+    "text": "Всего за карьеру",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 2,
+    "text": "Всего за карьеру",
+    "true_entities": []
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 3,
+    "text": "612",
+    "true_entities": [
+      {
+        "text": "612",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 4,
+    "text": "397",
+    "true_entities": [
+      {
+        "text": "397",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 5,
+    "text": "47",
+    "true_entities": [
+      {
+        "text": "47",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 6,
+    "text": "33",
+    "true_entities": [
+      {
+        "text": "33",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 7,
+    "text": "145",
+    "true_entities": [
+      {
+        "text": "145",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 8,
+    "text": "57",
+    "true_entities": [
+      {
+        "text": "57",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 9,
+    "text": "31",
+    "true_entities": [
+      {
+        "text": "31",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 10,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 11,
+    "text": "835",
+    "true_entities": [
+      {
+        "text": "835",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 50,
+    "row": 37,
+    "col": 12,
+    "text": "502",
+    "true_entities": [
+      {
+        "text": "502",
+        "label": "QUANTITY"
+      }
+    ]
+  }
+]

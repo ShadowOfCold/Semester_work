@@ -1,0 +1,266 @@
+[
+  {
+    "table_id": 48,
+    "row": 1,
+    "col": 0,
+    "text": "Национальное объединение независимых",
+    "true_entities": [
+      {
+        "text": "Национальное объединение независимых",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 1,
+    "col": 1,
+    "text": "102[2]",
+    "true_entities": [
+      {
+        "text": "102",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 2,
+    "col": 0,
+    "text": "Партия подлинности и современности[en]",
+    "true_entities": [
+      {
+        "text": "Партия подлинности и современности",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 2,
+    "col": 1,
+    "text": "87",
+    "true_entities": [
+      {
+        "text": "87",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 3,
+    "col": 0,
+    "text": "Истикляль",
+    "true_entities": [
+      {
+        "text": "Истикляль",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 3,
+    "col": 1,
+    "text": "81",
+    "true_entities": [
+      {
+        "text": "81",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 4,
+    "col": 0,
+    "text": "Социалистический союз народных сил",
+    "true_entities": [
+      {
+        "text": "Социалистический союз народных сил",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 4,
+    "col": 1,
+    "text": "34",
+    "true_entities": [
+      {
+        "text": "34",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 5,
+    "col": 0,
+    "text": "Народное движение[en]",
+    "true_entities": [
+      {
+        "text": "Народное движение",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 5,
+    "col": 1,
+    "text": "28",
+    "true_entities": [
+      {
+        "text": "28",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 6,
+    "col": 0,
+    "text": "Партия прогресса и социализма",
+    "true_entities": [
+      {
+        "text": "Партия прогресса и социализма",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 6,
+    "col": 1,
+    "text": "22",
+    "true_entities": [
+      {
+        "text": "22",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 7,
+    "col": 0,
+    "text": "Конституционный союз[en]",
+    "true_entities": [
+      {
+        "text": "Конституционный союз",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 7,
+    "col": 1,
+    "text": "18",
+    "true_entities": [
+      {
+        "text": "18",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 8,
+    "col": 0,
+    "text": "Партия справедливости и развития",
+    "true_entities": [
+      {
+        "text": "Партия справедливости и развития",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 8,
+    "col": 1,
+    "text": "13[1][2]",
+    "true_entities": [
+      {
+        "text": "13",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 9,
+    "col": 0,
+    "text": "Демократическое и социальное движение[en]",
+    "true_entities": [
+      {
+        "text": "Демократическое и социальное движение",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 9,
+    "col": 1,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 10,
+    "col": 0,
+    "text": "Федерация демократических левых[fr]",
+    "true_entities": [
+      {
+        "text": "Федерация демократических левых",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 10,
+    "col": 1,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 11,
+    "col": 0,
+    "text": "Объединённая социалистическая партия[en]",
+    "true_entities": [
+      {
+        "text": "Объединённая социалистическая партия",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 48,
+    "row": 11,
+    "col": 1,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  }
+]

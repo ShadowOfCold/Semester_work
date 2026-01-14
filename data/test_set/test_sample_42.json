@@ -1,0 +1,1032 @@
+[
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 0,
+    "text": "1",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 1,
+    "text": "Калле Рованпера",
+    "true_entities": [
+      {
+        "text": "Калле Рованпера",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 2,
+    "text": "Йонне Халттунен",
+    "true_entities": [
+      {
+        "text": "Йонне Халттунен",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 3,
+    "text": "Toyota Gazoo Racing WRT",
+    "true_entities": [
+      {
+        "text": "Toyota Gazoo Racing WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 4,
+    "text": "Toyota Yaris WRC",
+    "true_entities": [
+      {
+        "text": "Toyota Yaris WRC",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 5,
+    "text": "WRC",
+    "true_entities": [
+      {
+        "text": "WRC",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 6,
+    "text": "3:28:24.6",
+    "true_entities": [
+      {
+        "text": "3:28:24.6",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 7,
+    "text": "+42.1",
+    "true_entities": [
+      {
+        "text": "+42.1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 8,
+    "text": "30",
+    "true_entities": [
+      {
+        "text": "30",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 0,
+    "text": "2",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 1,
+    "text": "Отт Тянак",
+    "true_entities": [
+      {
+        "text": "Отт Тянак",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 2,
+    "text": "Мартин Ярвеойя",
+    "true_entities": [
+      {
+        "text": "Мартин Ярвеойя",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 3,
+    "text": "Hyundai Shell Mobis WRT",
+    "true_entities": [
+      {
+        "text": "Hyundai Shell Mobis WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 4,
+    "text": "Hyundai i20 Coupe WRC",
+    "true_entities": [
+      {
+        "text": "Hyundai i20 Coupe WRC",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 5,
+    "text": "WRC",
+    "true_entities": [
+      {
+        "text": "WRC",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 6,
+    "text": "3:29:06.7",
+    "true_entities": [
+      {
+        "text": "3:29:06.7",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 7,
+    "text": "+42.1",
+    "true_entities": [
+      {
+        "text": "+42.1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 8,
+    "text": "19",
+    "true_entities": [
+      {
+        "text": "19",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 0,
+    "text": "3",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 1,
+    "text": "Себастьен Ожье",
+    "true_entities": [
+      {
+        "text": "Себастьен Ожье",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 2,
+    "text": "Жюльен Инграссия",
+    "true_entities": [
+      {
+        "text": "Жюльен Инграссия",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 3,
+    "text": "Toyota Gazoo Racing WRT",
+    "true_entities": [
+      {
+        "text": "Toyota Gazoo Racing WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 4,
+    "text": "Toyota Yaris WRC",
+    "true_entities": [
+      {
+        "text": "Toyota Yaris WRC",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 5,
+    "text": "WRC",
+    "true_entities": [
+      {
+        "text": "WRC",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 6,
+    "text": "3:29:35.9",
+    "true_entities": [
+      {
+        "text": "3:29:35.9",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 7,
+    "text": "+1:11.3",
+    "true_entities": [
+      {
+        "text": "+1:11.3",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 8,
+    "text": "18",
+    "true_entities": [
+      {
+        "text": "18",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 0,
+    "text": "4",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 1,
+    "text": "Дани Сордо",
+    "true_entities": [
+      {
+        "text": "Дани Сордо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 2,
+    "text": "Борха Росада",
+    "true_entities": [
+      {
+        "text": "Борха Росада",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 3,
+    "text": "Hyundai Shell Mobis WRT",
+    "true_entities": [
+      {
+        "text": "Hyundai Shell Mobis WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 4,
+    "text": "Hyundai i20 Coupe WRC",
+    "true_entities": [
+      {
+        "text": "Hyundai i20 Coupe WRC",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 5,
+    "text": "WRC",
+    "true_entities": [
+      {
+        "text": "WRC",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 6,
+    "text": "3:31:25.6",
+    "true_entities": [
+      {
+        "text": "3:31:25.6",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 7,
+    "text": "+3:01.0",
+    "true_entities": [
+      {
+        "text": "+3:01.0",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 8,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 0,
+    "text": "5",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 1,
+    "text": "Гас Гринсмит",
+    "true_entities": [
+      {
+        "text": "Гас Гринсмит",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 2,
+    "text": "Крис Паттерсон",
+    "true_entities": [
+      {
+        "text": "Крис Паттерсон",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 3,
+    "text": "M-Sport Ford WRT",
+    "true_entities": [
+      {
+        "text": "M-Sport Ford WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 4,
+    "text": "Ford Fiesta WRC",
+    "true_entities": [
+      {
+        "text": "Ford Fiesta WRC",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 5,
+    "text": "WRC",
+    "true_entities": [
+      {
+        "text": "WRC",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 6,
+    "text": "3:34:09.6",
+    "true_entities": [
+      {
+        "text": "3:34:09.6",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 7,
+    "text": "+5:45.0",
+    "true_entities": [
+      {
+        "text": "+5:45.0",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 8,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 0,
+    "text": "6",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 1,
+    "text": "Элфин Эванс",
+    "true_entities": [
+      {
+        "text": "Элфин Эванс",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 2,
+    "text": "Скотт Мартин",
+    "true_entities": [
+      {
+        "text": "Скотт Мартин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 3,
+    "text": "Toyota Gazoo Racing WRT",
+    "true_entities": [
+      {
+        "text": "Toyota Gazoo Racing WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 4,
+    "text": "Toyota Yaris WRC",
+    "true_entities": [
+      {
+        "text": "Toyota Yaris WRC",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 5,
+    "text": "WRC",
+    "true_entities": [
+      {
+        "text": "WRC",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 6,
+    "text": "3:35:07.3",
+    "true_entities": [
+      {
+        "text": "3:35:07.3",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 7,
+    "text": "+6:42.7",
+    "true_entities": [
+      {
+        "text": "+6:42.7",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 8,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 0,
+    "text": "7",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 1,
+    "text": "Адриен Фурмо",
+    "true_entities": [
+      {
+        "text": "Адриен Фурмо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 2,
+    "text": "Рено Жамуль",
+    "true_entities": [
+      {
+        "text": "Рено Жамуль",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 3,
+    "text": "M-Sport Ford WRT",
+    "true_entities": [
+      {
+        "text": "M-Sport Ford WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 4,
+    "text": "Ford Fiesta WRC",
+    "true_entities": [
+      {
+        "text": "Ford Fiesta WRC",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 5,
+    "text": "WRC",
+    "true_entities": [
+      {
+        "text": "WRC",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 6,
+    "text": "3:35:19.0",
+    "true_entities": [
+      {
+        "text": "3:35:19.0",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 7,
+    "text": "+6:54.4",
+    "true_entities": [
+      {
+        "text": "+6:54.4",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 8,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 0,
+    "text": "8",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 1,
+    "text": "Тьерри Невилль",
+    "true_entities": [
+      {
+        "text": "Тьерри Невилль",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 2,
+    "text": "Мартин Вайдаег",
+    "true_entities": [
+      {
+        "text": "Мартин Вайдаег",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 3,
+    "text": "Hyundai Shell Mobis WRT",
+    "true_entities": [
+      {
+        "text": "Hyundai Shell Mobis WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 4,
+    "text": "Hyundai i20 Coupe WRC",
+    "true_entities": [
+      {
+        "text": "Hyundai i20 Coupe WRC",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 5,
+    "text": "WRC",
+    "true_entities": [
+      {
+        "text": "WRC",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 6,
+    "text": "3:37:05.7",
+    "true_entities": [
+      {
+        "text": "3:37:05.7",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 7,
+    "text": "+8:41.1",
+    "true_entities": [
+      {
+        "text": "+8:41.1",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 8,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 0,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 1,
+    "text": "Андреас Миккельсен",
+    "true_entities": [
+      {
+        "text": "Андреас Миккельсен",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 2,
+    "text": "Элиотт Эдмондсон",
+    "true_entities": [
+      {
+        "text": "Элиотт Эдмондсон",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 3,
+    "text": "Toksport WRT",
+    "true_entities": [
+      {
+        "text": "Toksport WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 4,
+    "text": "Škoda Fabia R5 Evo",
+    "true_entities": [
+      {
+        "text": "Škoda Fabia R5 Evo",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 5,
+    "text": "WRC-2",
+    "true_entities": [
+      {
+        "text": "WRC-2",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 6,
+    "text": "3:37:27.1",
+    "true_entities": [
+      {
+        "text": "3:37:27.1",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 7,
+    "text": "+9:02.5",
+    "true_entities": [
+      {
+        "text": "+9:02.5",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 8,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 0,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 1,
+    "text": "Марко Буласиа Уилкинсон",
+    "true_entities": [
+      {
+        "text": "Марко Буласиа Уилкинсон",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 2,
+    "text": "Марсело Дер Оганесян",
+    "true_entities": [
+      {
+        "text": "Марсело Дер Оганесян",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 3,
+    "text": "Toksport WRT",
+    "true_entities": [
+      {
+        "text": "Toksport WRT",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 4,
+    "text": "Škoda Fabia R5 Evo",
+    "true_entities": [
+      {
+        "text": "Škoda Fabia R5 Evo",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 5,
+    "text": "WRC-2",
+    "true_entities": [
+      {
+        "text": "WRC-2",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 6,
+    "text": "3:37:43.8",
+    "true_entities": [
+      {
+        "text": "3:37:43.8",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 7,
+    "text": "+9:19.2",
+    "true_entities": [
+      {
+        "text": "+9:19.2",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 8,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  }
+]

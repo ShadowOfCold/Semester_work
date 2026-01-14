@@ -1,0 +1,346 @@
+[
+  {
+    "table_id": 44,
+    "row": 1,
+    "col": 0,
+    "text": "Австрия (Ö3 Austria)[17]",
+    "true_entities": [
+      {
+        "text": "Австрия",
+        "label": "GPE"
+      },
+      {
+        "text": "Ö3 Austria",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 1,
+    "col": 1,
+    "text": "20",
+    "true_entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 2,
+    "col": 0,
+    "text": "Бельгия/Фландрия (Ultratop)[18]",
+    "true_entities": [
+      {
+        "text": "Бельгия",
+        "label": "GPE"
+      },
+      {
+        "text": "Фландрия",
+        "label": "GPE"
+      },
+      {
+        "text": "Ultratop",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 2,
+    "col": 1,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 3,
+    "col": 0,
+    "text": "Бельгия/Валлония (Ultratop)[19]",
+    "true_entities": [
+      {
+        "text": "Бельгия",
+        "label": "GPE"
+      },
+      {
+        "text": "Валлония",
+        "label": "GPE"
+      },
+      {
+        "text": "Ultratop",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 3,
+    "col": 1,
+    "text": "43",
+    "true_entities": [
+      {
+        "text": "43",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 4,
+    "col": 0,
+    "text": "Нидерланды (MegaCharts)[20]",
+    "true_entities": [
+      {
+        "text": "Нидерланды",
+        "label": "GPE"
+      },
+      {
+        "text": "MegaCharts",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 4,
+    "col": 1,
+    "text": "34",
+    "true_entities": [
+      {
+        "text": "34",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 5,
+    "col": 0,
+    "text": "Франция (SNEP)[21]",
+    "true_entities": [
+      {
+        "text": "Франция",
+        "label": "GPE"
+      },
+      {
+        "text": "SNEP",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 5,
+    "col": 1,
+    "text": "59",
+    "true_entities": [
+      {
+        "text": "59",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 6,
+    "col": 0,
+    "text": "Германия (Offizielle Top 100)[22]",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      },
+      {
+        "text": "Offizielle Top 100",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 6,
+    "col": 1,
+    "text": "27",
+    "true_entities": [
+      {
+        "text": "27",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 7,
+    "col": 0,
+    "text": "Ирландия (IRMA)[23]",
+    "true_entities": [
+      {
+        "text": "Ирландия",
+        "label": "GPE"
+      },
+      {
+        "text": "IRMA",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 7,
+    "col": 1,
+    "text": "99",
+    "true_entities": [
+      {
+        "text": "99",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 8,
+    "col": 0,
+    "text": "Норвегия (VG-lista)[24]",
+    "true_entities": [
+      {
+        "text": "Норвегия",
+        "label": "GPE"
+      },
+      {
+        "text": "VG-lista",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 8,
+    "col": 1,
+    "text": "32",
+    "true_entities": [
+      {
+        "text": "32",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 9,
+    "col": 0,
+    "text": "Шотландия (Scottish Albums)[25]",
+    "true_entities": [
+      {
+        "text": "Шотландия",
+        "label": "GPE"
+      },
+      {
+        "text": "Scottish Albums",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 9,
+    "col": 1,
+    "text": "23",
+    "true_entities": [
+      {
+        "text": "23",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 10,
+    "col": 0,
+    "text": "Испания (PROMUSICAE)[26]",
+    "true_entities": [
+      {
+        "text": "Испания",
+        "label": "GPE"
+      },
+      {
+        "text": "PROMUSICAE",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 10,
+    "col": 1,
+    "text": "85",
+    "true_entities": [
+      {
+        "text": "85",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 11,
+    "col": 0,
+    "text": "Швейцария (Schweizer Hitparade)[27]",
+    "true_entities": [
+      {
+        "text": "Швейцария",
+        "label": "GPE"
+      },
+      {
+        "text": "Schweizer Hitparade",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 11,
+    "col": 1,
+    "text": "14",
+    "true_entities": [
+      {
+        "text": "14",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 12,
+    "col": 0,
+    "text": "Великобритания (UK Albums)[28]",
+    "true_entities": [
+      {
+        "text": "Великобритания",
+        "label": "GPE"
+      },
+      {
+        "text": "UK Albums",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 12,
+    "col": 1,
+    "text": "44",
+    "true_entities": [
+      {
+        "text": "44",
+        "label": "QUANTITY"
+      }
+    ]
+  }
+]

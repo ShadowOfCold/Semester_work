@@ -1,0 +1,2324 @@
+[
+  {
+    "table_id": 57,
+    "row": 3,
+    "col": 0,
+    "text": "1",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 3,
+    "col": 1,
+    "text": "1987.0",
+    "true_entities": [
+      {
+        "text": "1987",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 3,
+    "col": 2,
+    "text": "14",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 3,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 4,
+    "col": 0,
+    "text": "3",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 4,
+    "col": 1,
+    "text": "1980.0",
+    "true_entities": [
+      {
+        "text": "1980",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 4,
+    "col": 2,
+    "text": "14",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 4,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 5,
+    "col": 0,
+    "text": "4",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 5,
+    "col": 1,
+    "text": "1989.0",
+    "true_entities": [
+      {
+        "text": "1989",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 5,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 5,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 6,
+    "col": 0,
+    "text": "5",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 6,
+    "col": 1,
+    "text": "1992.0",
+    "true_entities": [
+      {
+        "text": "1992",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 6,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 6,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 7,
+    "col": 0,
+    "text": "6",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 7,
+    "col": 1,
+    "text": "1985.0",
+    "true_entities": [
+      {
+        "text": "1985",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 7,
+    "col": 2,
+    "text": "14",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 7,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 8,
+    "col": 0,
+    "text": "7",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 8,
+    "col": 1,
+    "text": "2003.0",
+    "true_entities": [
+      {
+        "text": "2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 8,
+    "col": 2,
+    "text": "14",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 8,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 9,
+    "col": 0,
+    "text": "10/8",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 9,
+    "col": 1,
+    "text": "2000.0",
+    "true_entities": [
+      {
+        "text": "2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 9,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 9,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 10,
+    "col": 0,
+    "text": "11",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 10,
+    "col": 1,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 10,
+    "col": 2,
+    "text": "8",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 10,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 11,
+    "col": 0,
+    "text": "12",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 11,
+    "col": 1,
+    "text": "2012.0",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 11,
+    "col": 2,
+    "text": "16-18",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 11,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 12,
+    "col": 0,
+    "text": "13/14",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 12,
+    "col": 1,
+    "text": "2002.0",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 12,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 12,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 13,
+    "col": 0,
+    "text": "14",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 13,
+    "col": 1,
+    "text": "2012.0",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 13,
+    "col": 2,
+    "text": "16-18",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 13,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 14,
+    "col": 0,
+    "text": "15",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 14,
+    "col": 1,
+    "text": "2002.0",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 14,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 14,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 15,
+    "col": 0,
+    "text": "16/15",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 15,
+    "col": 1,
+    "text": "2011.0",
+    "true_entities": [
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 15,
+    "col": 2,
+    "text": "16",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 15,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 16,
+    "col": 0,
+    "text": "17",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 16,
+    "col": 1,
+    "text": "2000.0",
+    "true_entities": [
+      {
+        "text": "2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 16,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 16,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 17,
+    "col": 0,
+    "text": "19",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 17,
+    "col": 1,
+    "text": "2001.0",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 17,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 17,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 18,
+    "col": 0,
+    "text": "20/12",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 18,
+    "col": 1,
+    "text": "2003.0",
+    "true_entities": [
+      {
+        "text": "2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 18,
+    "col": 2,
+    "text": "8",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 18,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 19,
+    "col": 0,
+    "text": "20А",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 19,
+    "col": 1,
+    "text": "2005.0",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 19,
+    "col": 2,
+    "text": "7",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 19,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 20,
+    "col": 0,
+    "text": "20Б",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 20,
+    "col": 1,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 20,
+    "col": 2,
+    "text": "7",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 20,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 21,
+    "col": 0,
+    "text": "22",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 21,
+    "col": 1,
+    "text": "2012.0",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 21,
+    "col": 2,
+    "text": "16",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 21,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 22,
+    "col": 0,
+    "text": "23",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 22,
+    "col": 1,
+    "text": "2003.0",
+    "true_entities": [
+      {
+        "text": "2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 22,
+    "col": 2,
+    "text": "16",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 22,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 23,
+    "col": 0,
+    "text": "25",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 23,
+    "col": 1,
+    "text": "2003.0",
+    "true_entities": [
+      {
+        "text": "2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 23,
+    "col": 2,
+    "text": "16",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 23,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 24,
+    "col": 0,
+    "text": "26/5",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 24,
+    "col": 1,
+    "text": "2005.0",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 24,
+    "col": 2,
+    "text": "5",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 24,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 25,
+    "col": 0,
+    "text": "27",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 25,
+    "col": 1,
+    "text": "1996.0",
+    "true_entities": [
+      {
+        "text": "1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 25,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 25,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 26,
+    "col": 0,
+    "text": "28",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 26,
+    "col": 1,
+    "text": "2004.0",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 26,
+    "col": 2,
+    "text": "5",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 26,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 27,
+    "col": 0,
+    "text": "29",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 27,
+    "col": 1,
+    "text": "1994.0",
+    "true_entities": [
+      {
+        "text": "1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 27,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 27,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 28,
+    "col": 0,
+    "text": "31",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 28,
+    "col": 1,
+    "text": "1996.0",
+    "true_entities": [
+      {
+        "text": "1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 28,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 28,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 29,
+    "col": 0,
+    "text": "33",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 29,
+    "col": 1,
+    "text": "1996.0",
+    "true_entities": [
+      {
+        "text": "1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 29,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 29,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 30,
+    "col": 0,
+    "text": "35",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 30,
+    "col": 1,
+    "text": "1996.0",
+    "true_entities": [
+      {
+        "text": "1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 30,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 30,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 31,
+    "col": 0,
+    "text": "36",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 31,
+    "col": 1,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 31,
+    "col": 2,
+    "text": "16",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 31,
+    "col": 3,
+    "text": "ЖК «Магеллан» — дом «Северная Америка»",
+    "true_entities": [
+      {
+        "text": "ЖК «Магеллан»",
+        "label": "ORG"
+      },
+      {
+        "text": "Северная Америка",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 32,
+    "col": 0,
+    "text": "37",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 32,
+    "col": 1,
+    "text": "1996.0",
+    "true_entities": [
+      {
+        "text": "1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 32,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 32,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 33,
+    "col": 0,
+    "text": "38",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 33,
+    "col": 1,
+    "text": "2011.0",
+    "true_entities": [
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 33,
+    "col": 2,
+    "text": "22",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 33,
+    "col": 3,
+    "text": "ЖК «Магеллан», дом «Австралия»",
+    "true_entities": [
+      {
+        "text": "ЖК «Магеллан»",
+        "label": "ORG"
+      },
+      {
+        "text": "Австралия",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 34,
+    "col": 0,
+    "text": "39",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 34,
+    "col": 1,
+    "text": "1996.0",
+    "true_entities": [
+      {
+        "text": "1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 34,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 34,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 35,
+    "col": 0,
+    "text": "40",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 35,
+    "col": 1,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 35,
+    "col": 2,
+    "text": "16",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 35,
+    "col": 3,
+    "text": "ЖК «Магеллан» — дом «Южная Америка»",
+    "true_entities": [
+      {
+        "text": "ЖК «Магеллан»",
+        "label": "ORG"
+      },
+      {
+        "text": "Южная Америка",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 36,
+    "col": 0,
+    "text": "41",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 36,
+    "col": 1,
+    "text": "1997.0",
+    "true_entities": [
+      {
+        "text": "1997",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 36,
+    "col": 2,
+    "text": "8",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 36,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 37,
+    "col": 0,
+    "text": "43",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 37,
+    "col": 1,
+    "text": "1997.0",
+    "true_entities": [
+      {
+        "text": "1997",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 37,
+    "col": 2,
+    "text": "8",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 37,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 38,
+    "col": 0,
+    "text": "45",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 38,
+    "col": 1,
+    "text": "1998.0",
+    "true_entities": [
+      {
+        "text": "1998",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 38,
+    "col": 2,
+    "text": "5",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 38,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 39,
+    "col": 0,
+    "text": "47",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 39,
+    "col": 1,
+    "text": "1994.0",
+    "true_entities": [
+      {
+        "text": "1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 39,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 39,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 40,
+    "col": 0,
+    "text": "49",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 40,
+    "col": 1,
+    "text": "1994.0",
+    "true_entities": [
+      {
+        "text": "1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 40,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 40,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 41,
+    "col": 0,
+    "text": "51",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 41,
+    "col": 1,
+    "text": "1994.0",
+    "true_entities": [
+      {
+        "text": "1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 41,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 41,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 42,
+    "col": 0,
+    "text": "53",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 42,
+    "col": 1,
+    "text": "1994.0",
+    "true_entities": [
+      {
+        "text": "1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 42,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 42,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 43,
+    "col": 0,
+    "text": "55",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 43,
+    "col": 1,
+    "text": "1994.0",
+    "true_entities": [
+      {
+        "text": "1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 43,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 43,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 44,
+    "col": 0,
+    "text": "57",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 44,
+    "col": 1,
+    "text": "1994.0",
+    "true_entities": [
+      {
+        "text": "1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 44,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 44,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 45,
+    "col": 0,
+    "text": "59",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 45,
+    "col": 1,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 45,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 45,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 46,
+    "col": 0,
+    "text": "60",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 46,
+    "col": 1,
+    "text": "2006.0",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 46,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 46,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 47,
+    "col": 0,
+    "text": "61",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 47,
+    "col": 1,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 47,
+    "col": 2,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 47,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 48,
+    "col": 0,
+    "text": "61А",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 48,
+    "col": 1,
+    "text": "2013.0",
+    "true_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 48,
+    "col": 2,
+    "text": "25",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 48,
+    "col": 3,
+    "text": "ЖК «Миллениум-Сити»",
+    "true_entities": [
+      {
+        "text": "ЖК «Миллениум-Сити»",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 49,
+    "col": 0,
+    "text": "61Б",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 49,
+    "col": 1,
+    "text": "2013.0",
+    "true_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 49,
+    "col": 2,
+    "text": "19",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 49,
+    "col": 3,
+    "text": "ЖК «Миллениум-Сити»",
+    "true_entities": [
+      {
+        "text": "ЖК «Миллениум-Сити»",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 50,
+    "col": 0,
+    "text": "62",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 50,
+    "col": 1,
+    "text": "2006.0",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 50,
+    "col": 2,
+    "text": "13",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 50,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 51,
+    "col": 0,
+    "text": "63",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 51,
+    "col": 1,
+    "text": "2007.0",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 51,
+    "col": 2,
+    "text": "26",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 51,
+    "col": 3,
+    "text": "ЖК «Миллениум-Сити»",
+    "true_entities": [
+      {
+        "text": "ЖК «Миллениум-Сити»",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 52,
+    "col": 0,
+    "text": "63А",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 52,
+    "col": 1,
+    "text": "2007.0",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 52,
+    "col": 2,
+    "text": "20",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 52,
+    "col": 3,
+    "text": "ЖК «Миллениум-Сити»",
+    "true_entities": [
+      {
+        "text": "ЖК «Миллениум-Сити»",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 53,
+    "col": 0,
+    "text": "64",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 53,
+    "col": 1,
+    "text": "2010.0",
+    "true_entities": [
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 53,
+    "col": 2,
+    "text": "14",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 53,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 54,
+    "col": 0,
+    "text": "66",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 54,
+    "col": 1,
+    "text": "2008.0",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 54,
+    "col": 2,
+    "text": "11",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 54,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 55,
+    "col": 0,
+    "text": "69А",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 55,
+    "col": 1,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 55,
+    "col": 2,
+    "text": "19",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 55,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 56,
+    "col": 0,
+    "text": "70",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 56,
+    "col": 1,
+    "text": "2008.0",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 56,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 56,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 57,
+    "col": 0,
+    "text": "71/1А",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 57,
+    "col": 1,
+    "text": "2012.0",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 57,
+    "col": 2,
+    "text": "19",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 57,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 58,
+    "col": 0,
+    "text": "71А",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 58,
+    "col": 1,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 58,
+    "col": 2,
+    "text": "19",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 58,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 59,
+    "col": 0,
+    "text": "72",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 59,
+    "col": 1,
+    "text": "2007.0",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 59,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 59,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 60,
+    "col": 0,
+    "text": "73",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 60,
+    "col": 1,
+    "text": "2004.0",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 60,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 60,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 61,
+    "col": 0,
+    "text": "74",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 61,
+    "col": 1,
+    "text": "2008.0",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 61,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 61,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 62,
+    "col": 0,
+    "text": "75",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 62,
+    "col": 1,
+    "text": "2005.0",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 62,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 62,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 63,
+    "col": 0,
+    "text": "76",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 63,
+    "col": 1,
+    "text": "2009.0",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 63,
+    "col": 2,
+    "text": "18",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 63,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 64,
+    "col": 0,
+    "text": "77/2",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 64,
+    "col": 1,
+    "text": "2004.0",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 64,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 64,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 65,
+    "col": 0,
+    "text": "79",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 65,
+    "col": 1,
+    "text": "2008.0",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 65,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 65,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 66,
+    "col": 0,
+    "text": "81",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 66,
+    "col": 1,
+    "text": "2006.0",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 66,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 66,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 67,
+    "col": 0,
+    "text": "82",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 67,
+    "col": 1,
+    "text": "2007.0",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 67,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 67,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 68,
+    "col": 0,
+    "text": "84/11",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 68,
+    "col": 1,
+    "text": "2008.0",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 68,
+    "col": 2,
+    "text": "14",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 68,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 69,
+    "col": 0,
+    "text": "85",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 69,
+    "col": 1,
+    "text": "2007.0",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 69,
+    "col": 2,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 69,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 70,
+    "col": 0,
+    "text": "85А",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 70,
+    "col": 1,
+    "text": "2007.0",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 70,
+    "col": 2,
+    "text": "14",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 70,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 71,
+    "col": 0,
+    "text": "86",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 71,
+    "col": 1,
+    "text": "2009.0",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 71,
+    "col": 2,
+    "text": "12",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 71,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 72,
+    "col": 0,
+    "text": "88",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 72,
+    "col": 1,
+    "text": "2016.0",
+    "true_entities": [
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 57,
+    "row": 72,
+    "col": 2,
+    "text": "22",
+    "true_entities": []
+  },
+  {
+    "table_id": 57,
+    "row": 72,
+    "col": 3,
+    "text": "ЖК «Столичный», дом № 1",
+    "true_entities": [
+      {
+        "text": "ЖК «Столичный»",
+        "label": "ORG"
+      }
+    ]
+  }
+]

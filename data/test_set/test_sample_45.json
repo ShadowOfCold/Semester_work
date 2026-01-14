@@ -1,0 +1,362 @@
+[
+  {
+    "table_id": 45,
+    "row": 1,
+    "col": 0,
+    "text": "Итальянцы",
+    "true_entities": [
+      {
+        "text": "Итальянцы",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 1,
+    "col": 1,
+    "text": "56 153 773",
+    "true_entities": [
+      {
+        "text": "56 153 773",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 1,
+    "col": 2,
+    "text": "93,52 %",
+    "true_entities": [
+      {
+        "text": "93,52 %",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 2,
+    "col": 0,
+    "text": "Румыны",
+    "true_entities": [
+      {
+        "text": "Румыны",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 2,
+    "col": 1,
+    "text": "796 477",
+    "true_entities": [
+      {
+        "text": "796 477",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 2,
+    "col": 2,
+    "text": "1,32 %",
+    "true_entities": [
+      {
+        "text": "1,32 %",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 3,
+    "col": 0,
+    "text": "Североафриканцы",
+    "true_entities": [
+      {
+        "text": "Североафриканцы",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 3,
+    "col": 1,
+    "text": "606 556",
+    "true_entities": [
+      {
+        "text": "606 556",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 3,
+    "col": 2,
+    "text": "1,01 %",
+    "true_entities": [
+      {
+        "text": "1,01 %",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 4,
+    "col": 0,
+    "text": "Албанцы",
+    "true_entities": [
+      {
+        "text": "Албанцы",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 4,
+    "col": 1,
+    "text": "441 396",
+    "true_entities": [
+      {
+        "text": "441 396",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 4,
+    "col": 2,
+    "text": "0,73 %",
+    "true_entities": [
+      {
+        "text": "0,73 %",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 5,
+    "col": 0,
+    "text": "Китайцы",
+    "true_entities": [
+      {
+        "text": "Китайцы",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 5,
+    "col": 1,
+    "text": "170 265",
+    "true_entities": [
+      {
+        "text": "170 265",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 5,
+    "col": 2,
+    "text": "0,28 %",
+    "true_entities": [
+      {
+        "text": "0,28 %",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 6,
+    "col": 0,
+    "text": "Украинцы",
+    "true_entities": [
+      {
+        "text": "Украинцы",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 6,
+    "col": 1,
+    "text": "153 998",
+    "true_entities": [
+      {
+        "text": "153 998",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 6,
+    "col": 2,
+    "text": "0,26 %",
+    "true_entities": [
+      {
+        "text": "0,26 %",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 7,
+    "col": 0,
+    "text": "Азиаты (не считая китайцев)",
+    "true_entities": [
+      {
+        "text": "Азиаты",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 7,
+    "col": 1,
+    "text": "445 795",
+    "true_entities": [
+      {
+        "text": "445 795",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 7,
+    "col": 2,
+    "text": "0,74 %",
+    "true_entities": [
+      {
+        "text": "0,74 %",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 8,
+    "col": 0,
+    "text": "Латиноамериканцы",
+    "true_entities": [
+      {
+        "text": "Латиноамериканцы",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 8,
+    "col": 1,
+    "text": "298 860",
+    "true_entities": [
+      {
+        "text": "298 860",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 8,
+    "col": 2,
+    "text": "0,50 %",
+    "true_entities": [
+      {
+        "text": "0,50 %",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 9,
+    "col": 0,
+    "text": "Негры южнее Сахары",
+    "true_entities": [
+      {
+        "text": "Негры южнее Сахары",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 9,
+    "col": 1,
+    "text": "264 570",
+    "true_entities": [
+      {
+        "text": "264 570",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 9,
+    "col": 2,
+    "text": "0,44 %",
+    "true_entities": [
+      {
+        "text": "0,44 %",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 10,
+    "col": 0,
+    "text": "другие",
+    "true_entities": [
+      {
+        "text": "другие",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 10,
+    "col": 1,
+    "text": "713 378",
+    "true_entities": [
+      {
+        "text": "713 378",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 10,
+    "col": 2,
+    "text": "1,19 %",
+    "true_entities": [
+      {
+        "text": "1,19 %",
+        "label": "PERCENT"
+      }
+    ]
+  }
+]

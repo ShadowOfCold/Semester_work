@@ -1,0 +1,1458 @@
+[
+  {
+    "table_id": 52,
+    "row": 1,
+    "col": 0,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 1,
+    "col": 1,
+    "text": "Beer Money, Inc.(Роберт Руд и Джеймс Шторм)",
+    "true_entities": [
+      {
+        "text": "Beer Money, Inc.",
+        "label": "ORG"
+      },
+      {
+        "text": "Роберт Руд",
+        "label": "PER"
+      },
+      {
+        "text": "Джеймс Шторм",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 1,
+    "col": 2,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 1,
+    "col": 3,
+    "text": "466",
+    "true_entities": [
+      {
+        "text": "466",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 2,
+    "col": 0,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 2,
+    "col": 1,
+    "text": "\"\"\"The Wolves\"\"(Эдди Эдвардс и Дэйви Ричардс)\"",
+    "true_entities": [
+      {
+        "text": "The Wolves",
+        "label": "ORG"
+      },
+      {
+        "text": "Эдди Эдвардс",
+        "label": "PER"
+      },
+      {
+        "text": "Дэйви Ричардс",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 2,
+    "col": 2,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 2,
+    "col": 3,
+    "text": "298+",
+    "true_entities": [
+      {
+        "text": "298",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 3,
+    "col": 0,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 3,
+    "col": 1,
+    "text": "Christian's Coalition(Эй Джей Стайлз и Томко)",
+    "true_entities": [
+      {
+        "text": "Christian's Coalition",
+        "label": "ORG"
+      },
+      {
+        "text": "Эй Джей Стайлз",
+        "label": "PER"
+      },
+      {
+        "text": "Томко",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 3,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 3,
+    "col": 3,
+    "text": "184",
+    "true_entities": [
+      {
+        "text": "184",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 4,
+    "col": 0,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 4,
+    "col": 1,
+    "text": "The Motor City Machine Guns(Алекс Шелли и Крис Сейбин)",
+    "true_entities": [
+      {
+        "text": "The Motor City Machine Guns",
+        "label": "ORG"
+      },
+      {
+        "text": "Алекс Шелли",
+        "label": "PER"
+      },
+      {
+        "text": "Крис Сейбин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 4,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 4,
+    "col": 3,
+    "text": "182",
+    "true_entities": [
+      {
+        "text": "182",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 5,
+    "col": 0,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 5,
+    "col": 1,
+    "text": "The BroMans(Робби И и Джеси Годдерз)",
+    "true_entities": [
+      {
+        "text": "The BroMans",
+        "label": "ORG"
+      },
+      {
+        "text": "Робби И",
+        "label": "PER"
+      },
+      {
+        "text": "Джеси Годдерз",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 5,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 5,
+    "col": 3,
+    "text": "182",
+    "true_entities": [
+      {
+        "text": "182",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 6,
+    "col": 0,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 6,
+    "col": 1,
+    "text": "Чаво Герреро и Эрнандес",
+    "true_entities": [
+      {
+        "text": "Чаво Герреро",
+        "label": "PER"
+      },
+      {
+        "text": "Эрнандес",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 6,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 6,
+    "col": 3,
+    "text": "155",
+    "true_entities": [
+      {
+        "text": "155",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 7,
+    "col": 0,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 7,
+    "col": 1,
+    "text": "Ганер и Джеймс Шторм",
+    "true_entities": [
+      {
+        "text": "Ганер",
+        "label": "PER"
+      },
+      {
+        "text": "Джеймс Шторм",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 7,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 7,
+    "col": 3,
+    "text": "140",
+    "true_entities": [
+      {
+        "text": "140",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 8,
+    "col": 0,
+    "text": "8",
+    "true_entities": [
+      {
+        "text": "8",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 8,
+    "col": 1,
+    "text": "The World Tag Team Champions of the World(Кристофер Дениелс и Казариан)",
+    "true_entities": [
+      {
+        "text": "The World Tag Team Champions of the World",
+        "label": "ORG"
+      },
+      {
+        "text": "Кристофер Дениелс",
+        "label": "PER"
+      },
+      {
+        "text": "Казариан",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 8,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 8,
+    "col": 3,
+    "text": "136",
+    "true_entities": [
+      {
+        "text": "136",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 9,
+    "col": 0,
+    "text": "9",
+    "true_entities": [
+      {
+        "text": "9",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 9,
+    "col": 1,
+    "text": "Революция(Абисс и Джеймс Шторм",
+    "true_entities": [
+      {
+        "text": "Революция",
+        "label": "ORG"
+      },
+      {
+        "text": "Абисс",
+        "label": "PER"
+      },
+      {
+        "text": "Джеймс Шторм",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 9,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 9,
+    "col": 3,
+    "text": "133",
+    "true_entities": [
+      {
+        "text": "133",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 10,
+    "col": 0,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 10,
+    "col": 1,
+    "text": "Team 3D(Булли Рей и Дивон)",
+    "true_entities": [
+      {
+        "text": "Team 3D",
+        "label": "ORG"
+      },
+      {
+        "text": "Булли Рей",
+        "label": "PER"
+      },
+      {
+        "text": "Дивон",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 10,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 10,
+    "col": 3,
+    "text": "123",
+    "true_entities": [
+      {
+        "text": "123",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 11,
+    "col": 0,
+    "text": "11",
+    "true_entities": [
+      {
+        "text": "11",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 11,
+    "col": 1,
+    "text": "Mexican America(Мэтт Барелла и Эрнандес",
+    "true_entities": [
+      {
+        "text": "Mexican America",
+        "label": "ORG"
+      },
+      {
+        "text": "Мэтт Барелла",
+        "label": "PER"
+      },
+      {
+        "text": "Эрнандес",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 11,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 11,
+    "col": 3,
+    "text": "97",
+    "true_entities": [
+      {
+        "text": "97",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 12,
+    "col": 0,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 12,
+    "col": 1,
+    "text": "The Main Event Mafia(Букер Ти и Скот Штайнер)",
+    "true_entities": [
+      {
+        "text": "The Main Event Mafia",
+        "label": "ORG"
+      },
+      {
+        "text": "Букер Ти",
+        "label": "PER"
+      },
+      {
+        "text": "Скот Штайнер",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 12,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 12,
+    "col": 3,
+    "text": "91",
+    "true_entities": [
+      {
+        "text": "91",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 13,
+    "col": 0,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 13,
+    "col": 1,
+    "text": "The British Invasion(Магнус и Дуглас Вильямс)",
+    "true_entities": [
+      {
+        "text": "The British Invasion",
+        "label": "ORG"
+      },
+      {
+        "text": "Магнус",
+        "label": "PER"
+      },
+      {
+        "text": "Дуглас Вильямс",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 13,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 13,
+    "col": 3,
+    "text": "91",
+    "true_entities": [
+      {
+        "text": "91",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 14,
+    "col": 0,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 14,
+    "col": 1,
+    "text": "The Latin American Xchange(Эрнандес и Хомисайд)",
+    "true_entities": [
+      {
+        "text": "The Latin American Xchange",
+        "label": "ORG"
+      },
+      {
+        "text": "Эрнандес",
+        "label": "PER"
+      },
+      {
+        "text": "Хомисайд",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 14,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 14,
+    "col": 3,
+    "text": "91",
+    "true_entities": [
+      {
+        "text": "91",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 15,
+    "col": 0,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 15,
+    "col": 1,
+    "text": "Магнус и Самоа Джо",
+    "true_entities": [
+      {
+        "text": "Магнус",
+        "label": "PER"
+      },
+      {
+        "text": "Самоа Джо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 15,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 15,
+    "col": 3,
+    "text": "91",
+    "true_entities": [
+      {
+        "text": "91",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 16,
+    "col": 0,
+    "text": "16",
+    "true_entities": [
+      {
+        "text": "16",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 16,
+    "col": 1,
+    "text": "Кримсон и Мэтт Морган",
+    "true_entities": [
+      {
+        "text": "Кримсон",
+        "label": "PER"
+      },
+      {
+        "text": "Мэтт Морган",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 16,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 16,
+    "col": 3,
+    "text": "90",
+    "true_entities": [
+      {
+        "text": "90",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 17,
+    "col": 0,
+    "text": "17",
+    "true_entities": [
+      {
+        "text": "17",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 17,
+    "col": 1,
+    "text": "Эрнандес и Мэтт Морган",
+    "true_entities": [
+      {
+        "text": "Эрнандес",
+        "label": "PER"
+      },
+      {
+        "text": "Мэтт Морган",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 17,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 17,
+    "col": 3,
+    "text": "78",
+    "true_entities": [
+      {
+        "text": "78",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 18,
+    "col": 0,
+    "text": "18",
+    "true_entities": [
+      {
+        "text": "18",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 18,
+    "col": 1,
+    "text": "Бобби Руд и Остин Эйрис",
+    "true_entities": [
+      {
+        "text": "Бобби Руд",
+        "label": "PER"
+      },
+      {
+        "text": "Остин Эйрис",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 18,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 18,
+    "col": 3,
+    "text": "76",
+    "true_entities": [
+      {
+        "text": "76",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 19,
+    "col": 0,
+    "text": "19",
+    "true_entities": [
+      {
+        "text": "19",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 19,
+    "col": 1,
+    "text": "The Hardy Boyz(Мэтт Харди и Джефф Харди)",
+    "true_entities": [
+      {
+        "text": "The Hardy Boyz",
+        "label": "ORG"
+      },
+      {
+        "text": "Мэтт Харди",
+        "label": "PER"
+      },
+      {
+        "text": "Джефф Харди",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 19,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 19,
+    "col": 3,
+    "text": "54",
+    "true_entities": [
+      {
+        "text": "54",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 20,
+    "col": 0,
+    "text": "20",
+    "true_entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 20,
+    "col": 1,
+    "text": "The Band(Эрик Янг, Кевин Нэш, Скотт Холл)",
+    "true_entities": [
+      {
+        "text": "The Band",
+        "label": "ORG"
+      },
+      {
+        "text": "Эрик Янг",
+        "label": "PER"
+      },
+      {
+        "text": "Кевин Нэш",
+        "label": "PER"
+      },
+      {
+        "text": "Скотт Холл",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 20,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 20,
+    "col": 3,
+    "text": "41",
+    "true_entities": [
+      {
+        "text": "41",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 21,
+    "col": 0,
+    "text": "21",
+    "true_entities": [
+      {
+        "text": "21",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 21,
+    "col": 1,
+    "text": "Team Pacman(Адам Джонс и Рон Килингс)",
+    "true_entities": [
+      {
+        "text": "Team Pacman",
+        "label": "ORG"
+      },
+      {
+        "text": "Адам Джонс",
+        "label": "PER"
+      },
+      {
+        "text": "Рон Килингс",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 21,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 21,
+    "col": 3,
+    "text": "35",
+    "true_entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 22,
+    "col": 0,
+    "text": "22",
+    "true_entities": [
+      {
+        "text": "22",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 22,
+    "col": 1,
+    "text": "Мэтт Морган",
+    "true_entities": [
+      {
+        "text": "Мэтт Морган",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 22,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 22,
+    "col": 3,
+    "text": "29",
+    "true_entities": [
+      {
+        "text": "29",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 23,
+    "col": 0,
+    "text": "23",
+    "true_entities": [
+      {
+        "text": "23",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 23,
+    "col": 1,
+    "text": "Самоа Джо",
+    "true_entities": [
+      {
+        "text": "Самоа Джо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 23,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 23,
+    "col": 3,
+    "text": "28",
+    "true_entities": [
+      {
+        "text": "28",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 24,
+    "col": 0,
+    "text": "24",
+    "true_entities": [
+      {
+        "text": "24",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 24,
+    "col": 1,
+    "text": "Ксавьер Вудс и Джей Литал",
+    "true_entities": [
+      {
+        "text": "Ксавьер Вудс",
+        "label": "PER"
+      },
+      {
+        "text": "Джей Литал",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 24,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 24,
+    "col": 3,
+    "text": "26",
+    "true_entities": [
+      {
+        "text": "26",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 25,
+    "col": 0,
+    "text": "25",
+    "true_entities": [
+      {
+        "text": "25",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 25,
+    "col": 1,
+    "text": "Эй Джей Стайлз и Курт Энгл",
+    "true_entities": [
+      {
+        "text": "Эй Джей Стайлз",
+        "label": "PER"
+      },
+      {
+        "text": "Курт Энгл",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 25,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 25,
+    "col": 3,
+    "text": "18",
+    "true_entities": [
+      {
+        "text": "18",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 26,
+    "col": 0,
+    "text": "26",
+    "true_entities": [
+      {
+        "text": "26",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 26,
+    "col": 1,
+    "text": "Курт Энгл",
+    "true_entities": [
+      {
+        "text": "Курт Энгл",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 26,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 26,
+    "col": 3,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 27,
+    "col": 0,
+    "text": "27",
+    "true_entities": [
+      {
+        "text": "27",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 27,
+    "col": 1,
+    "text": "Курт Энгл и Стинг",
+    "true_entities": [
+      {
+        "text": "Курт Энгл",
+        "label": "PER"
+      },
+      {
+        "text": "Стинг",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 27,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 52,
+    "row": 27,
+    "col": 3,
+    "text": "13",
+    "true_entities": [
+      {
+        "text": "13",
+        "label": "QUANTITY"
+      }
+    ]
+  }
+]

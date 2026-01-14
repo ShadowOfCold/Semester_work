@@ -1,0 +1,126 @@
+[
+  {
+    "table_id": 56,
+    "row": 2,
+    "col": 0,
+    "text": "Стивен Прессфилд",
+    "true_entities": [
+      {
+        "text": "Стивен Прессфилд",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 56,
+    "row": 2,
+    "col": 1,
+    "text": "Врата огня",
+    "true_entities": [
+      {
+        "text": "Врата огня",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 56,
+    "row": 2,
+    "col": 2,
+    "text": "Книга в основном посвящена Фермопильскому сражению",
+    "true_entities": [
+      {
+        "text": "Фермопильскому сражению",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 56,
+    "row": 3,
+    "col": 0,
+    "text": "Любовь Воронкова",
+    "true_entities": [
+      {
+        "text": "Любовь Воронкова",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 56,
+    "row": 3,
+    "col": 1,
+    "text": "Герой Саламина[187]",
+    "true_entities": [
+      {
+        "text": "Герой Саламина",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Саламина",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 56,
+    "row": 3,
+    "col": 2,
+    "text": "Книга о Фемистокле, участнике греко-персидских войн.",
+    "true_entities": [
+      {
+        "text": "Фемистокле",
+        "label": "PER"
+      },
+      {
+        "text": "греко-персидских войн",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 56,
+    "row": 4,
+    "col": 0,
+    "text": "Виктор Поротников",
+    "true_entities": [
+      {
+        "text": "Виктор Поротников",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 56,
+    "row": 4,
+    "col": 1,
+    "text": "Фемистокл",
+    "true_entities": [
+      {
+        "text": "Фемистокл",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Фемистокл",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 56,
+    "row": 4,
+    "col": 2,
+    "text": "Исторический роман о Фемистокле, полководце времён греко-персидских войн.",
+    "true_entities": [
+      {
+        "text": "Фемистокле",
+        "label": "PER"
+      },
+      {
+        "text": "греко-персидских войн",
+        "label": "EVENT"
+      }
+    ]
+  }
+]

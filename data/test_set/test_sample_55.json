@@ -1,0 +1,2610 @@
+[
+  {
+    "table_id": 55,
+    "row": 2,
+    "col": 0,
+    "text": "Кипр",
+    "true_entities": [
+      {
+        "text": "Кипр",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 2,
+    "col": 1,
+    "text": "21 декабря 1990—",
+    "true_entities": [
+      {
+        "text": "21 декабря 1990",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 2,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Заслуг",
+    "true_entities": [
+      {
+        "text": "ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 2,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Заслуг",
+    "true_entities": [
+      {
+        "text": "ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 2,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 3,
+    "col": 0,
+    "text": "Финляндия",
+    "true_entities": [
+      {
+        "text": "Финляндия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 3,
+    "col": 1,
+    "text": "8 марта 1991—",
+    "true_entities": [
+      {
+        "text": "8 марта 1991",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 3,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Льва",
+    "true_entities": [
+      {
+        "text": "ордена Льва",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 3,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Льва",
+    "true_entities": [
+      {
+        "text": "ордена Льва",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 3,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 4,
+    "col": 0,
+    "text": "Нидерланды",
+    "true_entities": [
+      {
+        "text": "Нидерланды",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 4,
+    "col": 1,
+    "text": "25 марта 1992—",
+    "true_entities": [
+      {
+        "text": "25 марта 1992",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 4,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Оранских-Нассау",
+    "true_entities": [
+      {
+        "text": "ордена Оранских-Нассау",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 4,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Оранских-Нассау",
+    "true_entities": [
+      {
+        "text": "ордена Оранских-Нассау",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 4,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 5,
+    "col": 0,
+    "text": "Чили",
+    "true_entities": [
+      {
+        "text": "Чили",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 5,
+    "col": 1,
+    "text": "5 марта 1993—",
+    "true_entities": [
+      {
+        "text": "5 марта 1993",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 5,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Бернардо О’Хиггинса",
+    "true_entities": [
+      {
+        "text": "ордена Бернардо О’Хиггинса",
+        "label": "MISC"
+      },
+      {
+        "text": "Бернардо О’Хиггинса",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 5,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Бернардо О’Хиггинса",
+    "true_entities": [
+      {
+        "text": "ордена Бернардо О’Хиггинса",
+        "label": "MISC"
+      },
+      {
+        "text": "Бернардо О’Хиггинса",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 5,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 6,
+    "col": 0,
+    "text": "Тунис",
+    "true_entities": [
+      {
+        "text": "Тунис",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 6,
+    "col": 1,
+    "text": "12 июля 1994—",
+    "true_entities": [
+      {
+        "text": "12 июля 1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 6,
+    "col": 2,
+    "text": "Кавалер Большой ленты ордена Республики",
+    "true_entities": [
+      {
+        "text": "ордена Республики",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 6,
+    "col": 3,
+    "text": "Кавалер Большой ленты ордена Республики",
+    "true_entities": [
+      {
+        "text": "ордена Республики",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 6,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 7,
+    "col": 0,
+    "text": "Великобритания",
+    "true_entities": [
+      {
+        "text": "Великобритания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 7,
+    "col": 1,
+    "text": "12 июля 1994—",
+    "true_entities": [
+      {
+        "text": "12 июля 1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 7,
+    "col": 2,
+    "text": "Кавалер Большого креста Королевского Викторианского ордена",
+    "true_entities": [
+      {
+        "text": "Королевского Викторианского ордена",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 7,
+    "col": 3,
+    "text": "Кавалер Большого креста Королевского Викторианского ордена",
+    "true_entities": [
+      {
+        "text": "Королевского Викторианского ордена",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 7,
+    "col": 4,
+    "text": "GCVO",
+    "true_entities": [
+      {
+        "text": "GCVO",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 8,
+    "col": 0,
+    "text": "Марокко",
+    "true_entities": [
+      {
+        "text": "Марокко",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 8,
+    "col": 1,
+    "text": "27 июля 1995—",
+    "true_entities": [
+      {
+        "text": "27 июля 1995",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 8,
+    "col": 2,
+    "text": "Кавалер Большой ленты ордена Алауитского трона",
+    "true_entities": [
+      {
+        "text": "ордена Алауитского трона",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 8,
+    "col": 3,
+    "text": "Кавалер Большой ленты ордена Алауитского трона",
+    "true_entities": [
+      {
+        "text": "ордена Алауитского трона",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 8,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 9,
+    "col": 0,
+    "text": "Гвинея-Бисау",
+    "true_entities": [
+      {
+        "text": "Гвинея-Бисау",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 9,
+    "col": 1,
+    "text": "2 июля 1996—",
+    "true_entities": [
+      {
+        "text": "2 июля 1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 9,
+    "col": 2,
+    "text": "Медаль ордена Холмов Боэ",
+    "true_entities": [
+      {
+        "text": "ордена Холмов Боэ",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 9,
+    "col": 3,
+    "text": "Медаль ордена Холмов Боэ",
+    "true_entities": [
+      {
+        "text": "ордена Холмов Боэ",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 9,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 10,
+    "col": 0,
+    "text": "Бразилия",
+    "true_entities": [
+      {
+        "text": "Бразилия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 10,
+    "col": 1,
+    "text": "25 июля 1996—",
+    "true_entities": [
+      {
+        "text": "25 июля 1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 10,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Риу-Бранку",
+    "true_entities": [
+      {
+        "text": "ордена Риу-Бранку",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 10,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Риу-Бранку",
+    "true_entities": [
+      {
+        "text": "ордена Риу-Бранку",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 10,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 11,
+    "col": 0,
+    "text": "Мозамбик",
+    "true_entities": [
+      {
+        "text": "Мозамбик",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 11,
+    "col": 1,
+    "text": "12 мая 1997—",
+    "true_entities": [
+      {
+        "text": "12 мая 1997",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 11,
+    "col": 2,
+    "text": "Кавалер ордена Дружбы и Мира 1 класса",
+    "true_entities": [
+      {
+        "text": "ордена Дружбы и Мира",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 11,
+    "col": 3,
+    "text": "Кавалер ордена Дружбы и Мира 1 класса",
+    "true_entities": [
+      {
+        "text": "ордена Дружбы и Мира",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 11,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 12,
+    "col": 0,
+    "text": "Польша",
+    "true_entities": [
+      {
+        "text": "Польша",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 12,
+    "col": 1,
+    "text": "9 октября 1997—",
+    "true_entities": [
+      {
+        "text": "9 октября 1997",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 12,
+    "col": 2,
+    "text": "Кавалер ордена Белого орла",
+    "true_entities": [
+      {
+        "text": "ордена Белого орла",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 12,
+    "col": 3,
+    "text": "Кавалер ордена Белого орла",
+    "true_entities": [
+      {
+        "text": "ордена Белого орла",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 12,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 13,
+    "col": 0,
+    "text": "Бразилия",
+    "true_entities": [
+      {
+        "text": "Бразилия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 13,
+    "col": 1,
+    "text": "9 декабря 1997—",
+    "true_entities": [
+      {
+        "text": "9 декабря 1997",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 13,
+    "col": 2,
+    "text": "Кавалер цепи",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 13,
+    "col": 3,
+    "text": "ордена Южного Креста",
+    "true_entities": [
+      {
+        "text": "ордена Южного Креста",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 13,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 14,
+    "col": 0,
+    "text": "Бразилия",
+    "true_entities": [
+      {
+        "text": "Бразилия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 14,
+    "col": 1,
+    "text": "22 августа 1991—9 декабря 1997",
+    "true_entities": [
+      {
+        "text": "22 августа 1991",
+        "label": "DATE"
+      },
+      {
+        "text": "9 декабря 1997",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 14,
+    "col": 2,
+    "text": "Кавалер Большого креста",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 14,
+    "col": 3,
+    "text": "ордена Южного Креста",
+    "true_entities": [
+      {
+        "text": "ордена Южного Креста",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 14,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 15,
+    "col": 0,
+    "text": "Испания",
+    "true_entities": [
+      {
+        "text": "Испания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 15,
+    "col": 1,
+    "text": "3 марта 1998—",
+    "true_entities": [
+      {
+        "text": "3 марта 1998",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 15,
+    "col": 2,
+    "text": "Кавалер цепи ордена Изабеллы Католической",
+    "true_entities": [
+      {
+        "text": "ордена Изабеллы Католической",
+        "label": "MISC"
+      },
+      {
+        "text": "Изабеллы Католической",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 15,
+    "col": 3,
+    "text": "Кавалер цепи ордена Изабеллы Католической",
+    "true_entities": [
+      {
+        "text": "ордена Изабеллы Католической",
+        "label": "MISC"
+      },
+      {
+        "text": "Изабеллы Католической",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 15,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 16,
+    "col": 0,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 16,
+    "col": 1,
+    "text": "13 апреля 1998—",
+    "true_entities": [
+      {
+        "text": "13 апреля 1998",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 16,
+    "col": 2,
+    "text": "Кавалер ордена князя Ярослава Мудрого 1 степени",
+    "true_entities": [
+      {
+        "text": "ордена князя Ярослава Мудрого",
+        "label": "MISC"
+      },
+      {
+        "text": "Ярослава Мудрого",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 16,
+    "col": 3,
+    "text": "Кавалер ордена князя Ярослава Мудрого 1 степени",
+    "true_entities": [
+      {
+        "text": "ордена князя Ярослава Мудрого",
+        "label": "MISC"
+      },
+      {
+        "text": "Ярослава Мудрого",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 16,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 17,
+    "col": 0,
+    "text": "Венесуэла",
+    "true_entities": [
+      {
+        "text": "Венесуэла",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 17,
+    "col": 1,
+    "text": "24 февраля 1999—",
+    "true_entities": [
+      {
+        "text": "24 февраля 1999",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 17,
+    "col": 2,
+    "text": "Кавалер Большой ленты ордена Освободителя",
+    "true_entities": [
+      {
+        "text": "ордена Освободителя",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 17,
+    "col": 3,
+    "text": "Кавалер Большой ленты ордена Освободителя",
+    "true_entities": [
+      {
+        "text": "ордена Освободителя",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 17,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 18,
+    "col": 0,
+    "text": "Мексика",
+    "true_entities": [
+      {
+        "text": "Мексика",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 18,
+    "col": 1,
+    "text": "14 мая 1999—",
+    "true_entities": [
+      {
+        "text": "14 мая 1999",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 18,
+    "col": 2,
+    "text": "Кавалер цепи ордена Ацтекского орла",
+    "true_entities": [
+      {
+        "text": "ордена Ацтекского орла",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 18,
+    "col": 3,
+    "text": "Кавалер цепи ордена Ацтекского орла",
+    "true_entities": [
+      {
+        "text": "ордена Ацтекского орла",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 18,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 19,
+    "col": 0,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 19,
+    "col": 1,
+    "text": "17 мая 1999—",
+    "true_entities": [
+      {
+        "text": "17 мая 1999",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 19,
+    "col": 2,
+    "text": "Кавалер Большого креста специального класса",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 19,
+    "col": 3,
+    "text": "ордена «За заслуги перед Федеративной Республикой Германия»",
+    "true_entities": [
+      {
+        "text": "ордена «За заслуги перед Федеративной Республикой Германия»",
+        "label": "MISC"
+      },
+      {
+        "text": "Федеративной Республикой Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 19,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 20,
+    "col": 0,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 20,
+    "col": 1,
+    "text": "15 октября 1996—17 мая 1999",
+    "true_entities": [
+      {
+        "text": "15 октября 1996",
+        "label": "DATE"
+      },
+      {
+        "text": "17 мая 1999",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 20,
+    "col": 2,
+    "text": "Кавалер Большого креста 1 степени",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 20,
+    "col": 3,
+    "text": "ордена «За заслуги перед Федеративной Республикой Германия»",
+    "true_entities": [
+      {
+        "text": "ордена «За заслуги перед Федеративной Республикой Германия»",
+        "label": "MISC"
+      },
+      {
+        "text": "Федеративной Республикой Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 20,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 21,
+    "col": 0,
+    "text": "Франция",
+    "true_entities": [
+      {
+        "text": "Франция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 21,
+    "col": 1,
+    "text": "29 ноября 1999—",
+    "true_entities": [
+      {
+        "text": "29 ноября 1999",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 21,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Почётного легиона",
+    "true_entities": [
+      {
+        "text": "ордена Почётного легиона",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 21,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Почётного легиона",
+    "true_entities": [
+      {
+        "text": "ордена Почётного легиона",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 21,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 22,
+    "col": 0,
+    "text": "Греция",
+    "true_entities": [
+      {
+        "text": "Греция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 22,
+    "col": 1,
+    "text": "10 декабря 1999—",
+    "true_entities": [
+      {
+        "text": "10 декабря 1999",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 22,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Спасителя",
+    "true_entities": [
+      {
+        "text": "ордена Спасителя",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 22,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Спасителя",
+    "true_entities": [
+      {
+        "text": "ордена Спасителя",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 22,
+    "col": 4,
+    "text": "GCR",
+    "true_entities": [
+      {
+        "text": "GCR",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 23,
+    "col": 0,
+    "text": "Румыния",
+    "true_entities": [
+      {
+        "text": "Румыния",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 23,
+    "col": 1,
+    "text": "15 марта 2000—",
+    "true_entities": [
+      {
+        "text": "15 марта 2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 23,
+    "col": 2,
+    "text": "Кавалер цепи ордена Звезды Румынии",
+    "true_entities": [
+      {
+        "text": "ордена Звезды Румынии",
+        "label": "MISC"
+      },
+      {
+        "text": "Румынии",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 23,
+    "col": 3,
+    "text": "Кавалер цепи ордена Звезды Румынии",
+    "true_entities": [
+      {
+        "text": "ордена Звезды Румынии",
+        "label": "MISC"
+      },
+      {
+        "text": "Румынии",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 23,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 24,
+    "col": 0,
+    "text": "Словения",
+    "true_entities": [
+      {
+        "text": "Словения",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 24,
+    "col": 1,
+    "text": "31 марта 2000—",
+    "true_entities": [
+      {
+        "text": "31 марта 2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 24,
+    "col": 2,
+    "text": "Кавалер Золотого ордена Свободы",
+    "true_entities": [
+      {
+        "text": "ордена Свободы",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 24,
+    "col": 3,
+    "text": "Кавалер Золотого ордена Свободы",
+    "true_entities": [
+      {
+        "text": "ордена Свободы",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 24,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 25,
+    "col": 0,
+    "text": "Тунис",
+    "true_entities": [
+      {
+        "text": "Тунис",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 25,
+    "col": 1,
+    "text": "10 мая 2000—",
+    "true_entities": [
+      {
+        "text": "10 мая 2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 25,
+    "col": 2,
+    "text": "Кавалер Большой ленты ордена 7 ноября",
+    "true_entities": [
+      {
+        "text": "ордена 7 ноября",
+        "label": "MISC"
+      },
+      {
+        "text": "7 ноября",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 25,
+    "col": 3,
+    "text": "Кавалер Большой ленты ордена 7 ноября",
+    "true_entities": [
+      {
+        "text": "ордена 7 ноября",
+        "label": "MISC"
+      },
+      {
+        "text": "7 ноября",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 25,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 26,
+    "col": 0,
+    "text": "Испания",
+    "true_entities": [
+      {
+        "text": "Испания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 26,
+    "col": 1,
+    "text": "11 сентября 2000—",
+    "true_entities": [
+      {
+        "text": "11 сентября 2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 26,
+    "col": 2,
+    "text": "Кавалер цепи ордена Карлоса III",
+    "true_entities": [
+      {
+        "text": "ордена Карлоса III",
+        "label": "MISC"
+      },
+      {
+        "text": "Карлоса III",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 26,
+    "col": 3,
+    "text": "Кавалер цепи ордена Карлоса III",
+    "true_entities": [
+      {
+        "text": "ордена Карлоса III",
+        "label": "MISC"
+      },
+      {
+        "text": "Карлоса III",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 26,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 27,
+    "col": 0,
+    "text": "Бельгия",
+    "true_entities": [
+      {
+        "text": "Бельгия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 27,
+    "col": 1,
+    "text": "9 октября 2000—",
+    "true_entities": [
+      {
+        "text": "9 октября 2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 27,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Леопольда I",
+    "true_entities": [
+      {
+        "text": "ордена Леопольда I",
+        "label": "MISC"
+      },
+      {
+        "text": "Леопольда I",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 27,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Леопольда I",
+    "true_entities": [
+      {
+        "text": "ордена Леопольда I",
+        "label": "MISC"
+      },
+      {
+        "text": "Леопольда I",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 27,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 28,
+    "col": 0,
+    "text": "Кабо-Верде",
+    "true_entities": [
+      {
+        "text": "Кабо-Верде",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 28,
+    "col": 1,
+    "text": "26 марта 2001—",
+    "true_entities": [
+      {
+        "text": "26 марта 2001",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 28,
+    "col": 2,
+    "text": "Кавалер ордена Амилкара Кабрала 1 класса",
+    "true_entities": [
+      {
+        "text": "ордена Амилкара Кабрала",
+        "label": "MISC"
+      },
+      {
+        "text": "Амилкара Кабрала",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 28,
+    "col": 3,
+    "text": "Кавалер ордена Амилкара Кабрала 1 класса",
+    "true_entities": [
+      {
+        "text": "ордена Амилкара Кабрала",
+        "label": "MISC"
+      },
+      {
+        "text": "Амилкара Кабрала",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 28,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 29,
+    "col": 0,
+    "text": "Чили",
+    "true_entities": [
+      {
+        "text": "Чили",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 29,
+    "col": 1,
+    "text": "30 сентября 2001—",
+    "true_entities": [
+      {
+        "text": "30 сентября 2001",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 29,
+    "col": 2,
+    "text": "Кавалер цепи ордена Заслуг",
+    "true_entities": [
+      {
+        "text": "ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 29,
+    "col": 3,
+    "text": "Кавалер цепи ордена Заслуг",
+    "true_entities": [
+      {
+        "text": "ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 29,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 30,
+    "col": 0,
+    "text": "Италия",
+    "true_entities": [
+      {
+        "text": "Италия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 30,
+    "col": 1,
+    "text": "4 декабря 2001—",
+    "true_entities": [
+      {
+        "text": "4 декабря 2001",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 30,
+    "col": 2,
+    "text": "Кавалер Большого креста декорированного лентой ордена «За заслуги перед Итальянской Республикой»",
+    "true_entities": [
+      {
+        "text": "ордена «За заслуги перед Итальянской Республикой»",
+        "label": "MISC"
+      },
+      {
+        "text": "Итальянской Республикой",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 30,
+    "col": 3,
+    "text": "Кавалер Большого креста декорированного лентой ордена «За заслуги перед Итальянской Республикой»",
+    "true_entities": [
+      {
+        "text": "ордена «За заслуги перед Итальянской Республикой»",
+        "label": "MISC"
+      },
+      {
+        "text": "Итальянской Республикой",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 30,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 31,
+    "col": 0,
+    "text": "Габон",
+    "true_entities": [
+      {
+        "text": "Габон",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 31,
+    "col": 1,
+    "text": "8 января 2002—",
+    "true_entities": [
+      {
+        "text": "8 января 2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 31,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Экваториальной звезды",
+    "true_entities": [
+      {
+        "text": "ордена Экваториальной звезды",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 31,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Экваториальной звезды",
+    "true_entities": [
+      {
+        "text": "ордена Экваториальной звезды",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 31,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 32,
+    "col": 0,
+    "text": "Венесуэла",
+    "true_entities": [
+      {
+        "text": "Венесуэла",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 32,
+    "col": 1,
+    "text": "24 июня 2002—",
+    "true_entities": [
+      {
+        "text": "24 июня 2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 32,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Франсиско Миранды",
+    "true_entities": [
+      {
+        "text": "ордена Франсиско Миранды",
+        "label": "MISC"
+      },
+      {
+        "text": "Франсиско Миранды",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 32,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Франсиско Миранды",
+    "true_entities": [
+      {
+        "text": "ордена Франсиско Миранды",
+        "label": "MISC"
+      },
+      {
+        "text": "Франсиско Миранды",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 32,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 33,
+    "col": 0,
+    "text": "Венгрия",
+    "true_entities": [
+      {
+        "text": "Венгрия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 33,
+    "col": 1,
+    "text": "23 сентября 2002—",
+    "true_entities": [
+      {
+        "text": "23 сентября 2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 33,
+    "col": 2,
+    "text": "Кавалер цепи",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 33,
+    "col": 3,
+    "text": "ордена Заслуг",
+    "true_entities": [
+      {
+        "text": "ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 33,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 34,
+    "col": 0,
+    "text": "Венгрия",
+    "true_entities": [
+      {
+        "text": "Венгрия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 34,
+    "col": 1,
+    "text": "22 апреля 1999—23 сентября 2002",
+    "true_entities": [
+      {
+        "text": "22 апреля 1999",
+        "label": "DATE"
+      },
+      {
+        "text": "23 сентября 2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 34,
+    "col": 2,
+    "text": "Кавалер Большого креста",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 34,
+    "col": 3,
+    "text": "ордена Заслуг",
+    "true_entities": [
+      {
+        "text": "ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 34,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 35,
+    "col": 0,
+    "text": "Великобритания",
+    "true_entities": [
+      {
+        "text": "Великобритания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 35,
+    "col": 1,
+    "text": "23 сентября 2002—",
+    "true_entities": [
+      {
+        "text": "23 сентября 2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 35,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Святого Михаила и Святого Георгия",
+    "true_entities": [
+      {
+        "text": "ордена Святого Михаила и Святого Георгия",
+        "label": "MISC"
+      },
+      {
+        "text": "Михаила",
+        "label": "PER"
+      },
+      {
+        "text": "Георгия",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 35,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Святого Михаила и Святого Георгия",
+    "true_entities": [
+      {
+        "text": "ордена Святого Михаила и Святого Георгия",
+        "label": "MISC"
+      },
+      {
+        "text": "Михаила",
+        "label": "PER"
+      },
+      {
+        "text": "Георгия",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 35,
+    "col": 4,
+    "text": "GCMG",
+    "true_entities": [
+      {
+        "text": "GCMG",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 36,
+    "col": 0,
+    "text": "Аргентина",
+    "true_entities": [
+      {
+        "text": "Аргентина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 36,
+    "col": 1,
+    "text": "12 декабря 2002—",
+    "true_entities": [
+      {
+        "text": "12 декабря 2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 36,
+    "col": 2,
+    "text": "Кавалер цепи ордена Освободителя Сан-Мартина",
+    "true_entities": [
+      {
+        "text": "ордена Освободителя Сан-Мартина",
+        "label": "MISC"
+      },
+      {
+        "text": "Сан-Мартина",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 36,
+    "col": 3,
+    "text": "Кавалер цепи ордена Освободителя Сан-Мартина",
+    "true_entities": [
+      {
+        "text": "ордена Освободителя Сан-Мартина",
+        "label": "MISC"
+      },
+      {
+        "text": "Сан-Мартина",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 36,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 37,
+    "col": 0,
+    "text": "Финляндия",
+    "true_entities": [
+      {
+        "text": "Финляндия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 37,
+    "col": 1,
+    "text": "6 февраля 2003—",
+    "true_entities": [
+      {
+        "text": "6 февраля 2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 37,
+    "col": 2,
+    "text": "Командор Большого креста ордена Белой розы",
+    "true_entities": [
+      {
+        "text": "ордена Белой розы",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 37,
+    "col": 3,
+    "text": "Командор Большого креста ордена Белой розы",
+    "true_entities": [
+      {
+        "text": "ордена Белой розы",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 37,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 38,
+    "col": 0,
+    "text": "Эстония",
+    "true_entities": [
+      {
+        "text": "Эстония",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 38,
+    "col": 1,
+    "text": "27 июня 2003—",
+    "true_entities": [
+      {
+        "text": "27 июня 2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 38,
+    "col": 2,
+    "text": "Кавалер цепи ордена Креста земли Марии",
+    "true_entities": [
+      {
+        "text": "ордена Креста земли Марии",
+        "label": "MISC"
+      },
+      {
+        "text": "Марии",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 38,
+    "col": 3,
+    "text": "Кавалер цепи ордена Креста земли Марии",
+    "true_entities": [
+      {
+        "text": "ордена Креста земли Марии",
+        "label": "MISC"
+      },
+      {
+        "text": "Марии",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 38,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 39,
+    "col": 0,
+    "text": "Литва",
+    "true_entities": [
+      {
+        "text": "Литва",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 39,
+    "col": 1,
+    "text": "27 июня 2003—",
+    "true_entities": [
+      {
+        "text": "27 июня 2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 39,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Витаутаса Великого",
+    "true_entities": [
+      {
+        "text": "ордена Витаутаса Великого",
+        "label": "MISC"
+      },
+      {
+        "text": "Витаутаса Великого",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 39,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Витаутаса Великого",
+    "true_entities": [
+      {
+        "text": "ордена Витаутаса Великого",
+        "label": "MISC"
+      },
+      {
+        "text": "Витаутаса Великого",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 39,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 40,
+    "col": 0,
+    "text": "Латвия",
+    "true_entities": [
+      {
+        "text": "Латвия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 40,
+    "col": 1,
+    "text": "27 июня 2003—",
+    "true_entities": [
+      {
+        "text": "27 июня 2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 40,
+    "col": 2,
+    "text": "Кавалер цепи ордена Трёх звёзд",
+    "true_entities": [
+      {
+        "text": "ордена Трёх звёзд",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 40,
+    "col": 3,
+    "text": "Кавалер цепи ордена Трёх звёзд",
+    "true_entities": [
+      {
+        "text": "ордена Трёх звёзд",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 40,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 41,
+    "col": 0,
+    "text": "Алжир",
+    "true_entities": [
+      {
+        "text": "Алжир",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 41,
+    "col": 1,
+    "text": "2 декабря 2003—",
+    "true_entities": [
+      {
+        "text": "2 декабря 2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 41,
+    "col": 2,
+    "text": "Athir Национального ордена Заслуг[5]",
+    "true_entities": [
+      {
+        "text": "Национального ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 41,
+    "col": 3,
+    "text": "Athir Национального ордена Заслуг[5]",
+    "true_entities": [
+      {
+        "text": "Национального ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 41,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 42,
+    "col": 0,
+    "text": "Словакия",
+    "true_entities": [
+      {
+        "text": "Словакия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 42,
+    "col": 1,
+    "text": "2003—",
+    "true_entities": [
+      {
+        "text": "2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 42,
+    "col": 2,
+    "text": "Кавалер ордена Двойного белого креста 1 класса",
+    "true_entities": [
+      {
+        "text": "ордена Двойного белого креста",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 42,
+    "col": 3,
+    "text": "Кавалер ордена Двойного белого креста 1 класса",
+    "true_entities": [
+      {
+        "text": "ордена Двойного белого креста",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 42,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 43,
+    "col": 0,
+    "text": "Норвегия",
+    "true_entities": [
+      {
+        "text": "Норвегия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 43,
+    "col": 1,
+    "text": "24 июня 2004—",
+    "true_entities": [
+      {
+        "text": "24 июня 2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 43,
+    "col": 2,
+    "text": "Кавалер Большого креста ордена Святого Олафа",
+    "true_entities": [
+      {
+        "text": "ордена Святого Олафа",
+        "label": "MISC"
+      },
+      {
+        "text": "Олафа",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 43,
+    "col": 3,
+    "text": "Кавалер Большого креста ордена Святого Олафа",
+    "true_entities": [
+      {
+        "text": "ордена Святого Олафа",
+        "label": "MISC"
+      },
+      {
+        "text": "Олафа",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 43,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 44,
+    "col": 0,
+    "text": "Парагвай",
+    "true_entities": [
+      {
+        "text": "Парагвай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 44,
+    "col": 1,
+    "text": "4 января 2006—",
+    "true_entities": [
+      {
+        "text": "4 января 2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 44,
+    "col": 2,
+    "text": "Кавалер цепи ордена Заслуг",
+    "true_entities": [
+      {
+        "text": "ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 44,
+    "col": 3,
+    "text": "Кавалер цепи ордена Заслуг",
+    "true_entities": [
+      {
+        "text": "ордена Заслуг",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 44,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 45,
+    "col": 0,
+    "text": "Эстония",
+    "true_entities": [
+      {
+        "text": "Эстония",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 45,
+    "col": 1,
+    "text": "29 марта 2006—",
+    "true_entities": [
+      {
+        "text": "29 марта 2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 45,
+    "col": 2,
+    "text": "Кавалер ордена Белой звезды 1 класса",
+    "true_entities": [
+      {
+        "text": "ордена Белой звезды",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 45,
+    "col": 3,
+    "text": "Кавалер ордена Белой звезды 1 класса",
+    "true_entities": [
+      {
+        "text": "ордена Белой звезды",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 45,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 55,
+    "row": 46,
+    "col": 0,
+    "text": "Люксембург",
+    "true_entities": [
+      {
+        "text": "Люксембург",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 46,
+    "col": 1,
+    "text": "15 сентября 2010—",
+    "true_entities": [
+      {
+        "text": "15 сентября 2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 46,
+    "col": 2,
+    "text": "Рыцарь ордена Золотого льва Нассау",
+    "true_entities": [
+      {
+        "text": "ордена Золотого льва Нассау",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 46,
+    "col": 3,
+    "text": "Рыцарь ордена Золотого льва Нассау",
+    "true_entities": [
+      {
+        "text": "ордена Золотого льва Нассау",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 55,
+    "row": 46,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  }
+]

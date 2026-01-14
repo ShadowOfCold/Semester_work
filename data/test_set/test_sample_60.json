@@ -1,0 +1,4442 @@
+[
+  {
+    "table_id": 60,
+    "row": 1,
+    "col": 0,
+    "text": "Аргентина[10]",
+    "true_entities": [
+      {
+        "text": "Аргентина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 1,
+    "col": 1,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 1,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 1,
+    "col": 3,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 1,
+    "col": 4,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 1,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 1,
+    "col": 6,
+    "text": "Nucleoeléctrica Argentina",
+    "true_entities": [
+      {
+        "text": "Nucleoeléctrica Argentina",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 1,
+    "col": 7,
+    "text": "2PHWR, 1CANDU",
+    "true_entities": [
+      {
+        "text": "PHWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "CANDU",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 1,
+    "col": 8,
+    "text": "CONUAR",
+    "true_entities": [
+      {
+        "text": "CONUAR",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 0,
+    "text": "Армения[11][12]",
+    "true_entities": [
+      {
+        "text": "Армения",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 1,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 3,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 5,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 6,
+    "text": "Айкакан атомайин электракаян",
+    "true_entities": [
+      {
+        "text": "Айкакан атомайин электракаян",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 3,
+    "col": 0,
+    "text": "Бангладеш[13][14]",
+    "true_entities": [
+      {
+        "text": "Бангладеш",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 3,
+    "col": 1,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 3,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 3,
+    "col": 3,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 3,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 3,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 3,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 3,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 3,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 4,
+    "col": 0,
+    "text": "Белоруссия",
+    "true_entities": [
+      {
+        "text": "Белоруссия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 4,
+    "col": 1,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 4,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 4,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 4,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 4,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 4,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 4,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 4,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 5,
+    "col": 0,
+    "text": "Бельгия[15]",
+    "true_entities": [
+      {
+        "text": "Бельгия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 5,
+    "col": 1,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 5,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 5,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 5,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 5,
+    "col": 5,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 5,
+    "col": 6,
+    "text": "Electrabel",
+    "true_entities": [
+      {
+        "text": "Electrabel",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 5,
+    "col": 7,
+    "text": "PWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 5,
+    "col": 8,
+    "text": "Areva",
+    "true_entities": [
+      {
+        "text": "Areva",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 6,
+    "col": 0,
+    "text": "Болгария[16]",
+    "true_entities": [
+      {
+        "text": "Болгария",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 6,
+    "col": 1,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 6,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 6,
+    "col": 3,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 6,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 6,
+    "col": 5,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 6,
+    "col": 6,
+    "text": "НЕК ЕАД (болг.)русск.",
+    "true_entities": [
+      {
+        "text": "НЕК ЕАД",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 6,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 6,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 7,
+    "col": 0,
+    "text": "Бразилия[17]",
+    "true_entities": [
+      {
+        "text": "Бразилия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 7,
+    "col": 1,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 7,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 7,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 7,
+    "col": 4,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 7,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 7,
+    "col": 6,
+    "text": "Eletronuclear",
+    "true_entities": [
+      {
+        "text": "Eletronuclear",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 7,
+    "col": 7,
+    "text": "PWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 7,
+    "col": 8,
+    "text": "Siemens",
+    "true_entities": [
+      {
+        "text": "Siemens",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 8,
+    "col": 0,
+    "text": "Великобритания[18][19]",
+    "true_entities": [
+      {
+        "text": "Великобритания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 8,
+    "col": 1,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 8,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 8,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 8,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 8,
+    "col": 5,
+    "text": "30",
+    "true_entities": [
+      {
+        "text": "30",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 8,
+    "col": 6,
+    "text": "British Energy (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "British Energy",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 8,
+    "col": 7,
+    "text": "14AGR, 1PWR",
+    "true_entities": [
+      {
+        "text": "AGR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 8,
+    "col": 8,
+    "text": "British Nuclear Fuels (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "British Nuclear Fuels",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 9,
+    "col": 0,
+    "text": "Венгрия",
+    "true_entities": [
+      {
+        "text": "Венгрия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 9,
+    "col": 1,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 9,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 9,
+    "col": 3,
+    "text": "2ВВЭР",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 9,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 9,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 9,
+    "col": 6,
+    "text": "MVM Group (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "MVM Group",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 9,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 9,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 10,
+    "col": 0,
+    "text": "Германия[20]",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 10,
+    "col": 1,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 10,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 10,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 10,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 10,
+    "col": 5,
+    "text": "30",
+    "true_entities": [
+      {
+        "text": "30",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 10,
+    "col": 6,
+    "text": "E.ON, EnBW, RWE, Vattenfall (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "E.ON",
+        "label": "ORG"
+      },
+      {
+        "text": "EnBW",
+        "label": "ORG"
+      },
+      {
+        "text": "RWE",
+        "label": "ORG"
+      },
+      {
+        "text": "Vattenfall",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 10,
+    "col": 7,
+    "text": "5PWR, 1BWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 10,
+    "col": 8,
+    "text": "Siemens",
+    "true_entities": [
+      {
+        "text": "Siemens",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 11,
+    "col": 0,
+    "text": "Египет",
+    "true_entities": [
+      {
+        "text": "Египет",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 11,
+    "col": 1,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 11,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 11,
+    "col": 3,
+    "text": "4ВВЭР",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 11,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 11,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 11,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 11,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 11,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 12,
+    "col": 0,
+    "text": "Индия[21][22]",
+    "true_entities": [
+      {
+        "text": "Индия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 12,
+    "col": 1,
+    "text": "23",
+    "true_entities": [
+      {
+        "text": "23",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 12,
+    "col": 2,
+    "text": "6[23]",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 12,
+    "col": 3,
+    "text": "18 (2ВВЭР)",
+    "true_entities": [
+      {
+        "text": "18",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 12,
+    "col": 4,
+    "text": "27",
+    "true_entities": [
+      {
+        "text": "27",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 12,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 12,
+    "col": 6,
+    "text": "Nuclear Power Corporation of India",
+    "true_entities": [
+      {
+        "text": "Nuclear Power Corporation of India",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 12,
+    "col": 7,
+    "text": "18PHWR, 2BWR, 2ВВЭР",
+    "true_entities": [
+      {
+        "text": "PHWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 12,
+    "col": 8,
+    "text": "Nuclear Fuel Complex",
+    "true_entities": [
+      {
+        "text": "Nuclear Fuel Complex",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 13,
+    "col": 0,
+    "text": "Индонезия",
+    "true_entities": [
+      {
+        "text": "Индонезия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 13,
+    "col": 1,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 13,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 13,
+    "col": 3,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 13,
+    "col": 4,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 13,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 13,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 13,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 13,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 14,
+    "col": 0,
+    "text": "Иран",
+    "true_entities": [
+      {
+        "text": "Иран",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 14,
+    "col": 1,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 14,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 14,
+    "col": 3,
+    "text": "1ВВЭР",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 14,
+    "col": 4,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 14,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 14,
+    "col": 6,
+    "text": "NPPD совместно с АСЭ",
+    "true_entities": [
+      {
+        "text": "NPPD",
+        "label": "ORG"
+      },
+      {
+        "text": "АСЭ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 14,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 14,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 15,
+    "col": 0,
+    "text": "Испания[24]",
+    "true_entities": [
+      {
+        "text": "Испания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 15,
+    "col": 1,
+    "text": "7",
+    "true_entities": [
+      {
+        "text": "7",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 15,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 15,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 15,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 15,
+    "col": 5,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 15,
+    "col": 6,
+    "text": "ANAV, CNAT, Iberdrola, Nuclenor (исп.)русск.",
+    "true_entities": [
+      {
+        "text": "ANAV",
+        "label": "ORG"
+      },
+      {
+        "text": "CNAT",
+        "label": "ORG"
+      },
+      {
+        "text": "Iberdrola",
+        "label": "ORG"
+      },
+      {
+        "text": "Nuclenor",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 15,
+    "col": 7,
+    "text": "6PWR, 1BWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 15,
+    "col": 8,
+    "text": "ENUSA (исп.)русск., Westinghouse",
+    "true_entities": [
+      {
+        "text": "ENUSA",
+        "label": "ORG"
+      },
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 16,
+    "col": 0,
+    "text": "Канада[25]",
+    "true_entities": [
+      {
+        "text": "Канада",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 16,
+    "col": 1,
+    "text": "19",
+    "true_entities": [
+      {
+        "text": "19",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 16,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 16,
+    "col": 3,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 16,
+    "col": 4,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 16,
+    "col": 5,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 16,
+    "col": 6,
+    "text": "Ontario Power Generation (англ.)русск., Bruce Power (англ.)русск., Hydro-Québec, NB Power (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "Ontario Power Generation",
+        "label": "ORG"
+      },
+      {
+        "text": "Bruce Power",
+        "label": "ORG"
+      },
+      {
+        "text": "Hydro-Québec",
+        "label": "ORG"
+      },
+      {
+        "text": "NB Power",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 16,
+    "col": 7,
+    "text": "CANDU",
+    "true_entities": [
+      {
+        "text": "CANDU",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 16,
+    "col": 8,
+    "text": "Cameco",
+    "true_entities": [
+      {
+        "text": "Cameco",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 17,
+    "col": 0,
+    "text": "Китай[26][27]",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 17,
+    "col": 1,
+    "text": "50",
+    "true_entities": [
+      {
+        "text": "50",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 17,
+    "col": 2,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 17,
+    "col": 3,
+    "text": "41 (4ВВЭР)",
+    "true_entities": [
+      {
+        "text": "41",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 17,
+    "col": 4,
+    "text": "36",
+    "true_entities": [
+      {
+        "text": "36",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 17,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 17,
+    "col": 6,
+    "text": "CGNPC (англ.)русск., CNNC",
+    "true_entities": [
+      {
+        "text": "CGNPC",
+        "label": "ORG"
+      },
+      {
+        "text": "CNNC",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 17,
+    "col": 7,
+    "text": "20CPR, 7CNP, 6PWR, 2CANDU, 2ВВЭР, 1БН-20,",
+    "true_entities": [
+      {
+        "text": "CPR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "CNP",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "CANDU",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "БН-20",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 17,
+    "col": 8,
+    "text": "Westinghouse, Areva, CNNC, ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      },
+      {
+        "text": "Areva",
+        "label": "ORG"
+      },
+      {
+        "text": "CNNC",
+        "label": "ORG"
+      },
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 18,
+    "col": 0,
+    "text": "Мексика[28]",
+    "true_entities": [
+      {
+        "text": "Мексика",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 18,
+    "col": 1,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 18,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 18,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 18,
+    "col": 4,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 18,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 18,
+    "col": 6,
+    "text": "Comisión Federal de Electricidad (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "Comisión Federal de Electricidad",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 18,
+    "col": 7,
+    "text": "BWR",
+    "true_entities": [
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 18,
+    "col": 8,
+    "text": "General Electric",
+    "true_entities": [
+      {
+        "text": "General Electric",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 19,
+    "col": 0,
+    "text": "Нидерланды[29]",
+    "true_entities": [
+      {
+        "text": "Нидерланды",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 19,
+    "col": 1,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 19,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 19,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 19,
+    "col": 4,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 19,
+    "col": 5,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 19,
+    "col": 6,
+    "text": "EPZ",
+    "true_entities": [
+      {
+        "text": "EPZ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 19,
+    "col": 7,
+    "text": "PWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 19,
+    "col": 8,
+    "text": "Siemens",
+    "true_entities": [
+      {
+        "text": "Siemens",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 20,
+    "col": 0,
+    "text": "ОАЭ",
+    "true_entities": [
+      {
+        "text": "ОАЭ",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 20,
+    "col": 1,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 20,
+    "col": 2,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 20,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 20,
+    "col": 4,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 20,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 20,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 20,
+    "col": 7,
+    "text": "PWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 20,
+    "col": 8,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 21,
+    "col": 0,
+    "text": "Пакистан[30]",
+    "true_entities": [
+      {
+        "text": "Пакистан",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 21,
+    "col": 1,
+    "text": "5",
+    "true_entities": [
+      {
+        "text": "5",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 21,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 21,
+    "col": 3,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 21,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 21,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 21,
+    "col": 6,
+    "text": "PAEC (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "PAEC",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 21,
+    "col": 7,
+    "text": "4PWR, 1CANDU",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "CANDU",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 21,
+    "col": 8,
+    "text": "CNNC, PAEC (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "CNNC",
+        "label": "ORG"
+      },
+      {
+        "text": "PAEC",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 22,
+    "col": 0,
+    "text": "Польша[31]",
+    "true_entities": [
+      {
+        "text": "Польша",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 22,
+    "col": 1,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 22,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 22,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 22,
+    "col": 4,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 22,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 22,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 22,
+    "col": 7,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 22,
+    "col": 8,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 23,
+    "col": 0,
+    "text": "Россия[32][33]",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 23,
+    "col": 1,
+    "text": "38",
+    "true_entities": [
+      {
+        "text": "38",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 23,
+    "col": 2,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 23,
+    "col": 3,
+    "text": "11 10ВВЭР, 1БН-1200М[34]",
+    "true_entities": [
+      {
+        "text": "11",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "БН-1200М",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 23,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 23,
+    "col": 5,
+    "text": "8",
+    "true_entities": [
+      {
+        "text": "8",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 23,
+    "col": 6,
+    "text": "Росэнергоатом",
+    "true_entities": [
+      {
+        "text": "Росэнергоатом",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 23,
+    "col": 7,
+    "text": "21ВВЭР, 9РБМК, 3ЭГП-6, 2КЛТ-40С, 1БН-600, 1БН-800",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "РБМК",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "ЭГП-6",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "КЛТ-40С",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "БН-600",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "БН-800",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 23,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 24,
+    "col": 0,
+    "text": "Румыния[35]",
+    "true_entities": [
+      {
+        "text": "Румыния",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 24,
+    "col": 1,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 24,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 24,
+    "col": 3,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 24,
+    "col": 4,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 24,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 24,
+    "col": 6,
+    "text": "Nuclearelectrica",
+    "true_entities": [
+      {
+        "text": "Nuclearelectrica",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 24,
+    "col": 7,
+    "text": "CANDU",
+    "true_entities": [
+      {
+        "text": "CANDU",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 24,
+    "col": 8,
+    "text": "FCN",
+    "true_entities": [
+      {
+        "text": "FCN",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 25,
+    "col": 0,
+    "text": "Словакия[36]",
+    "true_entities": [
+      {
+        "text": "Словакия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 25,
+    "col": 1,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 25,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 25,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 25,
+    "col": 4,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 25,
+    "col": 5,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 25,
+    "col": 6,
+    "text": "Slovenské elektrárne (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "Slovenské elektrárne",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 25,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 25,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 26,
+    "col": 0,
+    "text": "Словения[37]",
+    "true_entities": [
+      {
+        "text": "Словения",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 26,
+    "col": 1,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 26,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 26,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 26,
+    "col": 4,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 26,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 26,
+    "col": 6,
+    "text": "Nuklearna Elektrarna Krško",
+    "true_entities": [
+      {
+        "text": "Nuklearna Elektrarna Krško",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 26,
+    "col": 7,
+    "text": "PWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 26,
+    "col": 8,
+    "text": "Westinghouse",
+    "true_entities": [
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 27,
+    "col": 0,
+    "text": "США[38][39]",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 27,
+    "col": 1,
+    "text": "94",
+    "true_entities": [
+      {
+        "text": "94",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 27,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 27,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 27,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 27,
+    "col": 5,
+    "text": "38",
+    "true_entities": [
+      {
+        "text": "38",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 27,
+    "col": 6,
+    "text": "25 компаний, крупнейшие: Exelon (англ.)русск., Progress Energy (англ.)русск., FirstEnergy (англ.)русск., Energy Future Holdings (англ.)русск., Xcel Energy (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "Exelon",
+        "label": "ORG"
+      },
+      {
+        "text": "Progress Energy",
+        "label": "ORG"
+      },
+      {
+        "text": "FirstEnergy",
+        "label": "ORG"
+      },
+      {
+        "text": "Energy Future Holdings",
+        "label": "ORG"
+      },
+      {
+        "text": "Xcel Energy",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 27,
+    "col": 7,
+    "text": "63PWR, 32BWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 27,
+    "col": 8,
+    "text": "Areva, Westinghouse, Babcock & Wilcox (англ.)русск., General Electric",
+    "true_entities": [
+      {
+        "text": "Areva",
+        "label": "ORG"
+      },
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      },
+      {
+        "text": "Babcock & Wilcox",
+        "label": "ORG"
+      },
+      {
+        "text": "General Electric",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 28,
+    "col": 0,
+    "text": "Тайвань[40]",
+    "true_entities": [
+      {
+        "text": "Тайвань",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 28,
+    "col": 1,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 28,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 28,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 28,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 28,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 28,
+    "col": 6,
+    "text": "Taiwan Power Company (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "Taiwan Power Company",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 28,
+    "col": 7,
+    "text": "2BWR, 2PWR,",
+    "true_entities": [
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 28,
+    "col": 8,
+    "text": "General Electric, Westinghouse",
+    "true_entities": [
+      {
+        "text": "General Electric",
+        "label": "ORG"
+      },
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 29,
+    "col": 0,
+    "text": "Турция",
+    "true_entities": [
+      {
+        "text": "Турция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 29,
+    "col": 1,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 29,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 29,
+    "col": 3,
+    "text": "2ВВЭР",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 29,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 29,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 29,
+    "col": 6,
+    "text": "—",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 29,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 29,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 30,
+    "col": 0,
+    "text": "Украина[41]",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 30,
+    "col": 1,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 30,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 30,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 30,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 30,
+    "col": 5,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 30,
+    "col": 6,
+    "text": "Енергоатом",
+    "true_entities": [
+      {
+        "text": "Енергоатом",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 30,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 30,
+    "col": 8,
+    "text": "ТВЭЛ, Westinghouse",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      },
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 31,
+    "col": 0,
+    "text": "Финляндия[42]",
+    "true_entities": [
+      {
+        "text": "Финляндия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 31,
+    "col": 1,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 31,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 31,
+    "col": 3,
+    "text": "1ВВЭР",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 31,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 31,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 31,
+    "col": 6,
+    "text": "TVO (англ.)русск., Fortum",
+    "true_entities": [
+      {
+        "text": "TVO",
+        "label": "ORG"
+      },
+      {
+        "text": "Fortum",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 31,
+    "col": 7,
+    "text": "2BWR, 2ВВЭР",
+    "true_entities": [
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 31,
+    "col": 8,
+    "text": "Westinghouse, ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      },
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 32,
+    "col": 0,
+    "text": "Франция[43]",
+    "true_entities": [
+      {
+        "text": "Франция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 32,
+    "col": 1,
+    "text": "56",
+    "true_entities": [
+      {
+        "text": "56",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 32,
+    "col": 2,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 32,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 32,
+    "col": 4,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 32,
+    "col": 5,
+    "text": "14",
+    "true_entities": [
+      {
+        "text": "14",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 32,
+    "col": 6,
+    "text": "Électricité de France",
+    "true_entities": [
+      {
+        "text": "Électricité de France",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 32,
+    "col": 7,
+    "text": "PWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 32,
+    "col": 8,
+    "text": "Areva",
+    "true_entities": [
+      {
+        "text": "Areva",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 33,
+    "col": 0,
+    "text": "Чехия[44]",
+    "true_entities": [
+      {
+        "text": "Чехия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 33,
+    "col": 1,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 33,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 33,
+    "col": 3,
+    "text": "2ВВЭР",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 33,
+    "col": 4,
+    "text": "1",
+    "true_entities": [
+      {
+        "text": "1",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 33,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 33,
+    "col": 6,
+    "text": "CEZ Group",
+    "true_entities": [
+      {
+        "text": "CEZ Group",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 33,
+    "col": 7,
+    "text": "ВВЭР",
+    "true_entities": [
+      {
+        "text": "ВВЭР",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 33,
+    "col": 8,
+    "text": "ТВЭЛ",
+    "true_entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 34,
+    "col": 0,
+    "text": "Швейцария[45]",
+    "true_entities": [
+      {
+        "text": "Швейцария",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 34,
+    "col": 1,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 34,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 34,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 34,
+    "col": 4,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 34,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 34,
+    "col": 6,
+    "text": "Swissnuclear",
+    "true_entities": [
+      {
+        "text": "Swissnuclear",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 34,
+    "col": 7,
+    "text": "3PWR, 1BWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 34,
+    "col": 8,
+    "text": "Westinghouse, General Electric",
+    "true_entities": [
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      },
+      {
+        "text": "General Electric",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 35,
+    "col": 0,
+    "text": "Швеция[46]",
+    "true_entities": [
+      {
+        "text": "Швеция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 35,
+    "col": 1,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 35,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 35,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 35,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 35,
+    "col": 5,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 35,
+    "col": 6,
+    "text": "Vattenfall (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "Vattenfall",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 35,
+    "col": 7,
+    "text": "5BWR, 2PWR",
+    "true_entities": [
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 35,
+    "col": 8,
+    "text": "Westinghouse",
+    "true_entities": [
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 36,
+    "col": 0,
+    "text": "Южная Корея[47][48][49]",
+    "true_entities": [
+      {
+        "text": "Южная Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 36,
+    "col": 1,
+    "text": "24",
+    "true_entities": [
+      {
+        "text": "24",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 36,
+    "col": 2,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 36,
+    "col": 3,
+    "text": "8",
+    "true_entities": [
+      {
+        "text": "8",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 36,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 36,
+    "col": 5,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 36,
+    "col": 6,
+    "text": "KHNP (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "KHNP",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 36,
+    "col": 7,
+    "text": "21PWR, 3CANDU",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "CANDU",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 36,
+    "col": 8,
+    "text": "Korea Nuclear Fuel (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "Korea Nuclear Fuel",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 37,
+    "col": 0,
+    "text": "ЮАР[50][51][52]",
+    "true_entities": [
+      {
+        "text": "ЮАР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 37,
+    "col": 1,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 37,
+    "col": 2,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 37,
+    "col": 3,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 37,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 37,
+    "col": 5,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 37,
+    "col": 6,
+    "text": "Eskom (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "Eskom",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 37,
+    "col": 7,
+    "text": "PWR",
+    "true_entities": [
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 37,
+    "col": 8,
+    "text": "Westinghouse",
+    "true_entities": [
+      {
+        "text": "Westinghouse",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 38,
+    "col": 0,
+    "text": "Япония[53][54][55]",
+    "true_entities": [
+      {
+        "text": "Япония",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 38,
+    "col": 1,
+    "text": "33",
+    "true_entities": [
+      {
+        "text": "33",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 38,
+    "col": 2,
+    "text": "2",
+    "true_entities": [
+      {
+        "text": "2",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 38,
+    "col": 3,
+    "text": "9",
+    "true_entities": [
+      {
+        "text": "9",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 38,
+    "col": 4,
+    "text": "0",
+    "true_entities": [
+      {
+        "text": "0",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 38,
+    "col": 5,
+    "text": "27",
+    "true_entities": [
+      {
+        "text": "27",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 38,
+    "col": 6,
+    "text": "TEPCO, Kyushu (англ.)русск., Chubu, Tohoku (англ.)русск., Shikoku (англ.)русск., KEPCO, Hokuriku (англ.)русск., Chugoku, Hokkaido (англ.)русск., JAPC (англ.)русск.",
+    "true_entities": [
+      {
+        "text": "TEPCO",
+        "label": "ORG"
+      },
+      {
+        "text": "Kyushu",
+        "label": "ORG"
+      },
+      {
+        "text": "Chubu",
+        "label": "ORG"
+      },
+      {
+        "text": "Tohoku",
+        "label": "ORG"
+      },
+      {
+        "text": "Shikoku",
+        "label": "ORG"
+      },
+      {
+        "text": "KEPCO",
+        "label": "ORG"
+      },
+      {
+        "text": "Hokuriku",
+        "label": "ORG"
+      },
+      {
+        "text": "Chugoku",
+        "label": "ORG"
+      },
+      {
+        "text": "Hokkaido",
+        "label": "ORG"
+      },
+      {
+        "text": "JAPC",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 38,
+    "col": 7,
+    "text": "13BWR, 4ABWR, 16PWR",
+    "true_entities": [
+      {
+        "text": "BWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "ABWR",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "PWR",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 38,
+    "col": 8,
+    "text": "Toshiba, JFNL (англ.)русск., Mitsubishi Heavy Industries, Hitachi, Nuclear Fuel Industries",
+    "true_entities": [
+      {
+        "text": "Toshiba",
+        "label": "ORG"
+      },
+      {
+        "text": "JFNL",
+        "label": "ORG"
+      },
+      {
+        "text": "Mitsubishi Heavy Industries",
+        "label": "ORG"
+      },
+      {
+        "text": "Hitachi",
+        "label": "ORG"
+      },
+      {
+        "text": "Nuclear Fuel Industries",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 39,
+    "col": 0,
+    "text": "В мире",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 39,
+    "col": 1,
+    "text": "443",
+    "true_entities": [
+      {
+        "text": "443",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 39,
+    "col": 2,
+    "text": "50",
+    "true_entities": [
+      {
+        "text": "50",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 39,
+    "col": 3,
+    "text": "118",
+    "true_entities": [
+      {
+        "text": "118",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 39,
+    "col": 4,
+    "text": "103",
+    "true_entities": [
+      {
+        "text": "103",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 39,
+    "col": 5,
+    "text": "187",
+    "true_entities": [
+      {
+        "text": "187",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 60,
+    "row": 39,
+    "col": 6,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 39,
+    "col": 7,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 39,
+    "col": 8,
+    "text": "",
+    "true_entities": []
+  }
+]

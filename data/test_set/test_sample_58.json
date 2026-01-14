@@ -1,0 +1,2713 @@
+[
+  {
+    "table_id": 58,
+    "row": 2,
+    "col": 0,
+    "text": "1963",
+    "true_entities": [
+      {
+        "text": "1963",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 2,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 2,
+    "col": 2,
+    "text": "Человек, который сомневается (киноальманах)",
+    "true_entities": [
+      {
+        "text": "Человек, который сомневается",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 2,
+    "col": 3,
+    "text": "спортсмен, приятель Бориса (в титрах не указан)",
+    "true_entities": [
+      {
+        "text": "Бориса",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 3,
+    "col": 0,
+    "text": "1965",
+    "true_entities": [
+      {
+        "text": "1965",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 3,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 3,
+    "col": 2,
+    "text": "Рано утром",
+    "true_entities": [
+      {
+        "text": "Рано утром",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 3,
+    "col": 3,
+    "text": "парень, провожающий Надю",
+    "true_entities": [
+      {
+        "text": "Надю",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 4,
+    "col": 0,
+    "text": "1968",
+    "true_entities": [
+      {
+        "text": "1968",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 4,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 4,
+    "col": 2,
+    "text": "Три дня Виктора Чернышёва",
+    "true_entities": [
+      {
+        "text": "Три дня Виктора Чернышёва",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Виктора Чернышёва",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 4,
+    "col": 3,
+    "text": "Виктор Чернышёв",
+    "true_entities": [
+      {
+        "text": "Виктор Чернышёв",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 5,
+    "col": 0,
+    "text": "1969",
+    "true_entities": [
+      {
+        "text": "1969",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 5,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 5,
+    "col": 2,
+    "text": "Вчера, сегодня и всегда",
+    "true_entities": [
+      {
+        "text": "Вчера, сегодня и всегда",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 5,
+    "col": 3,
+    "text": "Сергей",
+    "true_entities": [
+      {
+        "text": "Сергей",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 6,
+    "col": 0,
+    "text": "1970",
+    "true_entities": [
+      {
+        "text": "1970",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 6,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 6,
+    "col": 2,
+    "text": "Севастополь",
+    "true_entities": [
+      {
+        "text": "Севастополь",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 6,
+    "col": 3,
+    "text": "Сергей Шелехов",
+    "true_entities": [
+      {
+        "text": "Сергей Шелехов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 7,
+    "col": 0,
+    "text": "1970",
+    "true_entities": [
+      {
+        "text": "1970",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 7,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 7,
+    "col": 2,
+    "text": "Ночная смена",
+    "true_entities": [
+      {
+        "text": "Ночная смена",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 7,
+    "col": 3,
+    "text": "Евгений Грибов, диспетчер строительства",
+    "true_entities": [
+      {
+        "text": "Евгений Грибов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 8,
+    "col": 0,
+    "text": "1971",
+    "true_entities": [
+      {
+        "text": "1971",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 8,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 8,
+    "col": 2,
+    "text": "Тени исчезают в полдень",
+    "true_entities": [
+      {
+        "text": "Тени исчезают в полдень",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 8,
+    "col": 3,
+    "text": "Федя Морозов",
+    "true_entities": [
+      {
+        "text": "Федя Морозов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 9,
+    "col": 0,
+    "text": "1971",
+    "true_entities": [
+      {
+        "text": "1971",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 9,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 9,
+    "col": 2,
+    "text": "Поезд в далёкий август",
+    "true_entities": [
+      {
+        "text": "Поезд в далёкий август",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 9,
+    "col": 3,
+    "text": "Имя персонажа не указано",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 10,
+    "col": 0,
+    "text": "1971",
+    "true_entities": [
+      {
+        "text": "1971",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 10,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 10,
+    "col": 2,
+    "text": "Человек в проходном дворе",
+    "true_entities": [
+      {
+        "text": "Человек в проходном дворе",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 10,
+    "col": 3,
+    "text": "Борис Вараксин",
+    "true_entities": [
+      {
+        "text": "Борис Вараксин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 11,
+    "col": 0,
+    "text": "1972",
+    "true_entities": [
+      {
+        "text": "1972",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 11,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 11,
+    "col": 2,
+    "text": "Илга-Иволга",
+    "true_entities": [
+      {
+        "text": "Илга-Иволга",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 11,
+    "col": 3,
+    "text": "Фёдор Полигин",
+    "true_entities": [
+      {
+        "text": "Фёдор Полигин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 12,
+    "col": 0,
+    "text": "1972",
+    "true_entities": [
+      {
+        "text": "1972",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 12,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 12,
+    "col": 2,
+    "text": "Страница жизни (телеспектакль)",
+    "true_entities": [
+      {
+        "text": "Страница жизни",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 12,
+    "col": 3,
+    "text": "Костя",
+    "true_entities": [
+      {
+        "text": "Костя",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 13,
+    "col": 0,
+    "text": "1973",
+    "true_entities": [
+      {
+        "text": "1973",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 13,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 13,
+    "col": 2,
+    "text": "Чёрный принц",
+    "true_entities": [
+      {
+        "text": "Чёрный принц",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 13,
+    "col": 3,
+    "text": "Ямцов",
+    "true_entities": [
+      {
+        "text": "Ямцов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 14,
+    "col": 0,
+    "text": "1973",
+    "true_entities": [
+      {
+        "text": "1973",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 14,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 14,
+    "col": 2,
+    "text": "Горячий снег",
+    "true_entities": [
+      {
+        "text": "Горячий снег",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 14,
+    "col": 3,
+    "text": "Аржемачев, лейтенант",
+    "true_entities": [
+      {
+        "text": "Аржемачев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 15,
+    "col": 0,
+    "text": "1973",
+    "true_entities": [
+      {
+        "text": "1973",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 15,
+    "col": 1,
+    "text": "тс",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 15,
+    "col": 2,
+    "text": "Разные люди",
+    "true_entities": [
+      {
+        "text": "Разные люди",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 15,
+    "col": 3,
+    "text": "Котовский",
+    "true_entities": [
+      {
+        "text": "Котовский",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 16,
+    "col": 0,
+    "text": "1974",
+    "true_entities": [
+      {
+        "text": "1974",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 16,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 16,
+    "col": 2,
+    "text": "Верный друг Санчо",
+    "true_entities": [
+      {
+        "text": "Верный друг Санчо",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Санчо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 16,
+    "col": 3,
+    "text": "Вадим, водитель",
+    "true_entities": [
+      {
+        "text": "Вадим",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 17,
+    "col": 0,
+    "text": "1974",
+    "true_entities": [
+      {
+        "text": "1974",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 17,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 17,
+    "col": 2,
+    "text": "Потому что люблю",
+    "true_entities": [
+      {
+        "text": "Потому что люблю",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 17,
+    "col": 3,
+    "text": "Николай Муравьёв",
+    "true_entities": [
+      {
+        "text": "Николай Муравьёв",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 18,
+    "col": 0,
+    "text": "1974",
+    "true_entities": [
+      {
+        "text": "1974",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 18,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 18,
+    "col": 2,
+    "text": "Трудные этажи",
+    "true_entities": [
+      {
+        "text": "Трудные этажи",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 18,
+    "col": 3,
+    "text": "Анатолий Смирнов",
+    "true_entities": [
+      {
+        "text": "Анатолий Смирнов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 19,
+    "col": 0,
+    "text": "1975",
+    "true_entities": [
+      {
+        "text": "1975",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 19,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 19,
+    "col": 2,
+    "text": "Юркины рассветы",
+    "true_entities": [
+      {
+        "text": "Юркины рассветы",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 19,
+    "col": 3,
+    "text": "Василий Куренной",
+    "true_entities": [
+      {
+        "text": "Василий Куренной",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 20,
+    "col": 0,
+    "text": "1975",
+    "true_entities": [
+      {
+        "text": "1975",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 20,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 20,
+    "col": 2,
+    "text": "Маленький сержант / Borisek - malý serzhant",
+    "true_entities": [
+      {
+        "text": "Маленький сержант",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 20,
+    "col": 3,
+    "text": "Климов",
+    "true_entities": [
+      {
+        "text": "Климов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 21,
+    "col": 0,
+    "text": "1975",
+    "true_entities": [
+      {
+        "text": "1975",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 21,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 21,
+    "col": 2,
+    "text": "Переходим к любви",
+    "true_entities": [
+      {
+        "text": "Переходим к любви",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 21,
+    "col": 3,
+    "text": "Леонид Шляхтич",
+    "true_entities": [
+      {
+        "text": "Леонид Шляхтич",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 22,
+    "col": 0,
+    "text": "1975",
+    "true_entities": [
+      {
+        "text": "1975",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 22,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 22,
+    "col": 2,
+    "text": "Освобождение Праги / Osvobození Prahy",
+    "true_entities": [
+      {
+        "text": "Освобождение Праги",
+        "label": "EVENT"
+      },
+      {
+        "text": "Праги",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 22,
+    "col": 3,
+    "text": "Гончаренко",
+    "true_entities": [
+      {
+        "text": "Гончаренко",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 23,
+    "col": 0,
+    "text": "1976",
+    "true_entities": [
+      {
+        "text": "1976",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 23,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 23,
+    "col": 2,
+    "text": "Жить по-своему",
+    "true_entities": [
+      {
+        "text": "Жить по-своему",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 23,
+    "col": 3,
+    "text": "Сергей",
+    "true_entities": [
+      {
+        "text": "Сергей",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 24,
+    "col": 0,
+    "text": "1976",
+    "true_entities": [
+      {
+        "text": "1976",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 24,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 24,
+    "col": 2,
+    "text": "Память земли",
+    "true_entities": [
+      {
+        "text": "Память земли",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 24,
+    "col": 3,
+    "text": "Голиков",
+    "true_entities": [
+      {
+        "text": "Голиков",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 25,
+    "col": 0,
+    "text": "1977",
+    "true_entities": [
+      {
+        "text": "1977",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 25,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 25,
+    "col": 2,
+    "text": "Кафе «Изотоп»",
+    "true_entities": [
+      {
+        "text": "Кафе «Изотоп»",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Изотоп",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 25,
+    "col": 3,
+    "text": "Харламов",
+    "true_entities": [
+      {
+        "text": "Харламов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 26,
+    "col": 0,
+    "text": "1977",
+    "true_entities": [
+      {
+        "text": "1977",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 26,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 26,
+    "col": 2,
+    "text": "Солдаты свободы",
+    "true_entities": [
+      {
+        "text": "Солдаты свободы",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 26,
+    "col": 3,
+    "text": "Морозов, лейтенант",
+    "true_entities": [
+      {
+        "text": "Морозов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 27,
+    "col": 0,
+    "text": "1978",
+    "true_entities": [
+      {
+        "text": "1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 27,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 27,
+    "col": 2,
+    "text": "Голубка",
+    "true_entities": [
+      {
+        "text": "Голубка",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 27,
+    "col": 3,
+    "text": "Александр Чуркин",
+    "true_entities": [
+      {
+        "text": "Александр Чуркин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 28,
+    "col": 0,
+    "text": "1978",
+    "true_entities": [
+      {
+        "text": "1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 28,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 28,
+    "col": 2,
+    "text": "Схватка в пурге",
+    "true_entities": [
+      {
+        "text": "Схватка в пурге",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 28,
+    "col": 3,
+    "text": "Игорь Лужин",
+    "true_entities": [
+      {
+        "text": "Игорь Лужин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 29,
+    "col": 0,
+    "text": "1978",
+    "true_entities": [
+      {
+        "text": "1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 29,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 29,
+    "col": 2,
+    "text": "Трактир на Пятницкой",
+    "true_entities": [
+      {
+        "text": "Трактир на Пятницкой",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Пятницкой",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 29,
+    "col": 3,
+    "text": "Василий Васильевич Климов, начальник милиции",
+    "true_entities": [
+      {
+        "text": "Василий Васильевич Климов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 30,
+    "col": 0,
+    "text": "1978",
+    "true_entities": [
+      {
+        "text": "1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 30,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 30,
+    "col": 2,
+    "text": "В день праздника",
+    "true_entities": [
+      {
+        "text": "В день праздника",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 30,
+    "col": 3,
+    "text": "Василий, сын Гринина",
+    "true_entities": [
+      {
+        "text": "Василий",
+        "label": "PER"
+      },
+      {
+        "text": "Гринина",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 31,
+    "col": 0,
+    "text": "1978",
+    "true_entities": [
+      {
+        "text": "1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 31,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 31,
+    "col": 2,
+    "text": "И ты увидишь небо",
+    "true_entities": [
+      {
+        "text": "И ты увидишь небо",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 31,
+    "col": 3,
+    "text": "Дронов, лейтенант",
+    "true_entities": [
+      {
+        "text": "Дронов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 32,
+    "col": 0,
+    "text": "1978",
+    "true_entities": [
+      {
+        "text": "1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 32,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 32,
+    "col": 2,
+    "text": "Счёт человеческий",
+    "true_entities": [
+      {
+        "text": "Счёт человеческий",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 32,
+    "col": 3,
+    "text": "Имя персонажа не указано",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 33,
+    "col": 0,
+    "text": "1979",
+    "true_entities": [
+      {
+        "text": "1979",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 33,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 33,
+    "col": 2,
+    "text": "Утренние звёзды / Gwiazdy poranne (ЧССР)",
+    "true_entities": [
+      {
+        "text": "Утренние звёзды",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "ЧССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 33,
+    "col": 3,
+    "text": "Уланов, советский танкист",
+    "true_entities": [
+      {
+        "text": "Уланов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 34,
+    "col": 0,
+    "text": "1980",
+    "true_entities": [
+      {
+        "text": "1980",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 34,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 34,
+    "col": 2,
+    "text": "Алёша",
+    "true_entities": [
+      {
+        "text": "Алёша",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 34,
+    "col": 3,
+    "text": "Аркадий Николаевич, директор техникума",
+    "true_entities": [
+      {
+        "text": "Аркадий Николаевич",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 35,
+    "col": 0,
+    "text": "1980",
+    "true_entities": [
+      {
+        "text": "1980",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 35,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 35,
+    "col": 2,
+    "text": "Желаю успеха",
+    "true_entities": [
+      {
+        "text": "Желаю успеха",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 35,
+    "col": 3,
+    "text": "Пётр Северин",
+    "true_entities": [
+      {
+        "text": "Пётр Северин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 36,
+    "col": 0,
+    "text": "1980",
+    "true_entities": [
+      {
+        "text": "1980",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 36,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 36,
+    "col": 2,
+    "text": "Коней на переправе не меняют",
+    "true_entities": [
+      {
+        "text": "Коней на переправе не меняют",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 36,
+    "col": 3,
+    "text": "Малышев, парторг стройки",
+    "true_entities": [
+      {
+        "text": "Малышев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 37,
+    "col": 0,
+    "text": "1981",
+    "true_entities": [
+      {
+        "text": "1981",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 37,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 37,
+    "col": 2,
+    "text": "Кольцо из Амстердама",
+    "true_entities": [
+      {
+        "text": "Кольцо из Амстердама",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Амстердама",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 37,
+    "col": 3,
+    "text": "Краснов, майор госбезопасности",
+    "true_entities": [
+      {
+        "text": "Краснов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 38,
+    "col": 0,
+    "text": "1981",
+    "true_entities": [
+      {
+        "text": "1981",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 38,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 38,
+    "col": 2,
+    "text": "Послезавтра, в полночь",
+    "true_entities": [
+      {
+        "text": "Послезавтра, в полночь",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 38,
+    "col": 3,
+    "text": "Ершов",
+    "true_entities": [
+      {
+        "text": "Ершов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 39,
+    "col": 0,
+    "text": "1982",
+    "true_entities": [
+      {
+        "text": "1982",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 39,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 39,
+    "col": 2,
+    "text": "В последнюю очередь",
+    "true_entities": [
+      {
+        "text": "В последнюю очередь",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 39,
+    "col": 3,
+    "text": "Имя персонажа не указано",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 40,
+    "col": 0,
+    "text": "1982",
+    "true_entities": [
+      {
+        "text": "1982",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 40,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 40,
+    "col": 2,
+    "text": "Наследница по прямой",
+    "true_entities": [
+      {
+        "text": "Наследница по прямой",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 40,
+    "col": 3,
+    "text": "отец Володи",
+    "true_entities": [
+      {
+        "text": "Володи",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 41,
+    "col": 0,
+    "text": "1982",
+    "true_entities": [
+      {
+        "text": "1982",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 41,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 41,
+    "col": 2,
+    "text": "Инспектор Лосев",
+    "true_entities": [
+      {
+        "text": "Инспектор Лосев",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Лосев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 41,
+    "col": 3,
+    "text": "Пётр Горохов, уголовник",
+    "true_entities": [
+      {
+        "text": "Пётр Горохов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 42,
+    "col": 0,
+    "text": "1983",
+    "true_entities": [
+      {
+        "text": "1983",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 42,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 42,
+    "col": 2,
+    "text": "Дважды рождённый",
+    "true_entities": [
+      {
+        "text": "Дважды рождённый",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 42,
+    "col": 3,
+    "text": "капитан",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 43,
+    "col": 0,
+    "text": "1984",
+    "true_entities": [
+      {
+        "text": "1984",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 43,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 43,
+    "col": 2,
+    "text": "Кто сильнее его",
+    "true_entities": [
+      {
+        "text": "Кто сильнее его",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 43,
+    "col": 3,
+    "text": "Степан",
+    "true_entities": [
+      {
+        "text": "Степан",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 44,
+    "col": 0,
+    "text": "1984",
+    "true_entities": [
+      {
+        "text": "1984",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 44,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 44,
+    "col": 2,
+    "text": "Первая конная",
+    "true_entities": [
+      {
+        "text": "Первая конная",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 44,
+    "col": 3,
+    "text": "Ефремов",
+    "true_entities": [
+      {
+        "text": "Ефремов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 45,
+    "col": 0,
+    "text": "1985",
+    "true_entities": [
+      {
+        "text": "1985",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 45,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 45,
+    "col": 2,
+    "text": "Батальоны просят огня",
+    "true_entities": [
+      {
+        "text": "Батальоны просят огня",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 45,
+    "col": 3,
+    "text": "Семынин, майор",
+    "true_entities": [
+      {
+        "text": "Семынин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 46,
+    "col": 0,
+    "text": "1985",
+    "true_entities": [
+      {
+        "text": "1985",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 46,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 46,
+    "col": 2,
+    "text": "Иван Бабушкин",
+    "true_entities": [
+      {
+        "text": "Иван Бабушкин",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Иван Бабушкин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 46,
+    "col": 3,
+    "text": "Симбирцев",
+    "true_entities": [
+      {
+        "text": "Симбирцев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 47,
+    "col": 0,
+    "text": "1985",
+    "true_entities": [
+      {
+        "text": "1985",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 47,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 47,
+    "col": 2,
+    "text": "Контрудар",
+    "true_entities": [
+      {
+        "text": "Контрудар",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 47,
+    "col": 3,
+    "text": "Крайнюков, генерал",
+    "true_entities": [
+      {
+        "text": "Крайнюков",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 48,
+    "col": 0,
+    "text": "1986",
+    "true_entities": [
+      {
+        "text": "1986",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 48,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 48,
+    "col": 2,
+    "text": "Размах крыльев",
+    "true_entities": [
+      {
+        "text": "Размах крыльев",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 48,
+    "col": 3,
+    "text": "пассажир 1-го салона",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 49,
+    "col": 0,
+    "text": "1986",
+    "true_entities": [
+      {
+        "text": "1986",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 49,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 49,
+    "col": 2,
+    "text": "Рысь возвращается",
+    "true_entities": [
+      {
+        "text": "Рысь возвращается",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 49,
+    "col": 3,
+    "text": "Гвоздь",
+    "true_entities": [
+      {
+        "text": "Гвоздь",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 50,
+    "col": 0,
+    "text": "1986",
+    "true_entities": [
+      {
+        "text": "1986",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 50,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 50,
+    "col": 2,
+    "text": "Государственная граница. Год сорок первый",
+    "true_entities": [
+      {
+        "text": "Государственная граница. Год сорок первый",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 50,
+    "col": 3,
+    "text": "Свиридов",
+    "true_entities": [
+      {
+        "text": "Свиридов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 51,
+    "col": 0,
+    "text": "1987",
+    "true_entities": [
+      {
+        "text": "1987",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 51,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 51,
+    "col": 2,
+    "text": "Долина мести",
+    "true_entities": [
+      {
+        "text": "Долина мести",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 51,
+    "col": 3,
+    "text": "Имя персонажа не указано",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 52,
+    "col": 0,
+    "text": "1987",
+    "true_entities": [
+      {
+        "text": "1987",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 52,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 52,
+    "col": 2,
+    "text": "Причалы",
+    "true_entities": [
+      {
+        "text": "Причалы",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 52,
+    "col": 3,
+    "text": "Фёдор Степанович Дёмин, боцман с траулера «Даурия»",
+    "true_entities": [
+      {
+        "text": "Фёдор Степанович Дёмин",
+        "label": "PER"
+      },
+      {
+        "text": "траулера «Даурия»",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 53,
+    "col": 0,
+    "text": "1987",
+    "true_entities": [
+      {
+        "text": "1987",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 53,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 53,
+    "col": 2,
+    "text": "Государственная граница. За порогом победы",
+    "true_entities": [
+      {
+        "text": "Государственная граница. За порогом победы",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 53,
+    "col": 3,
+    "text": "Свиридов",
+    "true_entities": [
+      {
+        "text": "Свиридов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 54,
+    "col": 0,
+    "text": "1988",
+    "true_entities": [
+      {
+        "text": "1988",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 54,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 54,
+    "col": 2,
+    "text": "Белые вороны",
+    "true_entities": [
+      {
+        "text": "Белые вороны",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 54,
+    "col": 3,
+    "text": "Виктор Акимович, отец Насти",
+    "true_entities": [
+      {
+        "text": "Виктор Акимович",
+        "label": "PER"
+      },
+      {
+        "text": "Насти",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 55,
+    "col": 0,
+    "text": "1989",
+    "true_entities": [
+      {
+        "text": "1989",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 55,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 55,
+    "col": 2,
+    "text": "Бывший папа, бывший сын",
+    "true_entities": [
+      {
+        "text": "Бывший папа, бывший сын",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 55,
+    "col": 3,
+    "text": "сожитель Клавы",
+    "true_entities": [
+      {
+        "text": "Клавы",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 56,
+    "col": 0,
+    "text": "1990",
+    "true_entities": [
+      {
+        "text": "1990",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 56,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 56,
+    "col": 2,
+    "text": "Неизвестные страницы из жизни разведчика",
+    "true_entities": [
+      {
+        "text": "Неизвестные страницы из жизни разведчика",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 56,
+    "col": 3,
+    "text": "Притула, батальонный комиссар",
+    "true_entities": [
+      {
+        "text": "Притула",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 57,
+    "col": 0,
+    "text": "1991",
+    "true_entities": [
+      {
+        "text": "1991",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 57,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 57,
+    "col": 2,
+    "text": "Глухомань",
+    "true_entities": [
+      {
+        "text": "Глухомань",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 57,
+    "col": 3,
+    "text": "Виктор Колосов",
+    "true_entities": [
+      {
+        "text": "Виктор Колосов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 58,
+    "col": 0,
+    "text": "1992",
+    "true_entities": [
+      {
+        "text": "1992",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 58,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 58,
+    "col": 2,
+    "text": "Осколок «Челленджера»",
+    "true_entities": [
+      {
+        "text": "Осколок «Челленджера»",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Челленджера",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 58,
+    "col": 3,
+    "text": "пилот",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 59,
+    "col": 0,
+    "text": "1993",
+    "true_entities": [
+      {
+        "text": "1993",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 59,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 59,
+    "col": 2,
+    "text": "Зачем алиби честному человеку?",
+    "true_entities": [
+      {
+        "text": "Зачем алиби честному человеку?",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 59,
+    "col": 3,
+    "text": "свидетель",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 60,
+    "col": 0,
+    "text": "1998",
+    "true_entities": [
+      {
+        "text": "1998",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 60,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 60,
+    "col": 2,
+    "text": "Отражение",
+    "true_entities": [
+      {
+        "text": "Отражение",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 60,
+    "col": 3,
+    "text": "дядя Гена",
+    "true_entities": [
+      {
+        "text": "Гена",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 61,
+    "col": 0,
+    "text": "2000",
+    "true_entities": [
+      {
+        "text": "2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 61,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 61,
+    "col": 2,
+    "text": "Президент и его внучка",
+    "true_entities": [
+      {
+        "text": "Президент и его внучка",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 61,
+    "col": 3,
+    "text": "мужик у пивного ларька",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 62,
+    "col": 0,
+    "text": "2001",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 62,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 62,
+    "col": 2,
+    "text": "Ночь на кордоне",
+    "true_entities": [
+      {
+        "text": "Ночь на кордоне",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 62,
+    "col": 3,
+    "text": "Аржанов, лесник",
+    "true_entities": [
+      {
+        "text": "Аржанов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 63,
+    "col": 0,
+    "text": "2001",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 63,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 63,
+    "col": 2,
+    "text": "Сыщик с плохим характером",
+    "true_entities": [
+      {
+        "text": "Сыщик с плохим характером",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 63,
+    "col": 3,
+    "text": "алкоголик",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 64,
+    "col": 0,
+    "text": "2007",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 64,
+    "col": 1,
+    "text": "ф",
+    "true_entities": []
+  },
+  {
+    "table_id": 58,
+    "row": 64,
+    "col": 2,
+    "text": "Диверсант 2: Конец войны",
+    "true_entities": [
+      {
+        "text": "Диверсант 2: Конец войны",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 58,
+    "row": 64,
+    "col": 3,
+    "text": "Аркадьич",
+    "true_entities": [
+      {
+        "text": "Аркадьич",
+        "label": "PER"
+      }
+    ]
+  }
+]

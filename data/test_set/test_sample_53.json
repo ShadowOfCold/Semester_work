@@ -1,0 +1,1418 @@
+[
+  {
+    "table_id": 53,
+    "row": 1,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 1,
+    "col": 1,
+    "text": "Венера-1",
+    "true_entities": [
+      {
+        "text": "Венера-1",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 1,
+    "col": 2,
+    "text": "12 февраля 1961",
+    "true_entities": [
+      {
+        "text": "12 февраля 1961",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 1,
+    "col": 3,
+    "text": "Первый пролёт мимо Венеры. Из-за потери связи научная программа не выполнена",
+    "true_entities": [
+      {
+        "text": "Венеры",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 2,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 2,
+    "col": 1,
+    "text": "Маринер-2",
+    "true_entities": [
+      {
+        "text": "Маринер-2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 2,
+    "col": 2,
+    "text": "27 августа 1962",
+    "true_entities": [
+      {
+        "text": "27 августа 1962",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 2,
+    "col": 3,
+    "text": "Пролёт. Сбор научной информации",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 3,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 3,
+    "col": 1,
+    "text": "Зонд-1",
+    "true_entities": [
+      {
+        "text": "Зонд-1",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 3,
+    "col": 2,
+    "text": "2 апреля 1964",
+    "true_entities": [
+      {
+        "text": "2 апреля 1964",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 3,
+    "col": 3,
+    "text": "Пролёт. Сбор научной информации",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 4,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 4,
+    "col": 1,
+    "text": "Венера-2",
+    "true_entities": [
+      {
+        "text": "Венера-2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 4,
+    "col": 2,
+    "text": "12 ноября 1965",
+    "true_entities": [
+      {
+        "text": "12 ноября 1965",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 4,
+    "col": 3,
+    "text": "Пролёт. Сбор научной информации",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 5,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 5,
+    "col": 1,
+    "text": "Венера-3",
+    "true_entities": [
+      {
+        "text": "Венера-3",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 5,
+    "col": 2,
+    "text": "16 ноября 1965",
+    "true_entities": [
+      {
+        "text": "16 ноября 1965",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 5,
+    "col": 3,
+    "text": "Достижение Венеры. Сбор научной информации",
+    "true_entities": [
+      {
+        "text": "Венеры",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 6,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 6,
+    "col": 1,
+    "text": "Венера-4",
+    "true_entities": [
+      {
+        "text": "Венера-4",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 6,
+    "col": 2,
+    "text": "12 июня 1967",
+    "true_entities": [
+      {
+        "text": "12 июня 1967",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 6,
+    "col": 3,
+    "text": "Атмосферные исследования и попытка достижения поверхности (аппарат раздавлен давлением, о котором до этих пор ничего не было известно)",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 7,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 7,
+    "col": 1,
+    "text": "Маринер-5",
+    "true_entities": [
+      {
+        "text": "Маринер-5",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 7,
+    "col": 2,
+    "text": "14 июня 1967",
+    "true_entities": [
+      {
+        "text": "14 июня 1967",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 7,
+    "col": 3,
+    "text": "Пролёт с целью исследований атмосферы",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 8,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 8,
+    "col": 1,
+    "text": "Венера-5",
+    "true_entities": [
+      {
+        "text": "Венера-5",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 8,
+    "col": 2,
+    "text": "5 января 1969",
+    "true_entities": [
+      {
+        "text": "5 января 1969",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 8,
+    "col": 3,
+    "text": "Спуск в атмосфере, определение её химического состава",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 9,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 9,
+    "col": 1,
+    "text": "Венера-6",
+    "true_entities": [
+      {
+        "text": "Венера-6",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 9,
+    "col": 2,
+    "text": "10 января 1969",
+    "true_entities": [
+      {
+        "text": "10 января 1969",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 9,
+    "col": 3,
+    "text": "Спуск в атмосфере, определение её химического состава",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 10,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 10,
+    "col": 1,
+    "text": "Венера-7",
+    "true_entities": [
+      {
+        "text": "Венера-7",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 10,
+    "col": 2,
+    "text": "17 августа 1970",
+    "true_entities": [
+      {
+        "text": "17 августа 1970",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 10,
+    "col": 3,
+    "text": "Первая мягкая посадка на поверхность планеты. Сбор научной информации",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 11,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 11,
+    "col": 1,
+    "text": "Венера-8",
+    "true_entities": [
+      {
+        "text": "Венера-8",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 11,
+    "col": 2,
+    "text": "27 марта 1972",
+    "true_entities": [
+      {
+        "text": "27 марта 1972",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 11,
+    "col": 3,
+    "text": "Мягкая посадка. Пробы грунта.",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 12,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 12,
+    "col": 1,
+    "text": "Маринер-10",
+    "true_entities": [
+      {
+        "text": "Маринер-10",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 12,
+    "col": 2,
+    "text": "4 ноября 1973",
+    "true_entities": [
+      {
+        "text": "4 ноября 1973",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 12,
+    "col": 3,
+    "text": "Пролёт к Меркурию, научные исследования",
+    "true_entities": [
+      {
+        "text": "Меркурию",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 13,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 13,
+    "col": 1,
+    "text": "Венера-9",
+    "true_entities": [
+      {
+        "text": "Венера-9",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 13,
+    "col": 2,
+    "text": "8 июня 1975",
+    "true_entities": [
+      {
+        "text": "8 июня 1975",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 13,
+    "col": 3,
+    "text": "Мягкая посадка модуля и искусственный спутник Венеры. Первые чёрно-белые фотографии поверхности.",
+    "true_entities": [
+      {
+        "text": "Венеры",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 14,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 14,
+    "col": 1,
+    "text": "Венера-10",
+    "true_entities": [
+      {
+        "text": "Венера-10",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 14,
+    "col": 2,
+    "text": "14 июня 1975",
+    "true_entities": [
+      {
+        "text": "14 июня 1975",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 14,
+    "col": 3,
+    "text": "Мягкая посадка модуля и искусственный спутник Венеры. Чёрно-белые фотографии поверхности.",
+    "true_entities": [
+      {
+        "text": "Венеры",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 15,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 15,
+    "col": 1,
+    "text": "Пионер-Венера-1",
+    "true_entities": [
+      {
+        "text": "Пионер-Венера-1",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 15,
+    "col": 2,
+    "text": "20 мая 1978",
+    "true_entities": [
+      {
+        "text": "20 мая 1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 15,
+    "col": 3,
+    "text": "Искусственный спутник, радиолокация поверхности",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 16,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 16,
+    "col": 1,
+    "text": "Пионер-Венера-2",
+    "true_entities": [
+      {
+        "text": "Пионер-Венера-2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 16,
+    "col": 2,
+    "text": "8 августа 1978",
+    "true_entities": [
+      {
+        "text": "8 августа 1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 16,
+    "col": 3,
+    "text": "Вхождение в атмосферу, научные исследования",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 17,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 17,
+    "col": 1,
+    "text": "Венера-11",
+    "true_entities": [
+      {
+        "text": "Венера-11",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 17,
+    "col": 2,
+    "text": "9 сентября 1978",
+    "true_entities": [
+      {
+        "text": "9 сентября 1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 17,
+    "col": 3,
+    "text": "Мягкая посадка модуля, пролёт аппарата",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 18,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 18,
+    "col": 1,
+    "text": "Венера-12",
+    "true_entities": [
+      {
+        "text": "Венера-12",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 18,
+    "col": 2,
+    "text": "14 сентября 1978",
+    "true_entities": [
+      {
+        "text": "14 сентября 1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 18,
+    "col": 3,
+    "text": "Мягкая посадка модуля, пролёт аппарата",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 19,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 19,
+    "col": 1,
+    "text": "Венера-13",
+    "true_entities": [
+      {
+        "text": "Венера-13",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 19,
+    "col": 2,
+    "text": "30 октября 1981",
+    "true_entities": [
+      {
+        "text": "30 октября 1981",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 19,
+    "col": 3,
+    "text": "Мягкая посадка модуля. Первая запись звука на поверхности и первая передача цветного панорамного изображения",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 20,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 20,
+    "col": 1,
+    "text": "Венера-14",
+    "true_entities": [
+      {
+        "text": "Венера-14",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 20,
+    "col": 2,
+    "text": "4 ноября 1981",
+    "true_entities": [
+      {
+        "text": "4 ноября 1981",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 20,
+    "col": 3,
+    "text": "Мягкая посадка модуля. Передача цветного панорамного изображения",
+    "true_entities": []
+  },
+  {
+    "table_id": 53,
+    "row": 21,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 21,
+    "col": 1,
+    "text": "Венера-15",
+    "true_entities": [
+      {
+        "text": "Венера-15",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 21,
+    "col": 2,
+    "text": "2 июня 1983",
+    "true_entities": [
+      {
+        "text": "2 июня 1983",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 21,
+    "col": 3,
+    "text": "Искусственный спутник Венеры, радиолокация",
+    "true_entities": [
+      {
+        "text": "Венеры",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 22,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 22,
+    "col": 1,
+    "text": "Венера-16",
+    "true_entities": [
+      {
+        "text": "Венера-16",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 22,
+    "col": 2,
+    "text": "7 июня 1983",
+    "true_entities": [
+      {
+        "text": "7 июня 1983",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 22,
+    "col": 3,
+    "text": "Искусственный спутник Венеры, радиолокация",
+    "true_entities": [
+      {
+        "text": "Венеры",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 23,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 23,
+    "col": 1,
+    "text": "Вега-1",
+    "true_entities": [
+      {
+        "text": "Вега-1",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 23,
+    "col": 2,
+    "text": "15 декабря 1984",
+    "true_entities": [
+      {
+        "text": "15 декабря 1984",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 23,
+    "col": 3,
+    "text": "Исследование атмосферы зондом-аэростатом, пролёт аппарата к комете Галлея",
+    "true_entities": [
+      {
+        "text": "комете Галлея",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 24,
+    "col": 0,
+    "text": "СССР",
+    "true_entities": [
+      {
+        "text": "СССР",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 24,
+    "col": 1,
+    "text": "Вега-2",
+    "true_entities": [
+      {
+        "text": "Вега-2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 24,
+    "col": 2,
+    "text": "21 декабря 1984",
+    "true_entities": [
+      {
+        "text": "21 декабря 1984",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 24,
+    "col": 3,
+    "text": "Исследование атмосферы зондом-аэростатом, пролёт аппарата к комете Галлея",
+    "true_entities": [
+      {
+        "text": "комете Галлея",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 25,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 25,
+    "col": 1,
+    "text": "Магеллан",
+    "true_entities": [
+      {
+        "text": "Магеллан",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 25,
+    "col": 2,
+    "text": "4 мая 1989",
+    "true_entities": [
+      {
+        "text": "4 мая 1989",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 25,
+    "col": 3,
+    "text": "Искусственный спутник Венеры, подробная радиолокация",
+    "true_entities": [
+      {
+        "text": "Венеры",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 26,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 26,
+    "col": 1,
+    "text": "Галилео",
+    "true_entities": [
+      {
+        "text": "Галилео",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 26,
+    "col": 2,
+    "text": "18 октября 1989",
+    "true_entities": [
+      {
+        "text": "18 октября 1989",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 26,
+    "col": 3,
+    "text": "Пролёт мимо на пути к Юпитеру, научные исследования",
+    "true_entities": [
+      {
+        "text": "Юпитеру",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 27,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 27,
+    "col": 1,
+    "text": "Кассини-Гюйгенс",
+    "true_entities": [
+      {
+        "text": "Кассини-Гюйгенс",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 27,
+    "col": 2,
+    "text": "15 октября 1997",
+    "true_entities": [
+      {
+        "text": "15 октября 1997",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 27,
+    "col": 3,
+    "text": "Пролёт мимо на пути к Сатурну",
+    "true_entities": [
+      {
+        "text": "Сатурну",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 28,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 28,
+    "col": 1,
+    "text": "Мессенджер",
+    "true_entities": [
+      {
+        "text": "Мессенджер",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 28,
+    "col": 2,
+    "text": "3 августа 2004",
+    "true_entities": [
+      {
+        "text": "3 августа 2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 28,
+    "col": 3,
+    "text": "Пролёт мимо на пути к Меркурию, фото издалека",
+    "true_entities": [
+      {
+        "text": "Меркурию",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 29,
+    "col": 0,
+    "text": "ЕКА",
+    "true_entities": [
+      {
+        "text": "ЕКА",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 29,
+    "col": 1,
+    "text": "Венера-экспресс",
+    "true_entities": [
+      {
+        "text": "Венера-экспресс",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 29,
+    "col": 2,
+    "text": "9 ноября 2005",
+    "true_entities": [
+      {
+        "text": "9 ноября 2005",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 29,
+    "col": 3,
+    "text": "Искусственный спутник Венеры, радиолокация южного полюса",
+    "true_entities": [
+      {
+        "text": "Венеры",
+        "label": "MISC"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 30,
+    "col": 0,
+    "text": "Япония",
+    "true_entities": [
+      {
+        "text": "Япония",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 30,
+    "col": 1,
+    "text": "Акацуки",
+    "true_entities": [
+      {
+        "text": "Акацуки",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 30,
+    "col": 2,
+    "text": "21 мая 2010",
+    "true_entities": [
+      {
+        "text": "21 мая 2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 30,
+    "col": 3,
+    "text": "Исследование атмосферы. Попытка выхода на орбиту Венеры в 2010 году закончилась неудачей. После повторной попытки 7 декабря 2015 года аппарат смог удачно выйти на заданную орбиту",
+    "true_entities": [
+      {
+        "text": "Венеры",
+        "label": "MISC"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      },
+      {
+        "text": "7 декабря 2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 31,
+    "col": 0,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 31,
+    "col": 1,
+    "text": "Паркер",
+    "true_entities": [
+      {
+        "text": "Паркер",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 31,
+    "col": 2,
+    "text": "12 августа 2018",
+    "true_entities": [
+      {
+        "text": "12 августа 2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 53,
+    "row": 31,
+    "col": 3,
+    "text": "Несколько гравитационных манёвров для уменьшения перигелия, попутное изучение ударной волны магнитосферы",
+    "true_entities": []
+  }
+]

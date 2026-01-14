@@ -1,0 +1,254 @@
+[
+  {
+    "table_id": 47,
+    "row": 1,
+    "col": 0,
+    "text": "Лига Наций",
+    "true_entities": [
+      {
+        "text": "Лига Наций",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 1,
+    "col": 1,
+    "text": "-",
+    "true_entities": []
+  },
+  {
+    "table_id": 47,
+    "row": 1,
+    "col": 2,
+    "text": "-",
+    "true_entities": []
+  },
+  {
+    "table_id": 47,
+    "row": 1,
+    "col": 3,
+    "text": "League of Nations / Société des Nations",
+    "true_entities": [
+      {
+        "text": "League of Nations",
+        "label": "ORG"
+      },
+      {
+        "text": "Société des Nations",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 1,
+    "col": 4,
+    "text": "1919—1946",
+    "true_entities": [
+      {
+        "text": "1919—1946",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 1,
+    "col": 5,
+    "text": "1934—1939",
+    "true_entities": [
+      {
+        "text": "1934—1939",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 2,
+    "col": 0,
+    "text": "Организация Варшавского договора",
+    "true_entities": [
+      {
+        "text": "Организация Варшавского договора",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 2,
+    "col": 1,
+    "text": "ОВД",
+    "true_entities": [
+      {
+        "text": "ОВД",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 2,
+    "col": 2,
+    "text": "…",
+    "true_entities": []
+  },
+  {
+    "table_id": 47,
+    "row": 2,
+    "col": 3,
+    "text": "…",
+    "true_entities": []
+  },
+  {
+    "table_id": 47,
+    "row": 2,
+    "col": 4,
+    "text": "1955—1991",
+    "true_entities": [
+      {
+        "text": "1955—1991",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 2,
+    "col": 5,
+    "text": "1955—1991",
+    "true_entities": [
+      {
+        "text": "1955—1991",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 3,
+    "col": 0,
+    "text": "Совет экономической взаимопомощи",
+    "true_entities": [
+      {
+        "text": "Совет экономической взаимопомощи",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 3,
+    "col": 1,
+    "text": "СЭВ",
+    "true_entities": [
+      {
+        "text": "СЭВ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 3,
+    "col": 2,
+    "text": "…",
+    "true_entities": []
+  },
+  {
+    "table_id": 47,
+    "row": 3,
+    "col": 3,
+    "text": "…",
+    "true_entities": []
+  },
+  {
+    "table_id": 47,
+    "row": 3,
+    "col": 4,
+    "text": "1949—1991",
+    "true_entities": [
+      {
+        "text": "1949—1991",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 3,
+    "col": 5,
+    "text": "1949—1991",
+    "true_entities": [
+      {
+        "text": "1949—1991",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 4,
+    "col": 0,
+    "text": "Третий коммунистический интернационал",
+    "true_entities": [
+      {
+        "text": "Третий коммунистический интернационал",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 4,
+    "col": 1,
+    "text": "Коминтерн",
+    "true_entities": [
+      {
+        "text": "Коминтерн",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 4,
+    "col": 2,
+    "text": "…",
+    "true_entities": []
+  },
+  {
+    "table_id": 47,
+    "row": 4,
+    "col": 3,
+    "text": "…",
+    "true_entities": []
+  },
+  {
+    "table_id": 47,
+    "row": 4,
+    "col": 4,
+    "text": "1919—1943",
+    "true_entities": [
+      {
+        "text": "1919—1943",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 47,
+    "row": 4,
+    "col": 5,
+    "text": "1919—1943",
+    "true_entities": [
+      {
+        "text": "1919—1943",
+        "label": "DATE"
+      }
+    ]
+  }
+]

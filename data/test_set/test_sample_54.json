@@ -1,0 +1,680 @@
+[
+  {
+    "table_id": 54,
+    "row": 1,
+    "col": 0,
+    "text": "СЗ-1",
+    "true_entities": [
+      {
+        "text": "СЗ-1",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 1,
+    "col": 1,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 1,
+    "col": 2,
+    "text": "Легкий бомбардировщик",
+    "true_entities": [
+      {
+        "text": "Легкий бомбардировщик",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 1,
+    "col": 3,
+    "text": "25 8 1937",
+    "true_entities": [
+      {
+        "text": "25 8 1937",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 1,
+    "col": 4,
+    "text": "3",
+    "true_entities": [
+      {
+        "text": "3",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 1,
+    "col": 5,
+    "text": "н. д.",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 1,
+    "col": 6,
+    "text": "СЗ — Сталин ское Задание",
+    "true_entities": [
+      {
+        "text": "Сталин",
+        "label": "PER"
+      },
+      {
+        "text": "Задание",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 2,
+    "col": 0,
+    "text": "Су-2 (ББ-1)",
+    "true_entities": [
+      {
+        "text": "Су-2",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "ББ-1",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 2,
+    "col": 1,
+    "text": "150px",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 2,
+    "col": 2,
+    "text": "Бомбардировщик",
+    "true_entities": [
+      {
+        "text": "Бомбардировщик",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 2,
+    "col": 3,
+    "text": "25 8 1937",
+    "true_entities": [
+      {
+        "text": "25 8 1937",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 2,
+    "col": 4,
+    "text": "893",
+    "true_entities": [
+      {
+        "text": "893",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 2,
+    "col": 5,
+    "text": "1939—1941",
+    "true_entities": [
+      {
+        "text": "1939—1941",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 2,
+    "col": 6,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 3,
+    "col": 0,
+    "text": "Су-7",
+    "true_entities": [
+      {
+        "text": "Су-7",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 3,
+    "col": 1,
+    "text": "150px",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 3,
+    "col": 2,
+    "text": "Истребитель-бомбардировщик",
+    "true_entities": [
+      {
+        "text": "Истребитель-бомбардировщик",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 3,
+    "col": 3,
+    "text": "7 9 1955",
+    "true_entities": [
+      {
+        "text": "7 9 1955",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 3,
+    "col": 4,
+    "text": "1848",
+    "true_entities": [
+      {
+        "text": "1848",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 3,
+    "col": 5,
+    "text": "1957—1972",
+    "true_entities": [
+      {
+        "text": "1957—1972",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 3,
+    "col": 6,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 4,
+    "col": 0,
+    "text": "Су-17",
+    "true_entities": [
+      {
+        "text": "Су-17",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 4,
+    "col": 1,
+    "text": "150px",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 4,
+    "col": 2,
+    "text": "Истребитель-бомбардировщик",
+    "true_entities": [
+      {
+        "text": "Истребитель-бомбардировщик",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 4,
+    "col": 3,
+    "text": "2 8 1966",
+    "true_entities": [
+      {
+        "text": "2 8 1966",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 4,
+    "col": 4,
+    "text": "2867",
+    "true_entities": [
+      {
+        "text": "2867",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 4,
+    "col": 5,
+    "text": "1969—1990",
+    "true_entities": [
+      {
+        "text": "1969—1990",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 4,
+    "col": 6,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 5,
+    "col": 0,
+    "text": "Су-24",
+    "true_entities": [
+      {
+        "text": "Су-24",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 5,
+    "col": 1,
+    "text": "150px",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 5,
+    "col": 2,
+    "text": "Фронтовой бомбардировщик",
+    "true_entities": [
+      {
+        "text": "Фронтовой бомбардировщик",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 5,
+    "col": 3,
+    "text": "17 1 1970",
+    "true_entities": [
+      {
+        "text": "17 1 1970",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 5,
+    "col": 4,
+    "text": "1400",
+    "true_entities": [
+      {
+        "text": "1400",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 5,
+    "col": 5,
+    "text": "1971—1993",
+    "true_entities": [
+      {
+        "text": "1971—1993",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 5,
+    "col": 6,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 6,
+    "col": 0,
+    "text": "Су-25",
+    "true_entities": [
+      {
+        "text": "Су-25",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 6,
+    "col": 1,
+    "text": "150px",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 6,
+    "col": 2,
+    "text": "Штурмовик",
+    "true_entities": [
+      {
+        "text": "Штурмовик",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 6,
+    "col": 3,
+    "text": "22 2 1975",
+    "true_entities": [
+      {
+        "text": "22 2 1975",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 6,
+    "col": 4,
+    "text": "1320",
+    "true_entities": [
+      {
+        "text": "1320",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 6,
+    "col": 5,
+    "text": "С 1978",
+    "true_entities": [
+      {
+        "text": "1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 6,
+    "col": 6,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 7,
+    "col": 0,
+    "text": "Су-25Т",
+    "true_entities": [
+      {
+        "text": "Су-25Т",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 7,
+    "col": 1,
+    "text": "150px",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 7,
+    "col": 2,
+    "text": "Штурмовик",
+    "true_entities": [
+      {
+        "text": "Штурмовик",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 7,
+    "col": 3,
+    "text": "17 8 1984",
+    "true_entities": [
+      {
+        "text": "17 8 1984",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 7,
+    "col": 4,
+    "text": "20",
+    "true_entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 7,
+    "col": 5,
+    "text": "1991—1996",
+    "true_entities": [
+      {
+        "text": "1991—1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 7,
+    "col": 6,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 8,
+    "col": 0,
+    "text": "Су-34",
+    "true_entities": [
+      {
+        "text": "Су-34",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 8,
+    "col": 1,
+    "text": "150px",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 8,
+    "col": 2,
+    "text": "Фронтовой бомбардировщик",
+    "true_entities": [
+      {
+        "text": "Фронтовой бомбардировщик",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 8,
+    "col": 3,
+    "text": "13 4 1990",
+    "true_entities": [
+      {
+        "text": "13 4 1990",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 8,
+    "col": 4,
+    "text": "118 (на январь 2018 года)",
+    "true_entities": [
+      {
+        "text": "118",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "январь 2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 8,
+    "col": 5,
+    "text": "С 2008",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 8,
+    "col": 6,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 9,
+    "col": 0,
+    "text": "Су-39",
+    "true_entities": [
+      {
+        "text": "Су-39",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 9,
+    "col": 1,
+    "text": "150px",
+    "true_entities": []
+  },
+  {
+    "table_id": 54,
+    "row": 9,
+    "col": 2,
+    "text": "Штурмовик",
+    "true_entities": [
+      {
+        "text": "Штурмовик",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 9,
+    "col": 3,
+    "text": "4 2 1991",
+    "true_entities": [
+      {
+        "text": "4 2 1991",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 9,
+    "col": 4,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 9,
+    "col": 5,
+    "text": "С 1995",
+    "true_entities": [
+      {
+        "text": "1995",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 54,
+    "row": 9,
+    "col": 6,
+    "text": "",
+    "true_entities": []
+  }
+]

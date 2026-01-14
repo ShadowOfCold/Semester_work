@@ -1,0 +1,9864 @@
+[
+  {
+    "table_id": 59,
+    "row": 2,
+    "col": 0,
+    "text": "s1mple",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 2,
+    "col": 1,
+    "text": "Костылев, Александр",
+    "true_entities": [
+      {
+        "text": "Костылев, Александр",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 2,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 2,
+    "col": 3,
+    "text": "Natus Vincere",
+    "true_entities": [
+      {
+        "text": "Natus Vincere",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 2,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 2,
+    "col": 5,
+    "text": "2013 — н. в.",
+    "true_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 3,
+    "col": 0,
+    "text": "Zeus",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 3,
+    "col": 1,
+    "text": "Тесленко, Даниил",
+    "true_entities": [
+      {
+        "text": "Тесленко, Даниил",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 3,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 3,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 3,
+    "col": 4,
+    "text": "Counter-Strike, Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 3,
+    "col": 5,
+    "text": "2002—2019",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 4,
+    "col": 0,
+    "text": "device",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 4,
+    "col": 1,
+    "text": "Ридтц, Николай",
+    "true_entities": [
+      {
+        "text": "Ридтц, Николай",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 4,
+    "col": 2,
+    "text": "Дания",
+    "true_entities": [
+      {
+        "text": "Дания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 4,
+    "col": 3,
+    "text": "Astralis",
+    "true_entities": [
+      {
+        "text": "Astralis",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 4,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 4,
+    "col": 5,
+    "text": "2009 — н. в.",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 5,
+    "col": 0,
+    "text": "kennyS",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 5,
+    "col": 1,
+    "text": "Шраб, Кенни",
+    "true_entities": [
+      {
+        "text": "Шраб, Кенни",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 5,
+    "col": 2,
+    "text": "Франция",
+    "true_entities": [
+      {
+        "text": "Франция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 5,
+    "col": 3,
+    "text": "G2 Esports",
+    "true_entities": [
+      {
+        "text": "G2 Esports",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 5,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 5,
+    "col": 5,
+    "text": "2009 — н. в.",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 6,
+    "col": 0,
+    "text": "Boombl4",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 6,
+    "col": 1,
+    "text": "Михайлов, Кирилл",
+    "true_entities": [
+      {
+        "text": "Михайлов, Кирилл",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 6,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 6,
+    "col": 3,
+    "text": "Natus Vincere",
+    "true_entities": [
+      {
+        "text": "Natus Vincere",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 6,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 6,
+    "col": 5,
+    "text": "2016 — н. в.",
+    "true_entities": [
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 7,
+    "col": 0,
+    "text": "GuardiaN",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 7,
+    "col": 1,
+    "text": "Ковач, Ладислав",
+    "true_entities": [
+      {
+        "text": "Ковач, Ладислав",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 7,
+    "col": 2,
+    "text": "Словакия",
+    "true_entities": [
+      {
+        "text": "Словакия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 7,
+    "col": 3,
+    "text": "Trident Clan",
+    "true_entities": [
+      {
+        "text": "Trident Clan",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 7,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 7,
+    "col": 5,
+    "text": "2009 — н. в.",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 8,
+    "col": 0,
+    "text": "flamie",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 8,
+    "col": 1,
+    "text": "Васильев, Егор",
+    "true_entities": [
+      {
+        "text": "Васильев, Егор",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 8,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 8,
+    "col": 3,
+    "text": "Natus Vincere",
+    "true_entities": [
+      {
+        "text": "Natus Vincere",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 8,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 8,
+    "col": 5,
+    "text": "2013 — н. в.",
+    "true_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 9,
+    "col": 0,
+    "text": "electronic",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 9,
+    "col": 1,
+    "text": "Денис Шарипов",
+    "true_entities": [
+      {
+        "text": "Денис Шарипов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 9,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 9,
+    "col": 3,
+    "text": "Natus Vincere",
+    "true_entities": [
+      {
+        "text": "Natus Vincere",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 9,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 9,
+    "col": 5,
+    "text": "2015 — н. в.",
+    "true_entities": [
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 10,
+    "col": 0,
+    "text": "Perfecto",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 10,
+    "col": 1,
+    "text": "Илья Залуцкий",
+    "true_entities": [
+      {
+        "text": "Илья Залуцкий",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 10,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 10,
+    "col": 3,
+    "text": "Natus Vincere",
+    "true_entities": [
+      {
+        "text": "Natus Vincere",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 10,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 10,
+    "col": 5,
+    "text": "2018 — н. в.",
+    "true_entities": [
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 11,
+    "col": 0,
+    "text": "Hobbit",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 11,
+    "col": 1,
+    "text": "Абай Хасенов",
+    "true_entities": [
+      {
+        "text": "Абай Хасенов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 11,
+    "col": 2,
+    "text": "Казахстан",
+    "true_entities": [
+      {
+        "text": "Казахстан",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 11,
+    "col": 3,
+    "text": "Gambit",
+    "true_entities": [
+      {
+        "text": "Gambit",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 11,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 11,
+    "col": 5,
+    "text": "2015 — н.в.",
+    "true_entities": [
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 12,
+    "col": 0,
+    "text": "AdreN",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 12,
+    "col": 1,
+    "text": "Даурен Кыстаубаев",
+    "true_entities": [
+      {
+        "text": "Даурен Кыстаубаев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 12,
+    "col": 2,
+    "text": "Казахстан",
+    "true_entities": [
+      {
+        "text": "Казахстан",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 12,
+    "col": 3,
+    "text": "K23",
+    "true_entities": [
+      {
+        "text": "K23",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 12,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 12,
+    "col": 5,
+    "text": "2004 — н. в.",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 13,
+    "col": 0,
+    "text": "Edward",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 13,
+    "col": 1,
+    "text": "Иоанн Сухарев",
+    "true_entities": [
+      {
+        "text": "Иоанн Сухарев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 13,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 13,
+    "col": 3,
+    "text": "KHAN",
+    "true_entities": [
+      {
+        "text": "KHAN",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 13,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 13,
+    "col": 5,
+    "text": "2001 — н. в.",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 14,
+    "col": 0,
+    "text": "xyp9x",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 14,
+    "col": 1,
+    "text": "Андреас Хёйслет",
+    "true_entities": [
+      {
+        "text": "Андреас Хёйслет",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 14,
+    "col": 2,
+    "text": "Дания",
+    "true_entities": [
+      {
+        "text": "Дания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 14,
+    "col": 3,
+    "text": "Astralis",
+    "true_entities": [
+      {
+        "text": "Astralis",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 14,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 14,
+    "col": 5,
+    "text": "2011 — н. в.",
+    "true_entities": [
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 15,
+    "col": 0,
+    "text": "dupreeh",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 15,
+    "col": 1,
+    "text": "Питер Расмуссен",
+    "true_entities": [
+      {
+        "text": "Питер Расмуссен",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 15,
+    "col": 2,
+    "text": "Дания",
+    "true_entities": [
+      {
+        "text": "Дания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 15,
+    "col": 3,
+    "text": "Astralis",
+    "true_entities": [
+      {
+        "text": "Astralis",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 15,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 15,
+    "col": 5,
+    "text": "2012 — н. в.",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 16,
+    "col": 0,
+    "text": "cyx",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 16,
+    "col": 1,
+    "text": "Антонио Данилоски",
+    "true_entities": [
+      {
+        "text": "Антонио Данилоски",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 16,
+    "col": 2,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 16,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 16,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 16,
+    "col": 5,
+    "text": "2006—2010",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 17,
+    "col": 0,
+    "text": "Tango",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 17,
+    "col": 1,
+    "text": "Джамал Абдуллаев",
+    "true_entities": [
+      {
+        "text": "Джамал Абдуллаев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 17,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 17,
+    "col": 3,
+    "text": "SMARACIS Esports",
+    "true_entities": [
+      {
+        "text": "SMARACIS Esports",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 17,
+    "col": 4,
+    "text": "Rocket League",
+    "true_entities": [
+      {
+        "text": "Rocket League",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 17,
+    "col": 5,
+    "text": "2015 — н. в.",
+    "true_entities": [
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 18,
+    "col": 0,
+    "text": "stermy",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 18,
+    "col": 1,
+    "text": "Алессандро Аваллоне",
+    "true_entities": [
+      {
+        "text": "Алессандро Аваллоне",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 18,
+    "col": 2,
+    "text": "Италия",
+    "true_entities": [
+      {
+        "text": "Италия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 18,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 18,
+    "col": 4,
+    "text": "Quake: III, 4, Live, Champions",
+    "true_entities": [
+      {
+        "text": "Quake: III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: 4",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Champions",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 18,
+    "col": 5,
+    "text": "2002—2007, 2009—2013, 2017",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2007",
+        "label": "DATE"
+      },
+      {
+        "text": "2009",
+        "label": "DATE"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 19,
+    "col": 0,
+    "text": "GeT_RiGhT",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 19,
+    "col": 1,
+    "text": "Кристофер Алесунд",
+    "true_entities": [
+      {
+        "text": "Кристофер Алесунд",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 19,
+    "col": 2,
+    "text": "Швеция",
+    "true_entities": [
+      {
+        "text": "Швеция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 19,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 19,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 19,
+    "col": 5,
+    "text": "2007—2021",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      },
+      {
+        "text": "2021",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 20,
+    "col": 0,
+    "text": "Strenx",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 20,
+    "col": 1,
+    "text": "Кевин Баеза",
+    "true_entities": [
+      {
+        "text": "Кевин Баеза",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 20,
+    "col": 2,
+    "text": "Франция",
+    "true_entities": [
+      {
+        "text": "Франция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 20,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 20,
+    "col": 4,
+    "text": "Quake: III, Live, Champions",
+    "true_entities": [
+      {
+        "text": "Quake: III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Champions",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 20,
+    "col": 5,
+    "text": "2008—2018",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 21,
+    "col": 0,
+    "text": "Hantigr_4",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 21,
+    "col": 1,
+    "text": "Хан Балабеков",
+    "true_entities": [
+      {
+        "text": "Хан Балабеков",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 21,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 21,
+    "col": 3,
+    "text": "Анжи",
+    "true_entities": [
+      {
+        "text": "Анжи",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 21,
+    "col": 4,
+    "text": "FIFA",
+    "true_entities": [
+      {
+        "text": "FIFA",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 21,
+    "col": 5,
+    "text": "2014 — н. в.",
+    "true_entities": [
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 22,
+    "col": 0,
+    "text": "Kr0ne",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 22,
+    "col": 1,
+    "text": "Джошуа Бегер",
+    "true_entities": [
+      {
+        "text": "Джошуа Бегер",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 22,
+    "col": 2,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 22,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 22,
+    "col": 4,
+    "text": "FIFA",
+    "true_entities": [
+      {
+        "text": "FIFA",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 22,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 23,
+    "col": 0,
+    "text": "Pavel",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 23,
+    "col": 1,
+    "text": "Павел Бельтюков",
+    "true_entities": [
+      {
+        "text": "Павел Бельтюков",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 23,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 23,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 23,
+    "col": 4,
+    "text": "Hearthstone",
+    "true_entities": [
+      {
+        "text": "Hearthstone",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 23,
+    "col": 5,
+    "text": "2014 — н. в.",
+    "true_entities": [
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 24,
+    "col": 0,
+    "text": "Solo",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 24,
+    "col": 1,
+    "text": "Алексей Березин",
+    "true_entities": [
+      {
+        "text": "Алексей Березин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 24,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 24,
+    "col": 3,
+    "text": "Natus Vincere",
+    "true_entities": [
+      {
+        "text": "Natus Vincere",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 24,
+    "col": 4,
+    "text": "Dota 2",
+    "true_entities": [
+      {
+        "text": "Dota 2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 24,
+    "col": 5,
+    "text": "2012 — н. в.",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 25,
+    "col": 0,
+    "text": "Kane",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 25,
+    "col": 1,
+    "text": "Михаил Благин",
+    "true_entities": [
+      {
+        "text": "Михаил Благин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 25,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 25,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 25,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 25,
+    "col": 5,
+    "text": "2011—2019",
+    "true_entities": [
+      {
+        "text": "2011",
+        "label": "DATE"
+      },
+      {
+        "text": "2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 26,
+    "col": 0,
+    "text": "InFi",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 26,
+    "col": 1,
+    "text": "Ван Сюйвэнь",
+    "true_entities": [
+      {
+        "text": "Ван Сюйвэнь",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 26,
+    "col": 2,
+    "text": "Китай",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 26,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 26,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 26,
+    "col": 5,
+    "text": "2006 — н. в.",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 27,
+    "col": 0,
+    "text": "JW",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 27,
+    "col": 1,
+    "text": "Йеспер Вексель",
+    "true_entities": [
+      {
+        "text": "Йеспер Вексель",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 27,
+    "col": 2,
+    "text": "Швеция",
+    "true_entities": [
+      {
+        "text": "Швеция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 27,
+    "col": 3,
+    "text": "fnatic",
+    "true_entities": [
+      {
+        "text": "fnatic",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 27,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 27,
+    "col": 5,
+    "text": "2021 — н. в.",
+    "true_entities": [
+      {
+        "text": "2021",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 28,
+    "col": 0,
+    "text": "Kira",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 28,
+    "col": 1,
+    "text": "Михаил Гармаш",
+    "true_entities": [
+      {
+        "text": "Михаил Гармаш",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 28,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 28,
+    "col": 3,
+    "text": "Gambit.CIS",
+    "true_entities": [
+      {
+        "text": "Gambit.CIS",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 28,
+    "col": 4,
+    "text": "League of Legends",
+    "true_entities": [
+      {
+        "text": "League of Legends",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 28,
+    "col": 5,
+    "text": "2014 — н. в.",
+    "true_entities": [
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 29,
+    "col": 0,
+    "text": "Insomnia",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 29,
+    "col": 1,
+    "text": "Здравко Георгиев",
+    "true_entities": [
+      {
+        "text": "Здравко Георгиев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 29,
+    "col": 2,
+    "text": "Болгария",
+    "true_entities": [
+      {
+        "text": "Болгария",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 29,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 29,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 29,
+    "col": 5,
+    "text": "2001—2007",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      },
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 30,
+    "col": 0,
+    "text": "Timo",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 30,
+    "col": 1,
+    "text": "Андрей Гурьев",
+    "true_entities": [
+      {
+        "text": "Андрей Гурьев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 30,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 30,
+    "col": 3,
+    "text": "Локомотив",
+    "true_entities": [
+      {
+        "text": "Локомотив",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 30,
+    "col": 4,
+    "text": "FIFA",
+    "true_entities": [
+      {
+        "text": "FIFA",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 30,
+    "col": 5,
+    "text": "2013 — н. в.",
+    "true_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 31,
+    "col": 0,
+    "text": "hero",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 31,
+    "col": 1,
+    "text": "Даниэль Шеллхасе",
+    "true_entities": [
+      {
+        "text": "Даниэль Шеллхаase",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 31,
+    "col": 2,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 31,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 31,
+    "col": 4,
+    "text": "FIFA",
+    "true_entities": [
+      {
+        "text": "FIFA",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 31,
+    "col": 5,
+    "text": "2002—2010",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 32,
+    "col": 0,
+    "text": "styla",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 32,
+    "col": 1,
+    "text": "Деннис Шеллхасе",
+    "true_entities": [
+      {
+        "text": "Деннис Шеллхасе",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 32,
+    "col": 2,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 32,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 32,
+    "col": 4,
+    "text": "FIFA",
+    "true_entities": [
+      {
+        "text": "FIFA",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 32,
+    "col": 5,
+    "text": "2002—2010",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 33,
+    "col": 0,
+    "text": "XBOCT",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 33,
+    "col": 1,
+    "text": "Александр Дашкевич",
+    "true_entities": [
+      {
+        "text": "Александр Дашкевич",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 33,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 33,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 33,
+    "col": 4,
+    "text": "DotA, Dota 2",
+    "true_entities": [
+      {
+        "text": "DotA",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Dota 2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 33,
+    "col": 5,
+    "text": "2009—2018",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 34,
+    "col": 0,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 34,
+    "col": 1,
+    "text": "Алан Енилеев",
+    "true_entities": [
+      {
+        "text": "Алан Енилеев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 34,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 34,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 34,
+    "col": 4,
+    "text": "Need for Speed",
+    "true_entities": [
+      {
+        "text": "Need for Speed",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 34,
+    "col": 5,
+    "text": "2006—2008",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 35,
+    "col": 0,
+    "text": "Dendi",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 35,
+    "col": 1,
+    "text": "Данил Ишутин",
+    "true_entities": [
+      {
+        "text": "Данил Ишутин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 35,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 35,
+    "col": 3,
+    "text": "B8 Esports",
+    "true_entities": [
+      {
+        "text": "B8 Esports",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 35,
+    "col": 4,
+    "text": "DotA, Dota 2",
+    "true_entities": [
+      {
+        "text": "DotA",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Dota 2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 35,
+    "col": 5,
+    "text": "2006 — н. в.",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 36,
+    "col": 0,
+    "text": "Vo0",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 36,
+    "col": 1,
+    "text": "Сандер Каасъягер",
+    "true_entities": [
+      {
+        "text": "Сандер Каасъягер",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 36,
+    "col": 2,
+    "text": "Нидерланды",
+    "true_entities": [
+      {
+        "text": "Нидерланды",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 36,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 36,
+    "col": 4,
+    "text": "Quake: III, Live, Champions, Painkiller, Rocket Arena",
+    "true_entities": [
+      {
+        "text": "Quake: III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Champions",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Painkiller",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Rocket Arena",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 36,
+    "col": 5,
+    "text": "2004—2005 2007—2013 2015 2017—2018",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      },
+      {
+        "text": "2005",
+        "label": "DATE"
+      },
+      {
+        "text": "2007",
+        "label": "DATE"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 37,
+    "col": 0,
+    "text": "olofmeister",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 37,
+    "col": 1,
+    "text": "Олоф Кайбер",
+    "true_entities": [
+      {
+        "text": "Олоф Кайбер",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 37,
+    "col": 2,
+    "text": "Швеция",
+    "true_entities": [
+      {
+        "text": "Швеция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 37,
+    "col": 3,
+    "text": "FaZe Clan",
+    "true_entities": [
+      {
+        "text": "FaZe Clan",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 37,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 37,
+    "col": 5,
+    "text": "2009 год — н. в.",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 38,
+    "col": 0,
+    "text": "Nal_rA",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 38,
+    "col": 1,
+    "text": "Кан Мин",
+    "true_entities": [
+      {
+        "text": "Кан Мин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 38,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 38,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 38,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 38,
+    "col": 5,
+    "text": "2002—2008",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 39,
+    "col": 0,
+    "text": "Garimto",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 39,
+    "col": 1,
+    "text": "Ким Донсу",
+    "true_entities": [
+      {
+        "text": "Ким Донсу",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 39,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 39,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 39,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 39,
+    "col": 5,
+    "text": "2000—2008",
+    "true_entities": [
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 40,
+    "col": 0,
+    "text": "ReminD",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 40,
+    "col": 1,
+    "text": "Ким Сун Сик",
+    "true_entities": [
+      {
+        "text": "Ким Сун Сик",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 40,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 40,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 40,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 40,
+    "col": 5,
+    "text": "2004 — н. в.",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 41,
+    "col": 0,
+    "text": "Bisu",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 41,
+    "col": 1,
+    "text": "Ким Тхэк Ён",
+    "true_entities": [
+      {
+        "text": "Ким Тхэк Ён",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 41,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 41,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 41,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 41,
+    "col": 5,
+    "text": "2005—2014",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 42,
+    "col": 0,
+    "text": "GGPlay",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 42,
+    "col": 1,
+    "text": "Ким Чунён",
+    "true_entities": [
+      {
+        "text": "Ким Чунён",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 42,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 42,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 42,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 42,
+    "col": 5,
+    "text": "2003—2008",
+    "true_entities": [
+      {
+        "text": "2003",
+        "label": "DATE"
+      },
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 43,
+    "col": 0,
+    "text": "Happy",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 43,
+    "col": 1,
+    "text": "Дмитрий Костин",
+    "true_entities": [
+      {
+        "text": "Дмитрий Костин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 43,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 43,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 43,
+    "col": 4,
+    "text": "Warcraft III, StarCraft II",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 43,
+    "col": 5,
+    "text": "2006 — н. в.",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 44,
+    "col": 0,
+    "text": "Ciara",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 44,
+    "col": 1,
+    "text": "Рене Краг",
+    "true_entities": [
+      {
+        "text": "Рене Краг",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 44,
+    "col": 2,
+    "text": "Дания",
+    "true_entities": [
+      {
+        "text": "Дания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 44,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 44,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 44,
+    "col": 5,
+    "text": "2004—2016",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 45,
+    "col": 0,
+    "text": "HeatoN",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 45,
+    "col": 1,
+    "text": "Эмиль Кристенсен",
+    "true_entities": [
+      {
+        "text": "Эмиль Кристенсен",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 45,
+    "col": 2,
+    "text": "Швеция",
+    "true_entities": [
+      {
+        "text": "Швеция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 45,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 45,
+    "col": 4,
+    "text": "Counter-Strike",
+    "true_entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 45,
+    "col": 5,
+    "text": "2000—2007",
+    "true_entities": [
+      {
+        "text": "2000",
+        "label": "DATE"
+      },
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 46,
+    "col": 0,
+    "text": "NEO",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 46,
+    "col": 1,
+    "text": "Филип Кубский",
+    "true_entities": [
+      {
+        "text": "Филип Кубский",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 46,
+    "col": 2,
+    "text": "Польша",
+    "true_entities": [
+      {
+        "text": "Польша",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 46,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 46,
+    "col": 4,
+    "text": "Counter-Strike",
+    "true_entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 46,
+    "col": 5,
+    "text": "2002 — н. в.",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 47,
+    "col": 0,
+    "text": "NS",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 47,
+    "col": 1,
+    "text": "Ярослав Кузнецов",
+    "true_entities": [
+      {
+        "text": "Ярослав Кузнецов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 47,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 47,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 47,
+    "col": 4,
+    "text": "DotA, Dota 2",
+    "true_entities": [
+      {
+        "text": "DotA",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Dota 2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 47,
+    "col": 5,
+    "text": "2005—2013 2014 — н. в.",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 48,
+    "col": 0,
+    "text": "RAMZES666",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 48,
+    "col": 1,
+    "text": "Роман Кушнарёв",
+    "true_entities": [
+      {
+        "text": "Роман Кушнарёв",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 48,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 48,
+    "col": 3,
+    "text": "Natus Vincere",
+    "true_entities": [
+      {
+        "text": "Natus Vincere",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 48,
+    "col": 4,
+    "text": "Dota 2",
+    "true_entities": [
+      {
+        "text": "Dota 2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 48,
+    "col": 5,
+    "text": "2013 — н. в.",
+    "true_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 49,
+    "col": 0,
+    "text": "av3k",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 49,
+    "col": 1,
+    "text": "Мацей Кшиковский",
+    "true_entities": [
+      {
+        "text": "Мацей Кшиковский",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 49,
+    "col": 2,
+    "text": "Польша",
+    "true_entities": [
+      {
+        "text": "Польша",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 49,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 49,
+    "col": 4,
+    "text": "Quake: III, 4, Live, Champions",
+    "true_entities": [
+      {
+        "text": "Quake: III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: 4",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Champions",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 49,
+    "col": 5,
+    "text": "2006—2012 2017 — н. в",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 50,
+    "col": 0,
+    "text": "HuK",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 50,
+    "col": 1,
+    "text": "Крис Ларанжер",
+    "true_entities": [
+      {
+        "text": "Крис Ларанжер",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 50,
+    "col": 2,
+    "text": "Канада",
+    "true_entities": [
+      {
+        "text": "Канада",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 50,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 50,
+    "col": 4,
+    "text": "StarCraft II",
+    "true_entities": [
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 50,
+    "col": 5,
+    "text": "2010—2018",
+    "true_entities": [
+      {
+        "text": "2010",
+        "label": "DATE"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 51,
+    "col": 0,
+    "text": "Jaedong",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 51,
+    "col": 1,
+    "text": "Ли Дже Дон",
+    "true_entities": [
+      {
+        "text": "Ли Дже Дон",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 51,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 51,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 51,
+    "col": 4,
+    "text": "StarCraft: Brood War, Wings of Liberty, Heart of the Swarm",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Heart of the Swarm",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 51,
+    "col": 5,
+    "text": "2006—2016",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 52,
+    "col": 0,
+    "text": "fOru",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 52,
+    "col": 1,
+    "text": "Ли Джэ Хун",
+    "true_entities": [
+      {
+        "text": "Ли Джэ Хун",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 52,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 52,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 52,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 52,
+    "col": 5,
+    "text": "2001—2010",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 53,
+    "col": 0,
+    "text": "Flash",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 53,
+    "col": 1,
+    "text": "Ли Ён Хо",
+    "true_entities": [
+      {
+        "text": "Ли Ён Хо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 53,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 53,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 53,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 53,
+    "col": 5,
+    "text": "2007 — н. в.",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 54,
+    "col": 0,
+    "text": "Like",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 54,
+    "col": 1,
+    "text": "Ли Кэцзин",
+    "true_entities": [
+      {
+        "text": "Ли Кэцзин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 54,
+    "col": 2,
+    "text": "Китай",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 54,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 54,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 54,
+    "col": 5,
+    "text": "2006—2010",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 55,
+    "col": 0,
+    "text": "Sky",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 55,
+    "col": 1,
+    "text": "Ли Сяофэн",
+    "true_entities": [
+      {
+        "text": "Ли Сяофэн",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 55,
+    "col": 2,
+    "text": "Китай",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 55,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 55,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 55,
+    "col": 5,
+    "text": "2002—2015",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 56,
+    "col": 0,
+    "text": "Red_NaDa",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 56,
+    "col": 1,
+    "text": "Ли Юн Ёль",
+    "true_entities": [
+      {
+        "text": "Ли Юн Ёль",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 56,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 56,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 56,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 56,
+    "col": 5,
+    "text": "2002—2012",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 57,
+    "col": 0,
+    "text": "SlayerS_`BoxeR",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 57,
+    "col": 1,
+    "text": "Лим Йохван",
+    "true_entities": [
+      {
+        "text": "Лим Йохван",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 57,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 57,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 57,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 57,
+    "col": 5,
+    "text": "2001—2013",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 58,
+    "col": 0,
+    "text": "f0rest",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 58,
+    "col": 1,
+    "text": "Патрик Линдберг",
+    "true_entities": [
+      {
+        "text": "Патрик Линдберг",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 58,
+    "col": 2,
+    "text": "Швеция",
+    "true_entities": [
+      {
+        "text": "Швеция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 58,
+    "col": 3,
+    "text": "Dignitas",
+    "true_entities": [
+      {
+        "text": "Dignitas",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 58,
+    "col": 4,
+    "text": "Counter-Strike, Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 58,
+    "col": 5,
+    "text": "2005 — н. в.",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 59,
+    "col": 0,
+    "text": "Fly100%",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 59,
+    "col": 1,
+    "text": "Лу Вэйлян",
+    "true_entities": [
+      {
+        "text": "Лу Вэйлян",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 59,
+    "col": 2,
+    "text": "Китай",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 59,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 59,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 59,
+    "col": 5,
+    "text": "2006—2020",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "2020",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 60,
+    "col": 0,
+    "text": "sAviOr",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 60,
+    "col": 1,
+    "text": "Ма Джэ Юн",
+    "true_entities": [
+      {
+        "text": "Ма Джэ Юн",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 60,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 60,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 60,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 60,
+    "col": 5,
+    "text": "2005—2013",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 61,
+    "col": 0,
+    "text": "Inspirer",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 61,
+    "col": 1,
+    "text": "Максим Мазеин",
+    "true_entities": [
+      {
+        "text": "Максим Мазеин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 61,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 61,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 61,
+    "col": 4,
+    "text": "World of Tanks",
+    "true_entities": [
+      {
+        "text": "World of Tanks",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 61,
+    "col": 5,
+    "text": "2012—2018",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 62,
+    "col": 0,
+    "text": "Likkrit",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 62,
+    "col": 1,
+    "text": "Кирилл Малофеев",
+    "true_entities": [
+      {
+        "text": "Кирилл Малофеев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 62,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 62,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 62,
+    "col": 4,
+    "text": "League of Legends",
+    "true_entities": [
+      {
+        "text": "League of Legends",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 62,
+    "col": 5,
+    "text": "2014—2017",
+    "true_entities": [
+      {
+        "text": "2014",
+        "label": "DATE"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 63,
+    "col": 0,
+    "text": "markeloff",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 63,
+    "col": 1,
+    "text": "Егор Маркелов",
+    "true_entities": [
+      {
+        "text": "Егор Маркелов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 63,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 63,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 63,
+    "col": 4,
+    "text": "Counter-Strike, Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 63,
+    "col": 5,
+    "text": "2004—2018",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 64,
+    "col": 0,
+    "text": "clawz",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 64,
+    "col": 1,
+    "text": "Никита Марчинский",
+    "true_entities": [
+      {
+        "text": "Никита Марчинский",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 64,
+    "col": 2,
+    "text": "Белоруссия",
+    "true_entities": [
+      {
+        "text": "Белоруссия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 64,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 64,
+    "col": 4,
+    "text": "Quake: Live, Champions, Apex Legends",
+    "true_entities": [
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Champions",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Apex Legends",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 64,
+    "col": 5,
+    "text": "2017 — н. в.",
+    "true_entities": [
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 65,
+    "col": 0,
+    "text": "ToD",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 65,
+    "col": 1,
+    "text": "Йоан Мерло",
+    "true_entities": [
+      {
+        "text": "Йоан Мерло",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 65,
+    "col": 2,
+    "text": "Франция",
+    "true_entities": [
+      {
+        "text": "Франция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 65,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 65,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 65,
+    "col": 5,
+    "text": "2002—2009",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 66,
+    "col": 0,
+    "text": "elemeNt",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 66,
+    "col": 1,
+    "text": "Ола Моум",
+    "true_entities": [
+      {
+        "text": "Ола Моум",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 66,
+    "col": 2,
+    "text": "Норвегия",
+    "true_entities": [
+      {
+        "text": "Норвегия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 66,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 66,
+    "col": 4,
+    "text": "Counter-Strike",
+    "true_entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 66,
+    "col": 5,
+    "text": "2002—2011",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 67,
+    "col": 0,
+    "text": "Lucifer",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 67,
+    "col": 1,
+    "text": "Но Джэук",
+    "true_entities": [
+      {
+        "text": "Но Джэук",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 67,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 67,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 67,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 67,
+    "col": 5,
+    "text": "2006 — н. в.",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 68,
+    "col": 0,
+    "text": "Kingdom",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 68,
+    "col": 1,
+    "text": "Пак Ён Ук",
+    "true_entities": [
+      {
+        "text": "Пак Ён Ук",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 68,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 68,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 68,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 68,
+    "col": 5,
+    "text": "2001—2008",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      },
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 69,
+    "col": 0,
+    "text": "JulyZerg",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 69,
+    "col": 1,
+    "text": "Пак Сон Чжун",
+    "true_entities": [
+      {
+        "text": "Пак Сон Чжун",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 69,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 69,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 69,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 69,
+    "col": 5,
+    "text": "2006—2012",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 70,
+    "col": 0,
+    "text": "Mind",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 70,
+    "col": 1,
+    "text": "Пак Сонгюн",
+    "true_entities": [
+      {
+        "text": "Пак Сонгюн",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 70,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 70,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 70,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 70,
+    "col": 5,
+    "text": "2006—2013",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 71,
+    "col": 0,
+    "text": "ForGG",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 71,
+    "col": 1,
+    "text": "Пак Чису",
+    "true_entities": [
+      {
+        "text": "Пак Чису",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 71,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 71,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 71,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 71,
+    "col": 5,
+    "text": "2006—2015",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 72,
+    "col": 0,
+    "text": "Reach",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 72,
+    "col": 1,
+    "text": "Пак Чон Сок",
+    "true_entities": [
+      {
+        "text": "Пак Чон Сок",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 72,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 72,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 72,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 72,
+    "col": 5,
+    "text": "2001—2012",
+    "true_entities": [
+      {
+        "text": "2001",
+        "label": "DATE"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 73,
+    "col": 0,
+    "text": "Lyn",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 73,
+    "col": 1,
+    "text": "Пак Чун",
+    "true_entities": [
+      {
+        "text": "Пак Чун",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 73,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 73,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 73,
+    "col": 4,
+    "text": "Warcraft III, StarCraft II",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 73,
+    "col": 5,
+    "text": "2004 — н. в.",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 74,
+    "col": 0,
+    "text": "Luxury",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 74,
+    "col": 1,
+    "text": "Пак Чхан Су",
+    "true_entities": [
+      {
+        "text": "Пак Чхан Су",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 74,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 74,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 74,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 74,
+    "col": 5,
+    "text": "2004—2010",
+    "true_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 75,
+    "col": 0,
+    "text": "LeBwa",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 75,
+    "col": 1,
+    "text": "Дмитрий Палащенко",
+    "true_entities": [
+      {
+        "text": "Дмитрий Палащенко",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 75,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 75,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 75,
+    "col": 4,
+    "text": "World of Tanks",
+    "true_entities": [
+      {
+        "text": "World of Tanks",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 75,
+    "col": 5,
+    "text": "2010 — н. в.",
+    "true_entities": [
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 76,
+    "col": 0,
+    "text": "k1llsen",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 76,
+    "col": 1,
+    "text": "Марцел Пауль",
+    "true_entities": [
+      {
+        "text": "Марцел Пауль",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 76,
+    "col": 2,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 76,
+    "col": 3,
+    "text": "BIG",
+    "true_entities": [
+      {
+        "text": "BIG",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 76,
+    "col": 4,
+    "text": "Quake: III, 4, Live, Champions",
+    "true_entities": [
+      {
+        "text": "Quake: III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: 4",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Champions",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 76,
+    "col": 5,
+    "text": "2007 — н. в.",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 77,
+    "col": 0,
+    "text": "gla1ve",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 77,
+    "col": 1,
+    "text": "Лукас Россандер",
+    "true_entities": [
+      {
+        "text": "Лукас Россандер",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 77,
+    "col": 2,
+    "text": "Дания",
+    "true_entities": [
+      {
+        "text": "Дания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 77,
+    "col": 3,
+    "text": "Astralis",
+    "true_entities": [
+      {
+        "text": "Astralis",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 77,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 77,
+    "col": 5,
+    "text": "2012 — н. в.",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 78,
+    "col": 0,
+    "text": "daimonde",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 78,
+    "col": 1,
+    "text": "Кевин Сантнер",
+    "true_entities": [
+      {
+        "text": "Кевин Сантнер",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 78,
+    "col": 2,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 78,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 78,
+    "col": 4,
+    "text": "FIFA",
+    "true_entities": [
+      {
+        "text": "FIFA",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 78,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 79,
+    "col": 0,
+    "text": "xPeke",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 79,
+    "col": 1,
+    "text": "Энрике Мартинес",
+    "true_entities": [
+      {
+        "text": "Энрике Мартинес",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 79,
+    "col": 2,
+    "text": "Испания",
+    "true_entities": [
+      {
+        "text": "Испания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 79,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 79,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 79,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 80,
+    "col": 0,
+    "text": "Cooller",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 80,
+    "col": 1,
+    "text": "Антон Синьгов",
+    "true_entities": [
+      {
+        "text": "Антон Синьгов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 80,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 80,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 80,
+    "col": 4,
+    "text": "Quake: III, 4, Live, Champions Overwatch, Apex Legends",
+    "true_entities": [
+      {
+        "text": "Quake: III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: 4",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Champions",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Overwatch",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Apex Legends",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 80,
+    "col": 5,
+    "text": "2005 — н. в",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 81,
+    "col": 0,
+    "text": "Sozya",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 81,
+    "col": 1,
+    "text": "Павел Созинов",
+    "true_entities": [
+      {
+        "text": "Павел Созинов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 81,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 81,
+    "col": 3,
+    "text": "SMARACIS Esports",
+    "true_entities": [
+      {
+        "text": "SMARACIS Esports",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 81,
+    "col": 4,
+    "text": "Rocket League",
+    "true_entities": [
+      {
+        "text": "Rocket League",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 81,
+    "col": 5,
+    "text": "2016 — н. в.",
+    "true_entities": [
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 82,
+    "col": 0,
+    "text": "XlorD",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 82,
+    "col": 1,
+    "text": "Даниэль Спенст",
+    "true_entities": [
+      {
+        "text": "Даниэль Спенст",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 82,
+    "col": 2,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 82,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 82,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 82,
+    "col": 5,
+    "text": "2005—2010",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 83,
+    "col": 0,
+    "text": "Dosia",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 83,
+    "col": 1,
+    "text": "Михаил Столяров",
+    "true_entities": [
+      {
+        "text": "Михаил Столяров",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 83,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 83,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 83,
+    "col": 4,
+    "text": "Counter-Strike, Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 83,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 84,
+    "col": 0,
+    "text": "suhO",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 84,
+    "col": 1,
+    "text": "Су Хао",
+    "true_entities": [
+      {
+        "text": "Су Хао",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 84,
+    "col": 2,
+    "text": "Китай",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 84,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 84,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 84,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 85,
+    "col": 0,
+    "text": "Grubby",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 85,
+    "col": 1,
+    "text": "Манюэл Схенкхёйзен",
+    "true_entities": [
+      {
+        "text": "Манюэл Схенкхёйзен",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 85,
+    "col": 2,
+    "text": "Нидерланды",
+    "true_entities": [
+      {
+        "text": "Нидерланды",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 85,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 85,
+    "col": 4,
+    "text": "Warcraft III, StarCraft II, Heroes of the Storm",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Heroes of the Storm",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 85,
+    "col": 5,
+    "text": "2007 — н. в.",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 86,
+    "col": 0,
+    "text": "Polosatiy",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 86,
+    "col": 1,
+    "text": "Роман Тарасенко",
+    "true_entities": [
+      {
+        "text": "Роман Тарасенко",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 86,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 86,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 86,
+    "col": 4,
+    "text": "Quake: II, III, Live, Champions, CPMA",
+    "true_entities": [
+      {
+        "text": "Quake: II",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Champions",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "CPMA",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 86,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 87,
+    "col": 0,
+    "text": "ceh9",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 87,
+    "col": 1,
+    "text": "Арсений Триноженко",
+    "true_entities": [
+      {
+        "text": "Арсений Триноженко",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 87,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 87,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 87,
+    "col": 4,
+    "text": "Counter-Strike, Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 87,
+    "col": 5,
+    "text": "2005—2013",
+    "true_entities": [
+      {
+        "text": "2005",
+        "label": "DATE"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 88,
+    "col": 0,
+    "text": "Creolophus",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 88,
+    "col": 1,
+    "text": "Олаф Ундхейм",
+    "true_entities": [
+      {
+        "text": "Олаф Ундхейм",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 88,
+    "col": 2,
+    "text": "Норвегия",
+    "true_entities": [
+      {
+        "text": "Норвегия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 88,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 88,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 88,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 89,
+    "col": 0,
+    "text": "Bruce",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 89,
+    "col": 1,
+    "text": "Игорь Уткин",
+    "true_entities": [
+      {
+        "text": "Игорь Уткин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 89,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 89,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 89,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 89,
+    "col": 5,
+    "text": "2003—2009",
+    "true_entities": [
+      {
+        "text": "2003",
+        "label": "DATE"
+      },
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 90,
+    "col": 0,
+    "text": "Jibo",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 90,
+    "col": 1,
+    "text": "Фань Чжибо",
+    "true_entities": [
+      {
+        "text": "Фань Чжибо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 90,
+    "col": 2,
+    "text": "Китай",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 90,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 90,
+    "col": 4,
+    "text": "Quake: III, 4, Live",
+    "true_entities": [
+      {
+        "text": "Quake: III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: 4",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 90,
+    "col": 5,
+    "text": "2002—2010",
+    "true_entities": [
+      {
+        "text": "2002",
+        "label": "DATE"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 91,
+    "col": 0,
+    "text": "Ufenok77",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 91,
+    "col": 1,
+    "text": "Роберт Фахретдинов",
+    "true_entities": [
+      {
+        "text": "Роберт Фахретдинов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 91,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 91,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 91,
+    "col": 4,
+    "text": "FIFA",
+    "true_entities": [
+      {
+        "text": "FIFA",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 91,
+    "col": 5,
+    "text": "2012 — н. в.",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 92,
+    "col": 0,
+    "text": "Alex Ich",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 92,
+    "col": 1,
+    "text": "Михаил Феденко",
+    "true_entities": [
+      {
+        "text": "Михаил Феденко",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 92,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 92,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 92,
+    "col": 4,
+    "text": "League of Legends",
+    "true_entities": [
+      {
+        "text": "League of Legends",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 92,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 93,
+    "col": 0,
+    "text": "yAwS",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 93,
+    "col": 1,
+    "text": "Марк Фёрстер",
+    "true_entities": [
+      {
+        "text": "Марк Фёрстер",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 93,
+    "col": 2,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 93,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 93,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 93,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 94,
+    "col": 0,
+    "text": "Thresh",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 94,
+    "col": 1,
+    "text": "Деннис Фонг",
+    "true_entities": [
+      {
+        "text": "Деннис Фонг",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 94,
+    "col": 2,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 94,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 94,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 94,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 95,
+    "col": 0,
+    "text": "[NC]...YellOw",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 95,
+    "col": 1,
+    "text": "Хон Джин Хо",
+    "true_entities": [
+      {
+        "text": "Хон Джин Хо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 95,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 95,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 95,
+    "col": 4,
+    "text": "StarCraft: Brood War",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 95,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 96,
+    "col": 0,
+    "text": "TH000",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 96,
+    "col": 1,
+    "text": "Хуан Сян",
+    "true_entities": [
+      {
+        "text": "Хуан Сян",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 96,
+    "col": 2,
+    "text": "Китай",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 96,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 96,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 96,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 97,
+    "col": 0,
+    "text": "Moon",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 97,
+    "col": 1,
+    "text": "Чан Джэ Хо",
+    "true_entities": [
+      {
+        "text": "Чан Джэ Хо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 97,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 97,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 97,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 97,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 98,
+    "col": 0,
+    "text": "TeD",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 98,
+    "col": 1,
+    "text": "Чжо Цзэн",
+    "true_entities": [
+      {
+        "text": "Чжо Цзэн",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 98,
+    "col": 2,
+    "text": "Китай",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 98,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 98,
+    "col": 4,
+    "text": "Warcraft III",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 98,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 99,
+    "col": 0,
+    "text": "HasuObs",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 99,
+    "col": 1,
+    "text": "Деннис Шнайдер",
+    "true_entities": [
+      {
+        "text": "Деннис Шнайдер",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 99,
+    "col": 2,
+    "text": "Германия",
+    "true_entities": [
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 99,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 99,
+    "col": 4,
+    "text": "Warcraft III, StarCraft II, Heroes of the Storm",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Heroes of the Storm",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 99,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 100,
+    "col": 0,
+    "text": "Dayruin",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 100,
+    "col": 1,
+    "text": "Борис Щербаков",
+    "true_entities": [
+      {
+        "text": "Борис Щербаков",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 100,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 100,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 100,
+    "col": 4,
+    "text": "League of Legends",
+    "true_entities": [
+      {
+        "text": "League of Legends",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 100,
+    "col": 5,
+    "text": "2013 — н. в.",
+    "true_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 101,
+    "col": 0,
+    "text": "ZywOo",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 101,
+    "col": 1,
+    "text": "Матье Эрбо",
+    "true_entities": [
+      {
+        "text": "Матье Эрбо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 101,
+    "col": 2,
+    "text": "Франция",
+    "true_entities": [
+      {
+        "text": "Франция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 101,
+    "col": 3,
+    "text": "Team Vitality",
+    "true_entities": [
+      {
+        "text": "Team Vitality",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 101,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 101,
+    "col": 5,
+    "text": "2017 — н. в.",
+    "true_entities": [
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 102,
+    "col": 0,
+    "text": "Fifflaren",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 102,
+    "col": 1,
+    "text": "Робин Йоханссон",
+    "true_entities": [
+      {
+        "text": "Робин Йоханссон",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 102,
+    "col": 2,
+    "text": "Швеция",
+    "true_entities": [
+      {
+        "text": "Швеция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 102,
+    "col": 3,
+    "text": "Dignitas",
+    "true_entities": [
+      {
+        "text": "Dignitas",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 102,
+    "col": 4,
+    "text": "Counter-Strike: Source, Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Source",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 102,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 103,
+    "col": 0,
+    "text": "MaDFroG",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 103,
+    "col": 1,
+    "text": "Фредрик Юханссон",
+    "true_entities": [
+      {
+        "text": "Фредрик Юханссон",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 103,
+    "col": 2,
+    "text": "Швеция",
+    "true_entities": [
+      {
+        "text": "Швеция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 103,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 103,
+    "col": 4,
+    "text": "Warcraft III, StarCraft II",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 103,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 104,
+    "col": 0,
+    "text": "cYpheR",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 104,
+    "col": 1,
+    "text": "Алексей Янушевский",
+    "true_entities": [
+      {
+        "text": "Алексей Янушевский",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 104,
+    "col": 2,
+    "text": "Белоруссия",
+    "true_entities": [
+      {
+        "text": "Белоруссия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 104,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 104,
+    "col": 4,
+    "text": "Quake: 2, III, 4, Live, Champions, Apex Legends",
+    "true_entities": [
+      {
+        "text": "Quake: 2",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: 4",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Live",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Quake: Champions",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Apex Legends",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 104,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 105,
+    "col": 0,
+    "text": "Bly",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 105,
+    "col": 1,
+    "text": "Александр Свисюк",
+    "true_entities": [
+      {
+        "text": "Александр Свисюк",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 105,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 105,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 105,
+    "col": 4,
+    "text": "WarCraft IIIStarCraft II: Wings of Liberty StarCraft II: Heart of the Swarm StarCraft II: Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "WarCraft III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 105,
+    "col": 5,
+    "text": "2008 — н. в.",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 106,
+    "col": 0,
+    "text": "Bugha",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 106,
+    "col": 1,
+    "text": "Кайл Гирсдорф",
+    "true_entities": [
+      {
+        "text": "Кайл Гирсдорф",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 106,
+    "col": 2,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 106,
+    "col": 3,
+    "text": "Sentinels",
+    "true_entities": [
+      {
+        "text": "Sentinels",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 106,
+    "col": 4,
+    "text": "Fortnite",
+    "true_entities": [
+      {
+        "text": "Fortnite",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 106,
+    "col": 5,
+    "text": "2018 — н. в.",
+    "true_entities": [
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 107,
+    "col": 0,
+    "text": "ByuN",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 107,
+    "col": 1,
+    "text": "Пён Хён У",
+    "true_entities": [
+      {
+        "text": "Пён Хён У",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 107,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 107,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 107,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 107,
+    "col": 5,
+    "text": "2010—2019",
+    "true_entities": [
+      {
+        "text": "2010",
+        "label": "DATE"
+      },
+      {
+        "text": "2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 108,
+    "col": 0,
+    "text": "Clem",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 108,
+    "col": 1,
+    "text": "Клеман Деспланш",
+    "true_entities": [
+      {
+        "text": "Клеман Деспланш",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 108,
+    "col": 2,
+    "text": "Франция",
+    "true_entities": [
+      {
+        "text": "Франция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 108,
+    "col": 3,
+    "text": "Team Liquid",
+    "true_entities": [
+      {
+        "text": "Team Liquid",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 108,
+    "col": 4,
+    "text": "StarCraft II: Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 108,
+    "col": 5,
+    "text": "2013 — н. в.",
+    "true_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 109,
+    "col": 0,
+    "text": "Dark",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 109,
+    "col": 1,
+    "text": "Пак Риюнг У",
+    "true_entities": [
+      {
+        "text": "Пак Риюнг У",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 109,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 109,
+    "col": 3,
+    "text": "Dragon Phoenix Gaming",
+    "true_entities": [
+      {
+        "text": "Dragon Phoenix Gaming",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 109,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 109,
+    "col": 5,
+    "text": "2012 — н. в.",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 110,
+    "col": 0,
+    "text": "Dear",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 110,
+    "col": 1,
+    "text": "Бек Дон Джун",
+    "true_entities": [
+      {
+        "text": "Бек Дон Джун",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 110,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 110,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 110,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 110,
+    "col": 5,
+    "text": "2012 — н. в.",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 111,
+    "col": 0,
+    "text": "DIMAGA",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 111,
+    "col": 1,
+    "text": "Дмитрий Филипчук",
+    "true_entities": [
+      {
+        "text": "Дмитрий Филипчук",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 111,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 111,
+    "col": 3,
+    "text": "Harbingers",
+    "true_entities": [
+      {
+        "text": "Harbingers",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 111,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 111,
+    "col": 5,
+    "text": "2006 — н. в.",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 112,
+    "col": 0,
+    "text": "DongRaeGu",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 112,
+    "col": 1,
+    "text": "Пак Су Хо",
+    "true_entities": [
+      {
+        "text": "Пак Су Хо",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 112,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 112,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 112,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 112,
+    "col": 5,
+    "text": "2010—2016 2019 — н. в.",
+    "true_entities": [
+      {
+        "text": "2010",
+        "label": "DATE"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      },
+      {
+        "text": "2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 113,
+    "col": 0,
+    "text": "Faker",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 113,
+    "col": 1,
+    "text": "Ли Сан Хёк",
+    "true_entities": [
+      {
+        "text": "Ли Сан Хёк",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 113,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 113,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 113,
+    "col": 4,
+    "text": "League of Legends",
+    "true_entities": [
+      {
+        "text": "League of Legends",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 113,
+    "col": 5,
+    "text": "2013 — н. в.",
+    "true_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 114,
+    "col": 0,
+    "text": "FruitDealer",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 114,
+    "col": 1,
+    "text": "Ким Вон Ги",
+    "true_entities": [
+      {
+        "text": "Ким Вон Ги",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 114,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 114,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 114,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 114,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 115,
+    "col": 0,
+    "text": "INnoVation",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 115,
+    "col": 1,
+    "text": "Ли Син Хён",
+    "true_entities": [
+      {
+        "text": "Ли Син Хён",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 115,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 115,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 115,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 115,
+    "col": 5,
+    "text": "2008 — н. в.",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 116,
+    "col": 0,
+    "text": "Kas",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 116,
+    "col": 1,
+    "text": "Михаил Гайда",
+    "true_entities": [
+      {
+        "text": "Михаил Гайда",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 116,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 116,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 116,
+    "col": 4,
+    "text": "Warcraft III, StarCraft II",
+    "true_entities": [
+      {
+        "text": "Warcraft III",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 116,
+    "col": 5,
+    "text": "2007 — н. в.",
+    "true_entities": [
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 117,
+    "col": 0,
+    "text": "Life",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 117,
+    "col": 1,
+    "text": "Ли Сын Хён",
+    "true_entities": [
+      {
+        "text": "Ли Сын Хён",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 117,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 117,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 117,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 117,
+    "col": 5,
+    "text": "2011—2016",
+    "true_entities": [
+      {
+        "text": "2011",
+        "label": "DATE"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 118,
+    "col": 0,
+    "text": "Liooon",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 118,
+    "col": 1,
+    "text": "Ли Сяомэн",
+    "true_entities": [
+      {
+        "text": "Ли Сяомэн",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 118,
+    "col": 2,
+    "text": "Китай",
+    "true_entities": [
+      {
+        "text": "Китай",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 118,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 118,
+    "col": 4,
+    "text": "Hearthstone",
+    "true_entities": [
+      {
+        "text": "Hearthstone",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 118,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 119,
+    "col": 0,
+    "text": "MarineKing",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 119,
+    "col": 1,
+    "text": "Ли Чан Хун",
+    "true_entities": [
+      {
+        "text": "Ли Чан Хун",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 119,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 119,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 119,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void, League of Legends",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "League of Legends",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 119,
+    "col": 5,
+    "text": "2009—2016",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 120,
+    "col": 0,
+    "text": "Maru",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 120,
+    "col": 1,
+    "text": "Чо Сон Чу",
+    "true_entities": [
+      {
+        "text": "Чо Сон Чу",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 120,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 120,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 120,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 120,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 121,
+    "col": 0,
+    "text": "MC",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 121,
+    "col": 1,
+    "text": "Чан Мин Чхоль",
+    "true_entities": [
+      {
+        "text": "Чан Мин Чхоль",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 121,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 121,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 121,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 121,
+    "col": 5,
+    "text": "2009—2016",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 122,
+    "col": 0,
+    "text": "Miracle-",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 122,
+    "col": 1,
+    "text": "Амер аль-Баркави",
+    "true_entities": [
+      {
+        "text": "Амер аль-Баркави",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 122,
+    "col": 2,
+    "text": "Польша  Иордания",
+    "true_entities": [
+      {
+        "text": "Польша",
+        "label": "GPE"
+      },
+      {
+        "text": "Иордания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 122,
+    "col": 3,
+    "text": "Nigma",
+    "true_entities": [
+      {
+        "text": "Nigma",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 122,
+    "col": 4,
+    "text": "Dota 2",
+    "true_entities": [
+      {
+        "text": "Dota 2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 122,
+    "col": 5,
+    "text": "2015 — н. в.",
+    "true_entities": [
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 123,
+    "col": 0,
+    "text": "MMA",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 123,
+    "col": 1,
+    "text": "Мун Сон Вон",
+    "true_entities": [
+      {
+        "text": "Мун Сон Вон",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 123,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 123,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 123,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 123,
+    "col": 5,
+    "text": "2008—2015 2017—2018",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 124,
+    "col": 0,
+    "text": "Mvp",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 124,
+    "col": 1,
+    "text": "Чон Йонг Хён",
+    "true_entities": [
+      {
+        "text": "Чон Йонг Хён",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 124,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 124,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 124,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 124,
+    "col": 5,
+    "text": "2008—2014",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 125,
+    "col": 0,
+    "text": "N0tail",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 125,
+    "col": 1,
+    "text": "Йохан Сундштайн",
+    "true_entities": [
+      {
+        "text": "Йохан Сундштайн",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 125,
+    "col": 2,
+    "text": "Дания",
+    "true_entities": [
+      {
+        "text": "Дания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 125,
+    "col": 3,
+    "text": "OG",
+    "true_entities": [
+      {
+        "text": "OG",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 125,
+    "col": 4,
+    "text": "Dota 2, Heroes of Newerth",
+    "true_entities": [
+      {
+        "text": "Dota 2",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Heroes of Newerth",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 125,
+    "col": 5,
+    "text": "2012 — н. в.",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 126,
+    "col": 0,
+    "text": "Neeb",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 126,
+    "col": 1,
+    "text": "Алекс Сандерхафт",
+    "true_entities": [
+      {
+        "text": "Алекс Сандерхафт",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 126,
+    "col": 2,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 126,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 126,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 126,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 127,
+    "col": 0,
+    "text": "PartinG",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 127,
+    "col": 1,
+    "text": "Вон Ли Сак",
+    "true_entities": [
+      {
+        "text": "Вон Ли Сак",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 127,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 127,
+    "col": 3,
+    "text": "Player 1",
+    "true_entities": [
+      {
+        "text": "Player 1",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 127,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 127,
+    "col": 5,
+    "text": "2010 — н. в.",
+    "true_entities": [
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 128,
+    "col": 0,
+    "text": "Polt",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 128,
+    "col": 1,
+    "text": "Чхве Сон Хун",
+    "true_entities": [
+      {
+        "text": "Чхве Сон Хун",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 128,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 128,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 128,
+    "col": 4,
+    "text": "Warcraft III: The Frozen Throne, StarCraft II: Wings of Liberty Heart of the Swarm, Legacy of the Void, Teamfight Tactics",
+    "true_entities": [
+      {
+        "text": "Warcraft III: The Frozen Throne",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Legacy of the Void",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Teamfight Tactics",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 128,
+    "col": 5,
+    "text": "2010—2016 2020",
+    "true_entities": [
+      {
+        "text": "2010",
+        "label": "DATE"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      },
+      {
+        "text": "2020",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 129,
+    "col": 0,
+    "text": "Reynor",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 129,
+    "col": 1,
+    "text": "Риккардо Ромити",
+    "true_entities": [
+      {
+        "text": "Риккардо Ромити",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 129,
+    "col": 2,
+    "text": "Италия",
+    "true_entities": [
+      {
+        "text": "Италия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 129,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 129,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 129,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 130,
+    "col": 0,
+    "text": "Rogue",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 130,
+    "col": 1,
+    "text": "Ли Бён Рёль",
+    "true_entities": [
+      {
+        "text": "Ли Бён Рёль",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 130,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 130,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 130,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 130,
+    "col": 5,
+    "text": "2010 — н. в.",
+    "true_entities": [
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 131,
+    "col": 0,
+    "text": "Scarlett",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 131,
+    "col": 1,
+    "text": "Саша Хостин",
+    "true_entities": [
+      {
+        "text": "Саша Хостин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 131,
+    "col": 2,
+    "text": "Канада",
+    "true_entities": [
+      {
+        "text": "Канада",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 131,
+    "col": 3,
+    "text": "Shopify Rebellion",
+    "true_entities": [
+      {
+        "text": "Shopify Rebellion",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 131,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void, Dota 2",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Dota 2",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 131,
+    "col": 5,
+    "text": "2011 — н. в.",
+    "true_entities": [
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 132,
+    "col": 0,
+    "text": "Serral",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 132,
+    "col": 1,
+    "text": "Йоона Сотал",
+    "true_entities": [
+      {
+        "text": "Йоона Сотал",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 132,
+    "col": 2,
+    "text": "Финляндия",
+    "true_entities": [
+      {
+        "text": "Финляндия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 132,
+    "col": 3,
+    "text": "ENCE",
+    "true_entities": [
+      {
+        "text": "ENCE",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 132,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 132,
+    "col": 5,
+    "text": "2012 — н. в.",
+    "true_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 133,
+    "col": 0,
+    "text": "Somedieyoung",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 133,
+    "col": 1,
+    "text": "Виктор Оруджев",
+    "true_entities": [
+      {
+        "text": "Виктор Оруджев",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 133,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 133,
+    "col": 3,
+    "text": "Team Spirit",
+    "true_entities": [
+      {
+        "text": "Team Spirit",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 133,
+    "col": 4,
+    "text": "Counter-Strike: Global Offensive",
+    "true_entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 133,
+    "col": 5,
+    "text": "2017 — н. в.",
+    "true_entities": [
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 134,
+    "col": 0,
+    "text": "soO",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 134,
+    "col": 1,
+    "text": "О Юн Су",
+    "true_entities": [
+      {
+        "text": "О Юн Су",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 134,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 134,
+    "col": 3,
+    "text": "Afreeca Freecs",
+    "true_entities": [
+      {
+        "text": "Afreeca Freecs",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 134,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 134,
+    "col": 5,
+    "text": "2008 — н. в.",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 135,
+    "col": 0,
+    "text": "sOs",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 135,
+    "col": 1,
+    "text": "Ким Ю Джин",
+    "true_entities": [
+      {
+        "text": "Ким Ю Джин",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 135,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 135,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 135,
+    "col": 4,
+    "text": "StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 135,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 136,
+    "col": 0,
+    "text": "Stats",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 136,
+    "col": 1,
+    "text": "Ким Дэ Ёп",
+    "true_entities": [
+      {
+        "text": "Ким Дэ Ёп",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 136,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 136,
+    "col": 3,
+    "text": "Afreeca Freecs",
+    "true_entities": [
+      {
+        "text": "Afreeca Freecs",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 136,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 136,
+    "col": 5,
+    "text": "2009 — н. в.",
+    "true_entities": [
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 137,
+    "col": 0,
+    "text": "TY",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 137,
+    "col": 1,
+    "text": "Чон Тхэ Ян",
+    "true_entities": [
+      {
+        "text": "Чон Тхэ Ян",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 137,
+    "col": 2,
+    "text": "Республика Корея",
+    "true_entities": [
+      {
+        "text": "Республика Корея",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 137,
+    "col": 3,
+    "text": "TSGaming",
+    "true_entities": [
+      {
+        "text": "TSGaming",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 137,
+    "col": 4,
+    "text": "StarCraft: Brood War, StarCraft II: Wings of Liberty, Heart of the Swarm, Legacy of the Void",
+    "true_entities": [
+      {
+        "text": "StarCraft: Brood War",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Wings of Liberty",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Heart of the Swarm",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II: Legacy of the Void",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 137,
+    "col": 5,
+    "text": "2006 — н. в.",
+    "true_entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 138,
+    "col": 0,
+    "text": "White-Ra",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 138,
+    "col": 1,
+    "text": "Алексей Крупник",
+    "true_entities": [
+      {
+        "text": "Алексей Крупник",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 138,
+    "col": 2,
+    "text": "Украина",
+    "true_entities": [
+      {
+        "text": "Украина",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 138,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 138,
+    "col": 4,
+    "text": "StarCraft, StarCraft II",
+    "true_entities": [
+      {
+        "text": "StarCraft",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 138,
+    "col": 5,
+    "text": "2003—2015",
+    "true_entities": [
+      {
+        "text": "2003",
+        "label": "DATE"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 139,
+    "col": 0,
+    "text": "xQc",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 139,
+    "col": 1,
+    "text": "Феликс Лянжель",
+    "true_entities": [
+      {
+        "text": "Феликс Лянжель",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 139,
+    "col": 2,
+    "text": "Канада",
+    "true_entities": [
+      {
+        "text": "Канада",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 139,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 139,
+    "col": 4,
+    "text": "Overwatch",
+    "true_entities": [
+      {
+        "text": "Overwatch",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 139,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 140,
+    "col": 0,
+    "text": "(orky)Soul",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 140,
+    "col": 1,
+    "text": "Иван Демидов",
+    "true_entities": [
+      {
+        "text": "Иван Демидов",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 140,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 140,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 140,
+    "col": 4,
+    "text": "StarCraft, Age of Empires, WarCraft 3",
+    "true_entities": [
+      {
+        "text": "StarCraft",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Age of Empires",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "WarCraft 3",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 140,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 141,
+    "col": 0,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 141,
+    "col": 1,
+    "text": "Николас Плотт",
+    "true_entities": [
+      {
+        "text": "Николас Плотт",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 141,
+    "col": 2,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 141,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 141,
+    "col": 4,
+    "text": "StarCraft",
+    "true_entities": [
+      {
+        "text": "StarCraft",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 141,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 142,
+    "col": 0,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 142,
+    "col": 1,
+    "text": "Бертран Гроспелье",
+    "true_entities": [
+      {
+        "text": "Бертран Гроспелье",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 142,
+    "col": 2,
+    "text": "Франция",
+    "true_entities": [
+      {
+        "text": "Франция",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 142,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 142,
+    "col": 4,
+    "text": "StarCraft",
+    "true_entities": [
+      {
+        "text": "StarCraft",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 142,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 143,
+    "col": 0,
+    "text": "Artosis",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 143,
+    "col": 1,
+    "text": "Дэниел Стемкоски",
+    "true_entities": [
+      {
+        "text": "Дэниел Стемкоски",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 143,
+    "col": 2,
+    "text": "США",
+    "true_entities": [
+      {
+        "text": "США",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 143,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 143,
+    "col": 4,
+    "text": "StarCraft",
+    "true_entities": [
+      {
+        "text": "StarCraft",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 143,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 144,
+    "col": 0,
+    "text": "Kefir",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 144,
+    "col": 1,
+    "text": "Сергей Никифоров",
+    "true_entities": [
+      {
+        "text": "Сергей Никифоров",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 144,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 144,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 144,
+    "col": 4,
+    "text": "FIFA",
+    "true_entities": [
+      {
+        "text": "FIFA",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 144,
+    "col": 5,
+    "text": "2008 — н. в.",
+    "true_entities": [
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 145,
+    "col": 0,
+    "text": "Mongraal",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 145,
+    "col": 1,
+    "text": "Кайл Джексон",
+    "true_entities": [
+      {
+        "text": "Кайл Джексон",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 145,
+    "col": 2,
+    "text": "Великобритания",
+    "true_entities": [
+      {
+        "text": "Великобритания",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 145,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 145,
+    "col": 4,
+    "text": "Fortnite",
+    "true_entities": [
+      {
+        "text": "Fortnite",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 145,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 146,
+    "col": 0,
+    "text": "Dilvish",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 146,
+    "col": 1,
+    "text": "Дмитрий Смит",
+    "true_entities": [
+      {
+        "text": "Дмитрий Смит",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 146,
+    "col": 2,
+    "text": "Россия",
+    "true_entities": [
+      {
+        "text": "Россия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 146,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 146,
+    "col": 4,
+    "text": "Warcraft 2, StarCraft",
+    "true_entities": [
+      {
+        "text": "Warcraft 2",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "StarCraft",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 146,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 147,
+    "col": 0,
+    "text": "Kimble",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 147,
+    "col": 1,
+    "text": "Ким Дотком",
+    "true_entities": [
+      {
+        "text": "Ким Дотком",
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 147,
+    "col": 2,
+    "text": "Финляндия  Германия",
+    "true_entities": [
+      {
+        "text": "Финляндия",
+        "label": "GPE"
+      },
+      {
+        "text": "Германия",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "table_id": 59,
+    "row": 147,
+    "col": 3,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 147,
+    "col": 4,
+    "text": "",
+    "true_entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 147,
+    "col": 5,
+    "text": "",
+    "true_entities": []
+  }
+]

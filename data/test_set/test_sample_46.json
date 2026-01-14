@@ -1,0 +1,482 @@
+[
+  {
+    "table_id": 46,
+    "row": 1,
+    "col": 0,
+    "text": "Каспийское море",
+    "true_entities": [
+      {
+        "text": "Каспийское море",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 1,
+    "col": 1,
+    "text": "371 000",
+    "true_entities": [
+      {
+        "text": "371 000",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 1,
+    "col": 2,
+    "text": "−28",
+    "true_entities": [
+      {
+        "text": "−28",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 1,
+    "col": 3,
+    "text": "1025",
+    "true_entities": [
+      {
+        "text": "1025",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 2,
+    "col": 0,
+    "text": "Байкал",
+    "true_entities": [
+      {
+        "text": "Байкал",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 2,
+    "col": 1,
+    "text": "31 500",
+    "true_entities": [
+      {
+        "text": "31 500",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 2,
+    "col": 2,
+    "text": "456",
+    "true_entities": [
+      {
+        "text": "456",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 2,
+    "col": 3,
+    "text": "1642",
+    "true_entities": [
+      {
+        "text": "1642",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 3,
+    "col": 0,
+    "text": "Ладожское озеро",
+    "true_entities": [
+      {
+        "text": "Ладожское озеро",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 3,
+    "col": 1,
+    "text": "17 703",
+    "true_entities": [
+      {
+        "text": "17 703",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 3,
+    "col": 2,
+    "text": "4",
+    "true_entities": [
+      {
+        "text": "4",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 3,
+    "col": 3,
+    "text": "225",
+    "true_entities": [
+      {
+        "text": "225",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 4,
+    "col": 0,
+    "text": "Онежское озеро",
+    "true_entities": [
+      {
+        "text": "Онежское озеро",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 4,
+    "col": 1,
+    "text": "9 616",
+    "true_entities": [
+      {
+        "text": "9 616",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 4,
+    "col": 2,
+    "text": "32",
+    "true_entities": [
+      {
+        "text": "32",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 4,
+    "col": 3,
+    "text": "124",
+    "true_entities": [
+      {
+        "text": "124",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 5,
+    "col": 0,
+    "text": "Таймыр",
+    "true_entities": [
+      {
+        "text": "Таймыр",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 5,
+    "col": 1,
+    "text": "4 560",
+    "true_entities": [
+      {
+        "text": "4 560",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 5,
+    "col": 2,
+    "text": "6",
+    "true_entities": [
+      {
+        "text": "6",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 5,
+    "col": 3,
+    "text": "26",
+    "true_entities": [
+      {
+        "text": "26",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 6,
+    "col": 0,
+    "text": "Ханка",
+    "true_entities": [
+      {
+        "text": "Ханка",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 6,
+    "col": 1,
+    "text": "4 190",
+    "true_entities": [
+      {
+        "text": "4 190",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 6,
+    "col": 2,
+    "text": "68",
+    "true_entities": [
+      {
+        "text": "68",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 6,
+    "col": 3,
+    "text": "10",
+    "true_entities": [
+      {
+        "text": "10",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 7,
+    "col": 0,
+    "text": "Чудско-Псковское озеро",
+    "true_entities": [
+      {
+        "text": "Чудско-Псковское озеро",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 7,
+    "col": 1,
+    "text": "3 555",
+    "true_entities": [
+      {
+        "text": "3 555",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 7,
+    "col": 2,
+    "text": "30",
+    "true_entities": [
+      {
+        "text": "30",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 7,
+    "col": 3,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 8,
+    "col": 0,
+    "text": "Убсу-Нур",
+    "true_entities": [
+      {
+        "text": "Убсу-Нур",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 8,
+    "col": 1,
+    "text": "3 350",
+    "true_entities": [
+      {
+        "text": "3 350",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 8,
+    "col": 2,
+    "text": "753",
+    "true_entities": [
+      {
+        "text": "753",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 8,
+    "col": 3,
+    "text": "15",
+    "true_entities": [
+      {
+        "text": "15",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 9,
+    "col": 0,
+    "text": "Чаны",
+    "true_entities": [
+      {
+        "text": "Чаны",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 9,
+    "col": 1,
+    "text": "1 990",
+    "true_entities": [
+      {
+        "text": "1 990",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 9,
+    "col": 2,
+    "text": "105",
+    "true_entities": [
+      {
+        "text": "105",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 9,
+    "col": 3,
+    "text": "12",
+    "true_entities": [
+      {
+        "text": "12",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 10,
+    "col": 0,
+    "text": "Белое озеро",
+    "true_entities": [
+      {
+        "text": "Белое озеро",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 10,
+    "col": 1,
+    "text": "1 290",
+    "true_entities": [
+      {
+        "text": "1 290",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 10,
+    "col": 2,
+    "text": "113",
+    "true_entities": [
+      {
+        "text": "113",
+        "label": "QUANTITY"
+      }
+    ]
+  },
+  {
+    "table_id": 46,
+    "row": 10,
+    "col": 3,
+    "text": "20",
+    "true_entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY"
+      }
+    ]
+  }
+]

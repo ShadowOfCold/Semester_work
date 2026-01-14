@@ -1,0 +1,324 @@
+[
+  {
+    "table_id": 41,
+    "row": 1,
+    "col": 0,
+    "text": "1",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 1,
+    "col": 1,
+    "text": "Первый канал",
+    "true_entities": [
+      {
+        "text": "Первый канал",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 1,
+    "col": 2,
+    "text": "АО «Первый канал»",
+    "true_entities": [
+      {
+        "text": "АО «Первый канал»",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 2,
+    "col": 0,
+    "text": "2",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 2,
+    "col": 1,
+    "text": "Россия-1",
+    "true_entities": [
+      {
+        "text": "Россия-1",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 2,
+    "col": 2,
+    "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+    "true_entities": [
+      {
+        "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 3,
+    "col": 0,
+    "text": "3",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 3,
+    "col": 1,
+    "text": "Матч ТВ",
+    "true_entities": [
+      {
+        "text": "Матч ТВ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 3,
+    "col": 2,
+    "text": "Газпром-Медиа Холдинг",
+    "true_entities": [
+      {
+        "text": "Газпром-Медиа Холдинг",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 4,
+    "col": 0,
+    "text": "4",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 4,
+    "col": 1,
+    "text": "НТВ",
+    "true_entities": [
+      {
+        "text": "НТВ",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 4,
+    "col": 2,
+    "text": "Газпром-Медиа Холдинг и АО «Телекомпания НТВ»",
+    "true_entities": [
+      {
+        "text": "Газпром-Медиа Холдинг",
+        "label": "ORG"
+      },
+      {
+        "text": "АО «Телекомпания НТВ»",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 5,
+    "col": 0,
+    "text": "5",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 5,
+    "col": 1,
+    "text": "Пятый канал",
+    "true_entities": [
+      {
+        "text": "Пятый канал",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 5,
+    "col": 2,
+    "text": "Национальная Медиа Группа",
+    "true_entities": [
+      {
+        "text": "Национальная Медиа Группа",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 6,
+    "col": 0,
+    "text": "6",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 6,
+    "col": 1,
+    "text": "Россия-К",
+    "true_entities": [
+      {
+        "text": "Россия-К",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 6,
+    "col": 2,
+    "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+    "true_entities": [
+      {
+        "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 7,
+    "col": 0,
+    "text": "7",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 7,
+    "col": 1,
+    "text": "Россия-24",
+    "true_entities": [
+      {
+        "text": "Россия-24",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 7,
+    "col": 2,
+    "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+    "true_entities": [
+      {
+        "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 8,
+    "col": 0,
+    "text": "8",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 8,
+    "col": 1,
+    "text": "Карусель",
+    "true_entities": [
+      {
+        "text": "Карусель",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 8,
+    "col": 2,
+    "text": "ЗАО «Карусель» (ВГТРК и ЗАО «Первый канал. Всемирная сеть»)",
+    "true_entities": [
+      {
+        "text": "ЗАО «Карусель»",
+        "label": "ORG"
+      },
+      {
+        "text": "ВГТРК",
+        "label": "ORG"
+      },
+      {
+        "text": "ЗАО «Первый канал. Всемирная сеть»",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 9,
+    "col": 0,
+    "text": "9",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 9,
+    "col": 1,
+    "text": "ОТР",
+    "true_entities": [
+      {
+        "text": "ОТР",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 9,
+    "col": 2,
+    "text": "АНО «Общественное телевидение России»",
+    "true_entities": [
+      {
+        "text": "АНО «Общественное телевидение России»",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 10,
+    "col": 0,
+    "text": "10",
+    "true_entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 10,
+    "col": 1,
+    "text": "ТВ Центр",
+    "true_entities": [
+      {
+        "text": "ТВ Центр",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 10,
+    "col": 2,
+    "text": "АО «Телекомпания „ТВ Центр“»",
+    "true_entities": [
+      {
+        "text": "АО «Телекомпания „ТВ Центр“»",
+        "label": "ORG"
+      }
+    ]
+  }
+]

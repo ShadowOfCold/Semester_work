@@ -1,0 +1,274 @@
+[
+  {
+    "table_id": 49,
+    "row": 1,
+    "col": 0,
+    "text": "1. Stōd-yasn",
+    "true_entities": [
+      {
+        "text": "Stōd-yasn",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 1,
+    "col": 1,
+    "text": "Y. 14-16, 22-27, 28-54, 56, Vr. (полностью)",
+    "true_entities": [
+      {
+        "text": "Y. 14-16, 22-27, 28-54, 56",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Vr.",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 1,
+    "col": 2,
+    "text": "Гаты, части Ясны, Висперед",
+    "true_entities": [
+      {
+        "text": "Гаты",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Ясны",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Висперед",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 2,
+    "col": 0,
+    "text": "2. Sūdgar",
+    "true_entities": [
+      {
+        "text": "Sūdgar",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 2,
+    "col": 1,
+    "text": "Отдельные фрагменты? подробное описание в Денкарде 9.1.",
+    "true_entities": [
+      {
+        "text": "Денкарде",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 2,
+    "col": 2,
+    "text": "Комментарии к Гатам",
+    "true_entities": [
+      {
+        "text": "Комментарии к Гатам",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Гатам",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 3,
+    "col": 0,
+    "text": "3. Warštmānsr",
+    "true_entities": [
+      {
+        "text": "Warštmānsr",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 3,
+    "col": 1,
+    "text": "Подробное описание в Денкарде 9.2",
+    "true_entities": [
+      {
+        "text": "Денкарде",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 3,
+    "col": 2,
+    "text": "Комментарии к Гатам",
+    "true_entities": [
+      {
+        "text": "Комментарии к Гатам",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Гатам",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 4,
+    "col": 0,
+    "text": "4. Bag",
+    "true_entities": [
+      {
+        "text": "Bag",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 4,
+    "col": 1,
+    "text": "Y.19-22, подробное описание в Денкарде 9.3",
+    "true_entities": [
+      {
+        "text": "Y.19-22",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Денкарде",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 4,
+    "col": 2,
+    "text": "Комментарии к Гатам",
+    "true_entities": [
+      {
+        "text": "Комментарии к Гатам",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Гатам",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 5,
+    "col": 0,
+    "text": "5. Waštag",
+    "true_entities": [
+      {
+        "text": "Waštag",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 5,
+    "col": 1,
+    "text": "Утрачен",
+    "true_entities": []
+  },
+  {
+    "table_id": 49,
+    "row": 5,
+    "col": 2,
+    "text": "Неизвестно",
+    "true_entities": []
+  },
+  {
+    "table_id": 49,
+    "row": 6,
+    "col": 0,
+    "text": "6. Hādōxt",
+    "true_entities": [
+      {
+        "text": "Hādōxt",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 6,
+    "col": 1,
+    "text": "Y. 58, Yt. 11, Az., H. 1-2",
+    "true_entities": [
+      {
+        "text": "Y. 58",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Yt. 11",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Az.",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "H. 1-2",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 6,
+    "col": 2,
+    "text": "Описание религиозного главенства, праздников, правил поведения и путей достижения праведности и др.",
+    "true_entities": []
+  },
+  {
+    "table_id": 49,
+    "row": 7,
+    "col": 0,
+    "text": "7. Spand",
+    "true_entities": [
+      {
+        "text": "Spand",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "table_id": 49,
+    "row": 7,
+    "col": 1,
+    "text": "Отдельные фрагменты",
+    "true_entities": []
+  },
+  {
+    "table_id": 49,
+    "row": 7,
+    "col": 2,
+    "text": "Жизнеописание Заратуштры",
+    "true_entities": [
+      {
+        "text": "Заратуштры",
+        "label": "PER"
+      }
+    ]
+  }
+]
