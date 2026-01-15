@@ -12,9 +12,6 @@ class SpacyNER:
             self.nlp = spacy.load(model_name)
 
     def extract_entities(self, text: str) -> List[Dict]:
-        """
-        Извлекает сущности из текста одной ячейки.
-        """
         doc = self.nlp(text)
         entities = []
         for ent in doc.ents:

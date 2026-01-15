@@ -78,13 +78,7 @@
     "row": 2,
     "col": 2,
     "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
-    "entities": [
-      {
-        "text": "Всероссийская государственная телевизионная и радиовещательная компания",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 41,
@@ -101,7 +95,7 @@
     "entities": [
       {
         "text": "Матч ТВ",
-        "label": "MISC",
+        "label": "ORG",
         "source": "gigachat_few"
       }
     ]
@@ -134,7 +128,7 @@
     "entities": [
       {
         "text": "НТВ",
-        "label": "MISC",
+        "label": "ORG",
         "source": "gigachat_few"
       }
     ]
@@ -146,23 +140,13 @@
     "text": "Газпром-Медиа Холдинг и АО «Телекомпания НТВ»",
     "entities": [
       {
-        "text": "Газпром",
-        "label": "MISC",
+        "text": "Газпром-Медиа Холдинг",
+        "label": "ORG",
         "source": "gigachat_few"
       },
       {
-        "text": "Медиа ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Холдинг и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Телекомпания ",
-        "label": "MISC",
+        "text": "АО «Телекомпания НТВ»",
+        "label": "ORG",
         "source": "gigachat_few"
       }
     ]
@@ -225,13 +209,7 @@
     "row": 6,
     "col": 2,
     "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
-    "entities": [
-      {
-        "text": "Всероссийская государственная телевизионная и радиовещательная компания",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 41,
@@ -258,13 +236,7 @@
     "row": 7,
     "col": 2,
     "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
-    "entities": [
-      {
-        "text": "Всероссийская государственная телевизионная и радиовещательная компания",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 41,
@@ -285,23 +257,7 @@
     "row": 8,
     "col": 2,
     "text": "ЗАО «Карусель» (ВГТРК и ЗАО «Первый канал. Всемирная сеть»)",
-    "entities": [
-      {
-        "text": "Карусель» (",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Первый канал",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Всемирная сеть",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 41,
@@ -315,13 +271,7 @@
     "row": 9,
     "col": 1,
     "text": "ОТР",
-    "entities": [
-      {
-        "text": "ОТР",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 41,
@@ -351,7 +301,7 @@
     "entities": [
       {
         "text": "ТВ Центр",
-        "label": "ORG",
+        "label": "MISC",
         "source": "gigachat_few"
       }
     ]
@@ -374,13 +324,7 @@
     "row": 0,
     "col": 0,
     "text": "Место",
-    "entities": [
-      {
-        "text": "Место",
-        "label": "LOC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 42,
@@ -489,23 +433,7 @@
     "row": 1,
     "col": 4,
     "text": "Toyota Yaris WRC",
-    "entities": [
-      {
-        "text": "Toyota",
-        "label": "ORG",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Yaris",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "WRC",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 42,
@@ -519,7 +447,13 @@
     "row": 1,
     "col": 6,
     "text": "3:28:24.6",
-    "entities": []
+    "entities": [
+      {
+        "text": "3:28:24.6",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 42,
@@ -631,7 +565,13 @@
     "row": 2,
     "col": 8,
     "text": "19",
-    "entities": []
+    "entities": [
+      {
+        "text": "19",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 42,
@@ -845,18 +785,7 @@
     "row": 5,
     "col": 3,
     "text": "M-Sport Ford WRT",
-    "entities": [
-      {
-        "text": "M-Sport",
-        "label": "ORG",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Ford WRT",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 42,
@@ -883,7 +812,13 @@
     "row": 5,
     "col": 6,
     "text": "3:34:09.6",
-    "entities": []
+    "entities": [
+      {
+        "text": "3:34:09.6",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 42,
@@ -950,23 +885,7 @@
     "row": 6,
     "col": 4,
     "text": "Toyota Yaris WRC",
-    "entities": [
-      {
-        "text": "Toyota",
-        "label": "ORG",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Yaris",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "WRC",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 42,
@@ -1046,7 +965,18 @@
     "row": 7,
     "col": 3,
     "text": "M-Sport Ford WRT",
-    "entities": []
+    "entities": [
+      {
+        "text": "M-Sport",
+        "label": "ORG",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Ford WRT",
+        "label": "PRODUCT",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 42,
@@ -1073,13 +1003,7 @@
     "row": 7,
     "col": 6,
     "text": "3:35:19.0",
-    "entities": [
-      {
-        "text": "3:35:19.0",
-        "label": "TIME",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 42,
@@ -1154,13 +1078,7 @@
     "row": 8,
     "col": 6,
     "text": "3:37:05.7",
-    "entities": [
-      {
-        "text": "3:37:05.7",
-        "label": "TIME",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 42,
@@ -1214,7 +1132,13 @@
     "row": 9,
     "col": 3,
     "text": "Toksport WRT",
-    "entities": []
+    "entities": [
+      {
+        "text": "Toksport WRT",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 42,
@@ -1329,13 +1253,7 @@
     "row": 10,
     "col": 7,
     "text": "+9:19.2",
-    "entities": [
-      {
-        "text": "+9:19.2",
-        "label": "TIME",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 42,
@@ -1363,38 +1281,27 @@
     "row": 1,
     "col": 0,
     "text": "Австрия (Ö3 Austria)[17]",
-    "entities": [
-      {
-        "text": "Австрия (",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
     "row": 1,
     "col": 1,
     "text": "20",
-    "entities": []
+    "entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 44,
     "row": 2,
     "col": 0,
     "text": "Бельгия/Фландрия (Ultratop)[18]",
-    "entities": [
-      {
-        "text": "Бельгия",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Фландрия (",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1414,18 +1321,7 @@
     "row": 3,
     "col": 0,
     "text": "Бельгия/Валлония (Ultratop)[19]",
-    "entities": [
-      {
-        "text": "Бельгия",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Валлония (",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1439,13 +1335,7 @@
     "row": 4,
     "col": 0,
     "text": "Нидерланды (MegaCharts)[20]",
-    "entities": [
-      {
-        "text": "Нидерланды (",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1459,18 +1349,7 @@
     "row": 5,
     "col": 0,
     "text": "Франция (SNEP)[21]",
-    "entities": [
-      {
-        "text": "Франция",
-        "label": "GPE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "SNEP",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1484,13 +1363,7 @@
     "row": 6,
     "col": 0,
     "text": "Германия (Offizielle Top 100)[22]",
-    "entities": [
-      {
-        "text": "Германия (",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1510,13 +1383,7 @@
     "row": 7,
     "col": 0,
     "text": "Ирландия (IRMA)[23]",
-    "entities": [
-      {
-        "text": "Ирландия (IRMA",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1530,13 +1397,7 @@
     "row": 8,
     "col": 0,
     "text": "Норвегия (VG-lista)[24]",
-    "entities": [
-      {
-        "text": "Норвегия (VG",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1550,13 +1411,7 @@
     "row": 9,
     "col": 0,
     "text": "Шотландия (Scottish Albums)[25]",
-    "entities": [
-      {
-        "text": "Шотландия (",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1578,8 +1433,8 @@
     "text": "Испания (PROMUSICAE)[26]",
     "entities": [
       {
-        "text": "Испания (PROMUSICAE",
-        "label": "MISC",
+        "text": "Испания",
+        "label": "GPE",
         "source": "gigachat_few"
       }
     ]
@@ -1602,13 +1457,7 @@
     "row": 11,
     "col": 0,
     "text": "Швейцария (Schweizer Hitparade)[27]",
-    "entities": [
-      {
-        "text": "Швейцария (",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1628,13 +1477,7 @@
     "row": 12,
     "col": 0,
     "text": "Великобритания (UK Albums)[28]",
-    "entities": [
-      {
-        "text": "Великобритания (UK ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 44,
@@ -1662,23 +1505,7 @@
     "row": 0,
     "col": 2,
     "text": "% от общего числа*",
-    "entities": [
-      {
-        "text": "%",
-        "label": "PERCENT",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "общего",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "числа",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 45,
@@ -1727,7 +1554,7 @@
     "text": "Румыны",
     "entities": [
       {
-        "text": "румыны",
+        "text": "Румыны",
         "label": "NORP",
         "source": "gigachat_few"
       }
@@ -1847,7 +1674,7 @@
     "text": "Китайцы",
     "entities": [
       {
-        "text": "китайцы",
+        "text": "Китайцы",
         "label": "NORP",
         "source": "gigachat_few"
       }
@@ -1874,7 +1701,7 @@
     "text": "28 %",
     "entities": [
       {
-        "text": "28 %",
+        "text": "28%",
         "label": "PERCENT",
         "source": "gigachat_few"
       }
@@ -1927,8 +1754,8 @@
     "text": "Азиаты (не считая китайцев)",
     "entities": [
       {
-        "text": "Азиаты (не считая китайцев",
-        "label": "MISC",
+        "text": "Азиаты",
+        "label": "NORP",
         "source": "gigachat_few"
       }
     ]
@@ -2005,18 +1832,7 @@
     "row": 9,
     "col": 0,
     "text": "Негры южнее Сахары",
-    "entities": [
-      {
-        "text": "негры",
-        "label": "NORP",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "южнее Сахары",
-        "label": "LOC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 45,
@@ -2098,13 +1914,7 @@
     "row": 0,
     "col": 0,
     "text": "км²",
-    "entities": [
-      {
-        "text": "км²",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 46,
@@ -2212,7 +2022,13 @@
     "row": 2,
     "col": 3,
     "text": "1642",
-    "entities": []
+    "entities": [
+      {
+        "text": "1642",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 46,
@@ -2232,13 +2048,7 @@
     "row": 3,
     "col": 1,
     "text": "17 703",
-    "entities": [
-      {
-        "text": "17 703",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 46,
@@ -2252,13 +2062,7 @@
     "row": 3,
     "col": 3,
     "text": "225",
-    "entities": [
-      {
-        "text": "225",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 46,
@@ -2345,13 +2149,7 @@
     "row": 6,
     "col": 0,
     "text": "Ханка",
-    "entities": [
-      {
-        "text": "Ханка",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 46,
@@ -2431,20 +2229,20 @@
     "row": 8,
     "col": 0,
     "text": "Убсу-Нур",
-    "entities": [
-      {
-        "text": "Убсу-Нур",
-        "label": "LOC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 46,
     "row": 8,
     "col": 1,
     "text": "3 350",
-    "entities": []
+    "entities": [
+      {
+        "text": "3 350",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 46,
@@ -2471,13 +2269,7 @@
     "row": 9,
     "col": 0,
     "text": "Чаны",
-    "entities": [
-      {
-        "text": "Чаны",
-        "label": "LOC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 46,
@@ -2571,31 +2363,14 @@
     "row": 0,
     "col": 2,
     "text": "Сокращённое наименование на оригинальном языке",
-    "entities": [
-      {
-        "text": "Сокращённое наименование на оригинальном языке",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 47,
     "row": 0,
     "col": 3,
     "text": "Полное наименование организации на оригинальном языке",
-    "entities": [
-      {
-        "text": "организации",
-        "label": "ORG",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "оригинальном",
-        "label": "LANGUAGE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 47,
@@ -2609,18 +2384,7 @@
     "row": 0,
     "col": 5,
     "text": "Период(ы) членства России (РСФСР)",
-    "entities": [
-      {
-        "text": "Период(ы) членства ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "России (",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 47,
@@ -2674,12 +2438,7 @@
     "text": "1919—1946",
     "entities": [
       {
-        "text": "1919",
-        "label": "DATE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "1946",
+        "text": "1919—1946",
         "label": "DATE",
         "source": "gigachat_few"
       }
@@ -2690,13 +2449,7 @@
     "row": 1,
     "col": 5,
     "text": "1934—1939",
-    "entities": [
-      {
-        "text": "1934—1939",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 47,
@@ -2705,13 +2458,8 @@
     "text": "Организация Варшавского договора",
     "entities": [
       {
-        "text": "Организация ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Варшавского договора",
-        "label": "MISC",
+        "text": "Варшавский договор",
+        "label": "LAW",
         "source": "gigachat_few"
       }
     ]
@@ -2822,7 +2570,12 @@
     "text": "1949—1991",
     "entities": [
       {
-        "text": "1949—1991",
+        "text": "1949",
+        "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "1991",
         "label": "DATE",
         "source": "gigachat_few"
       }
@@ -2833,13 +2586,7 @@
     "row": 4,
     "col": 0,
     "text": "Третий коммунистический интернационал",
-    "entities": [
-      {
-        "text": "Третий коммунистический интернационал",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 47,
@@ -2873,44 +2620,21 @@
     "row": 4,
     "col": 4,
     "text": "1919—1943",
-    "entities": [
-      {
-        "text": "1919—1943",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 47,
     "row": 4,
     "col": 5,
     "text": "1919—1943",
-    "entities": [
-      {
-        "text": "1919",
-        "label": "DATE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "1943",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 48,
     "row": 0,
     "col": 0,
     "text": "Партия",
-    "entities": [
-      {
-        "text": "Партия",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 48,
@@ -2924,13 +2648,7 @@
     "row": 1,
     "col": 0,
     "text": "Национальное объединение независимых",
-    "entities": [
-      {
-        "text": "национальное объединение независимых",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 48,
@@ -2966,7 +2684,7 @@
     "text": "Истикляль",
     "entities": [
       {
-        "text": "Истикляль",
+        "text": "Истикляль»,",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -2984,13 +2702,7 @@
     "row": 4,
     "col": 0,
     "text": "Социалистический союз народных сил",
-    "entities": [
-      {
-        "text": "Союз народных сил",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 48,
@@ -3004,26 +2716,14 @@
     "row": 5,
     "col": 0,
     "text": "Народное движение[en]",
-    "entities": [
-      {
-        "text": "народное движение",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 48,
     "row": 5,
     "col": 1,
     "text": "28",
-    "entities": [
-      {
-        "text": "28",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 48,
@@ -3046,7 +2746,7 @@
     "entities": [
       {
         "text": "22",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -3135,7 +2835,7 @@
     "entities": [
       {
         "text": "Федерация демократических левых",
-        "label": "MISC",
+        "label": "NORP",
         "source": "gigachat_few"
       }
     ]
@@ -3154,7 +2854,7 @@
     "text": "Объединённая социалистическая партия[en]",
     "entities": [
       {
-        "text": "Объединённая социалистическая партия",
+        "text": "Объединённая социалистическая партия[en]",
         "label": "ORG",
         "source": "gigachat_few"
       }
@@ -3214,7 +2914,13 @@
     "row": 1,
     "col": 0,
     "text": "28-54",
-    "entities": []
+    "entities": [
+      {
+        "text": "28-54",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 49,
@@ -3235,13 +2941,7 @@
     "row": 1,
     "col": 1,
     "text": "Гаты",
-    "entities": [
-      {
-        "text": "Гаты",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 49,
@@ -3324,13 +3024,7 @@
     "row": 4,
     "col": 0,
     "text": "подробное описание в Денкарде 9.3",
-    "entities": [
-      {
-        "text": "Денкарде 9",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 49,
@@ -3482,26 +3176,14 @@
     "row": 0,
     "col": 4,
     "text": "Лига",
-    "entities": [
-      {
-        "text": "Лига",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 0,
     "col": 5,
     "text": "Кубок страны",
-    "entities": [
-      {
-        "text": "Кубок страны",
-        "label": "EVENT",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -3521,13 +3203,7 @@
     "row": 0,
     "col": 7,
     "text": "Еврокубки[384]",
-    "entities": [
-      {
-        "text": "Еврокубки",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -3583,13 +3259,7 @@
     "row": 1,
     "col": 2,
     "text": "Сезон",
-    "entities": [
-      {
-        "text": "Сезон",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -3679,26 +3349,14 @@
     "row": 2,
     "col": 1,
     "text": "Аллсвенскан",
-    "entities": [
-      {
-        "text": "Аллсвенскан",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 2,
     "col": 2,
     "text": "1999",
-    "entities": [
-      {
-        "text": "1999",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -3788,26 +3446,14 @@
     "row": 3,
     "col": 1,
     "text": "Суперэттан",
-    "entities": [
-      {
-        "text": "Суперэттан",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 3,
     "col": 2,
     "text": "2000",
-    "entities": [
-      {
-        "text": "2000",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -3817,7 +3463,7 @@
     "entities": [
       {
         "text": "26",
-        "label": "QUANTITY",
+        "label": "DATE",
         "source": "gigachat_few"
       }
     ]
@@ -3882,13 +3528,7 @@
     "row": 3,
     "col": 11,
     "text": "29",
-    "entities": [
-      {
-        "text": "29",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -3921,13 +3561,7 @@
     "row": 4,
     "col": 1,
     "text": "Аллсвенскан",
-    "entities": [
-      {
-        "text": "Аллсвенскан",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -4125,33 +3759,27 @@
     "row": 5,
     "col": 12,
     "text": "18",
-    "entities": []
+    "entities": [
+      {
+        "text": "18",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
     "row": 6,
     "col": 0,
     "text": "Аякс",
-    "entities": [
-      {
-        "text": "Аякс",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 6,
     "col": 1,
     "text": "Эредивизи",
-    "entities": [
-      {
-        "text": "Эредивизи",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -4247,39 +3875,21 @@
     "row": 7,
     "col": 0,
     "text": "Аякс",
-    "entities": [
-      {
-        "text": "Аякс",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 7,
     "col": 1,
     "text": "Эредивизи",
-    "entities": [
-      {
-        "text": "Эредивизи",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 7,
     "col": 2,
     "text": "2002/03",
-    "entities": [
-      {
-        "text": "2002/03",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -4355,39 +3965,21 @@
     "row": 7,
     "col": 12,
     "text": "21",
-    "entities": [
-      {
-        "text": "21",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 8,
     "col": 0,
     "text": "Аякс",
-    "entities": [
-      {
-        "text": "Аякс",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 8,
     "col": 1,
     "text": "Эредивизи",
-    "entities": [
-      {
-        "text": "Эредивизи",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -4410,7 +4002,7 @@
     "entities": [
       {
         "text": "22",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -4420,13 +4012,7 @@
     "row": 8,
     "col": 4,
     "text": "13",
-    "entities": [
-      {
-        "text": "13",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -4501,33 +4087,27 @@
     "row": 9,
     "col": 0,
     "text": "Аякс",
-    "entities": [
-      {
-        "text": "Аякс",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 9,
     "col": 1,
     "text": "Эредивизи",
-    "entities": [
-      {
-        "text": "Эредивизи",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 9,
     "col": 2,
     "text": "2004/05",
-    "entities": []
+    "entities": [
+      {
+        "text": "2004/05",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -4604,13 +4184,7 @@
     "row": 10,
     "col": 0,
     "text": "Аякс",
-    "entities": [
-      {
-        "text": "Аякс",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -4726,13 +4300,7 @@
     "row": 11,
     "col": 1,
     "text": "Серия А",
-    "entities": [
-      {
-        "text": "Серия ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -4752,13 +4320,7 @@
     "row": 11,
     "col": 3,
     "text": "35",
-    "entities": [
-      {
-        "text": "35",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -4820,7 +4382,13 @@
     "row": 11,
     "col": 11,
     "text": "45",
-    "entities": []
+    "entities": [
+      {
+        "text": "45",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -4830,7 +4398,7 @@
     "entities": [
       {
         "text": "16",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -4862,8 +4430,13 @@
     "text": "2005/06",
     "entities": [
       {
-        "text": "2005/06",
+        "text": "2005",
         "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "06",
+        "label": "TIME",
         "source": "gigachat_few"
       }
     ]
@@ -4873,7 +4446,13 @@
     "row": 12,
     "col": 3,
     "text": "35",
-    "entities": []
+    "entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -4970,7 +4549,13 @@
     "row": 13,
     "col": 3,
     "text": "70",
-    "entities": []
+    "entities": [
+      {
+        "text": "70",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -5048,7 +4633,7 @@
     "entities": [
       {
         "text": "26",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -5071,7 +4656,13 @@
     "row": 14,
     "col": 1,
     "text": "Серия А",
-    "entities": []
+    "entities": [
+      {
+        "text": "Серия А",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -5179,20 +4770,20 @@
     "row": 15,
     "col": 0,
     "text": "Интернационале",
-    "entities": [
-      {
-        "text": "Интернационале",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 15,
     "col": 1,
     "text": "Серия А",
-    "entities": []
+    "entities": [
+      {
+        "text": "Серия А",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -5215,7 +4806,7 @@
     "entities": [
       {
         "text": "26",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -5290,7 +4881,7 @@
     "entities": [
       {
         "text": "22",
-        "label": "QUANTITY",
+        "label": "DATE",
         "source": "gigachat_few"
       }
     ]
@@ -5315,7 +4906,7 @@
     "text": "Серия А",
     "entities": [
       {
-        "text": "Серия ",
+        "text": "Серия А",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -5326,7 +4917,13 @@
     "row": 16,
     "col": 2,
     "text": "2008/09",
-    "entities": []
+    "entities": [
+      {
+        "text": "2008/09",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -5476,7 +5073,13 @@
     "row": 17,
     "col": 7,
     "text": "22",
-    "entities": []
+    "entities": [
+      {
+        "text": "22",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -5540,13 +5143,8 @@
     "text": "2009/10",
     "entities": [
       {
-        "text": "2009",
+        "text": "2009/10",
         "label": "DATE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "10",
-        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -5640,7 +5238,7 @@
     "entities": [
       {
         "text": "21",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -5678,7 +5276,7 @@
       },
       {
         "text": "11",
-        "label": "DATE",
+        "label": "TIME",
         "source": "gigachat_few"
       }
     ]
@@ -5801,7 +5399,7 @@
     "entities": [
       {
         "text": "16",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -5860,7 +5458,13 @@
     "row": 20,
     "col": 12,
     "text": "22",
-    "entities": []
+    "entities": [
+      {
+        "text": "22",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -5882,7 +5486,7 @@
     "text": "Серия А",
     "entities": [
       {
-        "text": "Серия ",
+        "text": "Серия А",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -5895,12 +5499,7 @@
     "text": "2010/11",
     "entities": [
       {
-        "text": "2010",
-        "label": "DATE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "11",
+        "text": "2010/11",
         "label": "DATE",
         "source": "gigachat_few"
       }
@@ -5989,7 +5588,7 @@
     "entities": [
       {
         "text": "21",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -6012,7 +5611,13 @@
     "row": 22,
     "col": 1,
     "text": "Серия А",
-    "entities": []
+    "entities": [
+      {
+        "text": "Серия А",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -6021,12 +5626,7 @@
     "text": "2011/12",
     "entities": [
       {
-        "text": "2011",
-        "label": "DATE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "12",
+        "text": "2011/12",
         "label": "DATE",
         "source": "gigachat_few"
       }
@@ -6106,7 +5706,13 @@
     "row": 22,
     "col": 12,
     "text": "35",
-    "entities": []
+    "entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -6171,7 +5777,7 @@
     "entities": [
       {
         "text": "16",
-        "label": "QUANTITY",
+        "label": "DATE",
         "source": "gigachat_few"
       }
     ]
@@ -6330,7 +5936,13 @@
     "row": 24,
     "col": 12,
     "text": "35",
-    "entities": []
+    "entities": [
+      {
+        "text": "35",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -6350,13 +5962,7 @@
     "row": 25,
     "col": 1,
     "text": "Лига 1",
-    "entities": [
-      {
-        "text": "Лига 1",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -6465,13 +6071,7 @@
     "row": 26,
     "col": 1,
     "text": "Лига 1",
-    "entities": [
-      {
-        "text": "Лига 1",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -6504,13 +6104,7 @@
     "row": 26,
     "col": 4,
     "text": "19",
-    "entities": [
-      {
-        "text": "19",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -6592,26 +6186,14 @@
     "row": 27,
     "col": 1,
     "text": "Лига 1",
-    "entities": [
-      {
-        "text": "Лига 1",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 27,
     "col": 2,
     "text": "2015/16",
-    "entities": [
-      {
-        "text": "2015/16",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -6801,13 +6383,7 @@
     "row": 28,
     "col": 11,
     "text": "180",
-    "entities": [
-      {
-        "text": "180",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -6834,13 +6410,7 @@
     "row": 29,
     "col": 1,
     "text": "Премьер-лига",
-    "entities": [
-      {
-        "text": "Премьер-лига",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -6863,7 +6433,7 @@
     "entities": [
       {
         "text": "28",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -6873,7 +6443,13 @@
     "row": 29,
     "col": 4,
     "text": "17",
-    "entities": []
+    "entities": [
+      {
+        "text": "17",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 50,
@@ -6932,7 +6508,7 @@
     "entities": [
       {
         "text": "28",
-        "label": "QUANTITY",
+        "label": "DATE",
         "source": "gigachat_few"
       }
     ]
@@ -7207,7 +6783,7 @@
     "entities": [
       {
         "text": "27",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -7288,7 +6864,7 @@
     "entities": [
       {
         "text": "22",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -7349,13 +6925,7 @@
     "row": 33,
     "col": 4,
     "text": "31",
-    "entities": [
-      {
-        "text": "31",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -7404,26 +6974,14 @@
     "row": 33,
     "col": 11,
     "text": "31",
-    "entities": [
-      {
-        "text": "31",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 33,
     "col": 12,
     "text": "31",
-    "entities": [
-      {
-        "text": "31",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -7545,26 +7103,14 @@
     "row": 35,
     "col": 1,
     "text": "Серия А",
-    "entities": [
-      {
-        "text": "Серия ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
     "row": 35,
     "col": 2,
     "text": "2019/20",
-    "entities": [
-      {
-        "text": "2019/20",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -7666,13 +7212,7 @@
     "row": 36,
     "col": 1,
     "text": "Серия А",
-    "entities": [
-      {
-        "text": "Серия А",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -7686,13 +7226,7 @@
     "row": 36,
     "col": 3,
     "text": "19",
-    "entities": [
-      {
-        "text": "19",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 50,
@@ -7879,7 +7413,7 @@
     "entities": [
       {
         "text": "28",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -8369,13 +7903,7 @@
     "row": 0,
     "col": 2,
     "text": "Чемпионских титулов",
-    "entities": [
-      {
-        "text": "Чемпионских титулов",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -8384,7 +7912,22 @@
     "text": "Количество дней владения титулом",
     "entities": [
       {
-        "text": "Количество дней владения титулом",
+        "text": "количество",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "дней",
+        "label": "TIME",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "владения",
+        "label": "MISC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "титулом",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -8410,6 +7953,11 @@
     "col": 0,
     "text": "Inc.(Роберт Руд и Джеймс Шторм)",
     "entities": [
+      {
+        "text": "Inc.",
+        "label": "MISC",
+        "source": "gigachat_few"
+      },
       {
         "text": "Роберт Руд",
         "label": "PER",
@@ -8448,28 +7996,7 @@
     "row": 2,
     "col": 1,
     "text": "\"\"\"The Wolves\"\"(Эдди Эдвардс и Дэйви Ричардс)\"",
-    "entities": [
-      {
-        "text": "Эдди ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Эдвардс и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Дэйви ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Ричардс",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -8497,28 +8024,7 @@
     "row": 3,
     "col": 1,
     "text": "Christian's Coalition(Эй Джей Стайлз и Томко)",
-    "entities": [
-      {
-        "text": "Эй ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Джей ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Стайлз и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Томко",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -8546,28 +8052,7 @@
     "row": 4,
     "col": 1,
     "text": "The Motor City Machine Guns(Алекс Шелли и Крис Сейбин)",
-    "entities": [
-      {
-        "text": "Алекс ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Шелли и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Крис ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Сейбин",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -8597,23 +8082,18 @@
     "text": "The BroMans(Робби И и Джеси Годдерз)",
     "entities": [
       {
-        "text": "Робби ",
+        "text": "The BroMans",
         "label": "MISC",
         "source": "gigachat_few"
       },
       {
-        "text": "И и ",
-        "label": "MISC",
+        "text": "Робби И",
+        "label": "PER",
         "source": "gigachat_few"
       },
       {
-        "text": "Джеси ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Годдерз",
-        "label": "MISC",
+        "text": "Джеси Годдерз",
+        "label": "PER",
         "source": "gigachat_few"
       }
     ]
@@ -8722,23 +8202,7 @@
     "row": 8,
     "col": 1,
     "text": "The World Tag Team Champions of the World(Кристофер Дениелс и Казариан)",
-    "entities": [
-      {
-        "text": "Кристофер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Дениелс и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Казариан",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -8768,23 +8232,18 @@
     "text": "Революция(Абисс и Джеймс Шторм",
     "entities": [
       {
-        "text": "Революция(",
-        "label": "MISC",
+        "text": "Революция",
+        "label": "EVENT",
         "source": "gigachat_few"
       },
       {
-        "text": "Абисс и ",
-        "label": "MISC",
+        "text": "Абисс",
+        "label": "PER",
         "source": "gigachat_few"
       },
       {
-        "text": "Джеймс ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Шторм",
-        "label": "MISC",
+        "text": "Джеймс Шторм",
+        "label": "PER",
         "source": "gigachat_few"
       }
     ]
@@ -8815,23 +8274,7 @@
     "row": 10,
     "col": 1,
     "text": "Team 3D(Булли Рей и Дивон)",
-    "entities": [
-      {
-        "text": "Team 3D",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Булли Рей",
-        "label": "PER",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Дивон",
-        "label": "PER",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -8859,23 +8302,7 @@
     "row": 11,
     "col": 1,
     "text": "Mexican America(Мэтт Барелла и Эрнандес",
-    "entities": [
-      {
-        "text": "Мэтт ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Барелла и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Эрнандес",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -8909,28 +8336,7 @@
     "row": 12,
     "col": 1,
     "text": "The Main Event Mafia(Букер Ти и Скот Штайнер)",
-    "entities": [
-      {
-        "text": "Букер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Ти и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Скот ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Штайнер",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -8964,23 +8370,7 @@
     "row": 13,
     "col": 1,
     "text": "The British Invasion(Магнус и Дуглас Вильямс)",
-    "entities": [
-      {
-        "text": "Магнус и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Дуглас ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Вильямс",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -9014,18 +8404,7 @@
     "row": 14,
     "col": 1,
     "text": "The Latin American Xchange(Эрнандес и Хомисайд)",
-    "entities": [
-      {
-        "text": "Эрнандес и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Хомисайд",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -9129,14 +8508,26 @@
     "row": 16,
     "col": 3,
     "text": "90",
-    "entities": []
+    "entities": [
+      {
+        "text": "90",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 52,
     "row": 17,
     "col": 0,
     "text": "17",
-    "entities": []
+    "entities": [
+      {
+        "text": "17",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 52,
@@ -9220,41 +8611,14 @@
     "row": 19,
     "col": 0,
     "text": "19",
-    "entities": [
-      {
-        "text": "19",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
     "row": 19,
     "col": 1,
     "text": "The Hardy Boyz(Мэтт Харди и Джефф Харди)",
-    "entities": [
-      {
-        "text": "Мэтт ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Харди и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Джефф ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Харди",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -9275,25 +8639,20 @@
     "row": 20,
     "col": 0,
     "text": "20",
-    "entities": []
+    "entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 52,
     "row": 20,
     "col": 1,
     "text": "The Band(Эрик Янг",
-    "entities": [
-      {
-        "text": "Эрик ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Янг",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 52,
@@ -9340,7 +8699,13 @@
     "row": 21,
     "col": 0,
     "text": "21",
-    "entities": []
+    "entities": [
+      {
+        "text": "21",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 52,
@@ -9349,23 +8714,18 @@
     "text": "Team Pacman(Адам Джонс и Рон Килингс)",
     "entities": [
       {
-        "text": "Адам ",
+        "text": "Team Pacman",
         "label": "MISC",
         "source": "gigachat_few"
       },
       {
-        "text": "Джонс и ",
-        "label": "MISC",
+        "text": "Адам Джонс",
+        "label": "PER",
         "source": "gigachat_few"
       },
       {
-        "text": "Рон ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Килингс",
-        "label": "MISC",
+        "text": "Рон Килингс",
+        "label": "PER",
         "source": "gigachat_few"
       }
     ]
@@ -9392,7 +8752,7 @@
     "entities": [
       {
         "text": "22",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -9522,7 +8882,7 @@
     "entities": [
       {
         "text": "26",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -9586,7 +8946,7 @@
     "entities": [
       {
         "text": "26",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -9674,13 +9034,7 @@
     "row": 0,
     "col": 0,
     "text": "Страна иликосмическоеагентство",
-    "entities": [
-      {
-        "text": "Страна иликосмическоеагентство",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -9721,13 +9075,7 @@
     "row": 1,
     "col": 1,
     "text": "Венера-1",
-    "entities": [
-      {
-        "text": "Венера",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -9747,23 +9095,7 @@
     "row": 1,
     "col": 3,
     "text": "Первый пролёт мимо Венеры. Из-за потери связи научная программа не выполнена",
-    "entities": [
-      {
-        "text": "Первый пролёт мимо ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Венеры",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Из",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -9785,7 +9117,7 @@
     "text": "Маринер-2",
     "entities": [
       {
-        "text": "Маринер",
+        "text": "Маринер-2",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -9829,13 +9161,7 @@
     "row": 3,
     "col": 1,
     "text": "Зонд-1",
-    "entities": [
-      {
-        "text": "Зонд",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -9875,13 +9201,7 @@
     "row": 4,
     "col": 1,
     "text": "Венера-2",
-    "entities": [
-      {
-        "text": "Венера",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -9923,8 +9243,8 @@
     "text": "Венера-3",
     "entities": [
       {
-        "text": "Венера",
-        "label": "MISC",
+        "text": "Венера-3",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -9947,23 +9267,7 @@
     "row": 5,
     "col": 3,
     "text": "Достижение Венеры. Сбор научной информации",
-    "entities": [
-      {
-        "text": "Достижение ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Венеры",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Сбор научной информации",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -10038,7 +9342,7 @@
     "text": "Маринер-5",
     "entities": [
       {
-        "text": "Маринер",
+        "text": "Маринер-5",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -10069,20 +9373,20 @@
     "row": 8,
     "col": 0,
     "text": "СССР",
-    "entities": []
+    "entities": [
+      {
+        "text": "СССР",
+        "label": "GPE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 53,
     "row": 8,
     "col": 1,
     "text": "Венера-5",
-    "entities": [
-      {
-        "text": "Венера",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -10129,20 +9433,20 @@
     "row": 9,
     "col": 1,
     "text": "Венера-6",
-    "entities": [
-      {
-        "text": "Венера-6",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
     "row": 9,
     "col": 2,
     "text": "10 января 1969",
-    "entities": []
+    "entities": [
+      {
+        "text": "10 января 1969",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 53,
@@ -10176,13 +9480,7 @@
     "row": 10,
     "col": 1,
     "text": "Венера-7",
-    "entities": [
-      {
-        "text": "Венера-7",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -10224,8 +9522,8 @@
     "text": "Венера-8",
     "entities": [
       {
-        "text": "Венера",
-        "label": "MISC",
+        "text": "Венера-8",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -10308,26 +9606,14 @@
     "row": 13,
     "col": 0,
     "text": "СССР",
-    "entities": [
-      {
-        "text": "СССР",
-        "label": "GPE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
     "row": 13,
     "col": 1,
     "text": "Венера-9",
-    "entities": [
-      {
-        "text": "Венера",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -10347,23 +9633,7 @@
     "row": 13,
     "col": 3,
     "text": "Мягкая посадка модуля и искусственный спутник Венеры. Первые чёрно-белые фотографии поверхности.",
-    "entities": [
-      {
-        "text": "Мягкая посадка модуля и искусственный спутник ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Венеры",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Первые чёрно",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -10396,30 +9666,20 @@
     "row": 14,
     "col": 2,
     "text": "14 июня 1975",
-    "entities": []
+    "entities": [
+      {
+        "text": "14 июня 1975",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 53,
     "row": 14,
     "col": 3,
     "text": "Мягкая посадка модуля и искусственный спутник Венеры. Чёрно-белые фотографии поверхности.",
-    "entities": [
-      {
-        "text": "Мягкая посадка модуля и искусственный спутник ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Венеры",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Чёрно",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -10465,13 +9725,7 @@
     "row": 15,
     "col": 3,
     "text": "Искусственный спутник",
-    "entities": [
-      {
-        "text": "Искусственный спутник",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -10526,8 +9780,13 @@
     "text": "Вхождение в атмосферу",
     "entities": [
       {
-        "text": "Вхождение в атмосферу",
-        "label": "MISC",
+        "text": "вхождение",
+        "label": "EVENT",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "атмосфера",
+        "label": "LOC",
         "source": "gigachat_few"
       }
     ]
@@ -10612,8 +9871,8 @@
     "text": "Венера-12",
     "entities": [
       {
-        "text": "Венера",
-        "label": "MISC",
+        "text": "Венера-12",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -10757,8 +10016,8 @@
     "text": "Венера-15",
     "entities": [
       {
-        "text": "Венера",
-        "label": "MISC",
+        "text": "Венера-15",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -10783,12 +10042,17 @@
     "text": "Искусственный спутник Венеры",
     "entities": [
       {
-        "text": "Искусственный спутник",
+        "text": "Искусственный",
+        "label": "MISC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "спутник",
         "label": "PRODUCT",
         "source": "gigachat_few"
       },
       {
-        "text": "Венера",
+        "text": "Венеры",
         "label": "LOC",
         "source": "gigachat_few"
       }
@@ -10847,13 +10111,8 @@
     "text": "Искусственный спутник Венеры",
     "entities": [
       {
-        "text": "искусственный спутник",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Венера",
-        "label": "LOC",
+        "text": "Искусственный спутник Венеры",
+        "label": "MISC",
         "source": "gigachat_few"
       }
     ]
@@ -10918,8 +10177,13 @@
     "text": "пролёт аппарата к комете Галлея",
     "entities": [
       {
-        "text": "Галлея",
+        "text": "аппарат",
         "label": "MISC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "комета Галлея",
+        "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
     ]
@@ -10977,8 +10241,13 @@
     "text": "пролёт аппарата к комете Галлея",
     "entities": [
       {
-        "text": "Галлея",
+        "text": "аппарат",
         "label": "MISC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "комета Галлея",
+        "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
     ]
@@ -11029,13 +10298,8 @@
     "text": "Искусственный спутник Венеры",
     "entities": [
       {
-        "text": "искусственный спутник",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Венера",
-        "label": "LOC",
+        "text": "Искусственный спутник Венеры",
+        "label": "MISC",
         "source": "gigachat_few"
       }
     ]
@@ -11068,7 +10332,7 @@
     "entities": [
       {
         "text": "Галилео",
-        "label": "MISC",
+        "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
     ]
@@ -11091,18 +10355,7 @@
     "row": 26,
     "col": 3,
     "text": "Пролёт мимо на пути к Юпитеру",
-    "entities": [
-      {
-        "text": "Пролёт мимо на пути к ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Юпитеру",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -11131,12 +10384,7 @@
     "text": "Кассини-Гюйгенс",
     "entities": [
       {
-        "text": "Кассини",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Гюйгенс",
+        "text": "Кассини-Гюйгенс",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -11180,13 +10428,7 @@
     "row": 28,
     "col": 1,
     "text": "Мессенджер",
-    "entities": [
-      {
-        "text": "Мессенджер",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -11206,18 +10448,7 @@
     "row": 28,
     "col": 3,
     "text": "Пролёт мимо на пути к Меркурию",
-    "entities": [
-      {
-        "text": "Пролёт мимо на пути к ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Меркурию",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -11231,7 +10462,13 @@
     "row": 29,
     "col": 0,
     "text": "ЕКА",
-    "entities": []
+    "entities": [
+      {
+        "text": "ЕКА",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 53,
@@ -11240,7 +10477,7 @@
     "text": "Венера-экспресс",
     "entities": [
       {
-        "text": "Венера",
+        "text": "Венера-экспресс",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -11266,13 +10503,8 @@
     "text": "Искусственный спутник Венеры",
     "entities": [
       {
-        "text": "Искусственный спутник",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Венера",
-        "label": "LOC",
+        "text": "Искусственный спутник Венеры",
+        "label": "MISC",
         "source": "gigachat_few"
       }
     ]
@@ -11315,35 +10547,20 @@
     "row": 30,
     "col": 2,
     "text": "21 мая 2010",
-    "entities": []
+    "entities": [
+      {
+        "text": "21 мая 2010",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 53,
     "row": 30,
     "col": 3,
     "text": "Исследование атмосферы. Попытка выхода на орбиту Венеры в 2010 году закончилась неудачей. После повторной попытки 7 декабря 2015 года аппарат смог удачно выйти на заданную орбиту",
-    "entities": [
-      {
-        "text": "Исследование атмосферы",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Попытка выхода на орбиту ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Венеры в 2010 году закончилась неудачей",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "После повторной попытки 7 декабря 2015 года аппарат смог удачно выйти на заданную орбиту",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -11365,7 +10582,7 @@
     "text": "Паркер",
     "entities": [
       {
-        "text": "Пarker",
+        "text": "Паркер",
         "label": "PER",
         "source": "gigachat_few"
       }
@@ -11389,13 +10606,7 @@
     "row": 31,
     "col": 3,
     "text": "Несколько гравитационных манёвров для уменьшения перигелия",
-    "entities": [
-      {
-        "text": "Несколько гравитационных манёвров для уменьшения перигелия",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 53,
@@ -11409,13 +10620,7 @@
     "row": 0,
     "col": 0,
     "text": "Самолёт",
-    "entities": [
-      {
-        "text": "Самолёт",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 54,
@@ -11456,13 +10661,7 @@
     "row": 0,
     "col": 5,
     "text": "Годы производства",
-    "entities": [
-      {
-        "text": "Годы производства",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 54,
@@ -11476,7 +10675,13 @@
     "row": 1,
     "col": 2,
     "text": "Легкий бомбардировщик",
-    "entities": []
+    "entities": [
+      {
+        "text": "легкий бомбардировщик",
+        "label": "PRODUCT",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 54,
@@ -11510,31 +10715,14 @@
     "row": 1,
     "col": 6,
     "text": "СЗ — Сталин ское Задание",
-    "entities": [
-      {
-        "text": "Сталин ское ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Задание",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 54,
     "row": 2,
     "col": 0,
     "text": "Су-2 (ББ-1)",
-    "entities": [
-      {
-        "text": "Су",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 54,
@@ -11550,8 +10738,8 @@
     "text": "Бомбардировщик",
     "entities": [
       {
-        "text": "бомбардировщик",
-        "label": "FAC",
+        "text": "Бомбардировщик",
+        "label": "MISC",
         "source": "gigachat_few"
       }
     ]
@@ -11581,13 +10769,7 @@
     "row": 2,
     "col": 5,
     "text": "1939—1941",
-    "entities": [
-      {
-        "text": "1939—1941",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 54,
@@ -11596,8 +10778,8 @@
     "text": "Су-7",
     "entities": [
       {
-        "text": "Су",
-        "label": "MISC",
+        "text": "Су-7",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -11616,8 +10798,8 @@
     "text": "Истребитель-бомбардировщик",
     "entities": [
       {
-        "text": "Истребитель",
-        "label": "MISC",
+        "text": "истребитель-бомбардировщик",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -11647,7 +10829,13 @@
     "row": 3,
     "col": 5,
     "text": "1957—1972",
-    "entities": []
+    "entities": [
+      {
+        "text": "1957—1972",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 54,
@@ -11656,8 +10844,8 @@
     "text": "Су-17",
     "entities": [
       {
-        "text": "Су",
-        "label": "MISC",
+        "text": "Су-17",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -11676,7 +10864,7 @@
     "text": "Истребитель-бомбардировщик",
     "entities": [
       {
-        "text": "истребитель-бомбардировщик",
+        "text": "Истребитель-бомбардировщик",
         "label": "PRODUCT",
         "source": "gigachat_few"
       }
@@ -11804,7 +10992,7 @@
     "text": "Су-25",
     "entities": [
       {
-        "text": "Су",
+        "text": "Су-25",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -11837,17 +11025,7 @@
     "text": "22 2 1975",
     "entities": [
       {
-        "text": "22",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "2",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "1975",
+        "text": "22 2 1975",
         "label": "DATE",
         "source": "gigachat_few"
       }
@@ -11881,7 +11059,7 @@
     "entities": [
       {
         "text": "Су-25Т",
-        "label": "PRODUCT",
+        "label": "MISC",
         "source": "gigachat_few"
       }
     ]
@@ -11924,14 +11102,26 @@
     "row": 7,
     "col": 4,
     "text": "20",
-    "entities": []
+    "entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 54,
     "row": 7,
     "col": 5,
     "text": "1991—1996",
-    "entities": []
+    "entities": [
+      {
+        "text": "1991—1996",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 54,
@@ -11940,7 +11130,7 @@
     "text": "Су-34",
     "entities": [
       {
-        "text": "Су",
+        "text": "Су-34",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -11973,7 +11163,17 @@
     "text": "13 4 1990",
     "entities": [
       {
-        "text": "13 4 1990",
+        "text": "13",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "4",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "1990",
         "label": "DATE",
         "source": "gigachat_few"
       }
@@ -12006,8 +11206,8 @@
     "text": "Су-39",
     "entities": [
       {
-        "text": "Су",
-        "label": "MISC",
+        "text": "Су-39",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -12051,13 +11251,7 @@
     "row": 9,
     "col": 5,
     "text": "С 1995",
-    "entities": [
-      {
-        "text": "1995",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12189,7 +11383,7 @@
     "text": "Кавалер Большого креста ордена Льва",
     "entities": [
       {
-        "text": "Большой крест",
+        "text": "Большого креста",
         "label": "QUANTITY",
         "source": "gigachat_few"
       },
@@ -12236,63 +11430,27 @@
     "row": 3,
     "col": 1,
     "text": "25 марта 1992—",
-    "entities": []
+    "entities": [
+      {
+        "text": "25 марта 1992",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 55,
     "row": 3,
     "col": 2,
     "text": "Кавалер Большого креста ордена Оранских-Нассау",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Оранских",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Нассау",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 3,
     "col": 3,
     "text": "Кавалер Большого креста ордена Оранских-Нассау",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Оранских",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Нассау",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12321,23 +11479,13 @@
     "text": "Кавалер Большого креста ордена Бернардо О’Хиггинса",
     "entities": [
       {
-        "text": "Кавалер ",
-        "label": "MISC",
+        "text": "Большой крест",
+        "label": "FAC",
         "source": "gigachat_few"
       },
       {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Бернардо ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Хиггинса",
-        "label": "MISC",
+        "text": "орден Бернардо О’Хиггинса",
+        "label": "LAW",
         "source": "gigachat_few"
       }
     ]
@@ -12347,28 +11495,7 @@
     "row": 4,
     "col": 3,
     "text": "Кавалер Большого креста ордена Бернардо О’Хиггинса",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Бернардо ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Хиггинса",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12395,46 +11522,14 @@
     "row": 5,
     "col": 2,
     "text": "Кавалер Большой ленты ордена Республики",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большой ленты ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Республики",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 5,
     "col": 3,
     "text": "Кавалер Большой ленты ордена Республики",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большой ленты ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Республики",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12461,46 +11556,14 @@
     "row": 6,
     "col": 2,
     "text": "Кавалер Большого креста Королевского Викторианского ордена",
-    "entities": [
-      {
-        "text": "Большой крест",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Королевский Викторианский орден",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 6,
     "col": 3,
     "text": "Кавалер Большого креста Королевского Викторианского ордена",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Королевского ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Викторианского ордена",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12580,46 +11643,14 @@
     "row": 8,
     "col": 2,
     "text": "Медаль ордена Холмов Боэ",
-    "entities": [
-      {
-        "text": "Медаль ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Холмов ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Боэ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 8,
     "col": 3,
     "text": "Медаль ордена Холмов Боэ",
-    "entities": [
-      {
-        "text": "Медаль ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Холмов ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Боэ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12646,46 +11677,14 @@
     "row": 9,
     "col": 2,
     "text": "Кавалер Большого креста ордена Риу-Бранку",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Риу",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Бранку",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 9,
     "col": 3,
     "text": "Кавалер Большого креста ордена Риу-Бранку",
-    "entities": [
-      {
-        "text": "Большой крест",
-        "label": "PERCENT",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "ордена Риу-Бранку",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12712,46 +11711,14 @@
     "row": 10,
     "col": 2,
     "text": "Кавалер ордена Дружбы и Мира 1 класса",
-    "entities": [
-      {
-        "text": "Кавалер ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Дружбы и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Мира 1 класса",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 10,
     "col": 3,
     "text": "Кавалер ордена Дружбы и Мира 1 класса",
-    "entities": [
-      {
-        "text": "Кавалер ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Дружбы и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Мира 1 класса",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12778,31 +11745,14 @@
     "row": 11,
     "col": 2,
     "text": "Кавалер ордена Белого орла",
-    "entities": [
-      {
-        "text": "ордена Белого орла",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 11,
     "col": 3,
     "text": "Кавалер ордена Белого орла",
-    "entities": [
-      {
-        "text": "Кавалер ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Белого орла",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12822,13 +11772,7 @@
     "row": 12,
     "col": 1,
     "text": "9 декабря 1997—",
-    "entities": [
-      {
-        "text": "9 декабря 1997",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12842,18 +11786,7 @@
     "row": 12,
     "col": 3,
     "text": "ордена Южного Креста",
-    "entities": [
-      {
-        "text": "Южного ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Креста",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12873,43 +11806,27 @@
     "row": 13,
     "col": 1,
     "text": "22 августа 1991—9 декабря 1997",
-    "entities": []
+    "entities": [
+      {
+        "text": "22 августа 1991—9 декабря 1997",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 55,
     "row": 13,
     "col": 2,
     "text": "Кавалер Большого креста",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 13,
     "col": 3,
     "text": "ордена Южного Креста",
-    "entities": [
-      {
-        "text": "Южного ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Креста",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12942,13 +11859,7 @@
     "row": 14,
     "col": 2,
     "text": "Кавалер цепи ордена Изабеллы Католической",
-    "entities": [
-      {
-        "text": "цепь ордена Изабеллы Католической",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -12957,17 +11868,7 @@
     "text": "Кавалер цепи ордена Изабеллы Католической",
     "entities": [
       {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Изабеллы ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Католической",
+        "text": "цепь ордена Изабеллы Католической",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -12998,46 +11899,14 @@
     "row": 15,
     "col": 2,
     "text": "Кавалер ордена князя Ярослава Мудрого 1 степени",
-    "entities": [
-      {
-        "text": "Кавалер ордена князя ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Ярослава ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Мудрого 1 степени",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 15,
     "col": 3,
     "text": "Кавалер ордена князя Ярослава Мудрого 1 степени",
-    "entities": [
-      {
-        "text": "Кавалер ордена князя ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Ярослава ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Мудрого 1 степени",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13064,36 +11933,14 @@
     "row": 16,
     "col": 2,
     "text": "Кавалер Большой ленты ордена Освободителя",
-    "entities": [
-      {
-        "text": "Большая лента",
-        "label": "FAC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "ордена Освободителя",
-        "label": "LAW",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 16,
     "col": 3,
     "text": "Кавалер Большой ленты ордена Освободителя",
-    "entities": [
-      {
-        "text": "Большой ленты",
-        "label": "FAC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "ордена Освободителя",
-        "label": "LAW",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13120,36 +11967,14 @@
     "row": 17,
     "col": 2,
     "text": "Кавалер цепи ордена Ацтекского орла",
-    "entities": [
-      {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Ацтекского орла",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 17,
     "col": 3,
     "text": "Кавалер цепи ордена Ацтекского орла",
-    "entities": [
-      {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Ацтекского орла",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13169,13 +11994,7 @@
     "row": 18,
     "col": 1,
     "text": "17 мая 1999—",
-    "entities": [
-      {
-        "text": "17 мая 1999",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13189,28 +12008,7 @@
     "row": 18,
     "col": 3,
     "text": "ордена «За заслуги перед Федеративной Республикой Германия»",
-    "entities": [
-      {
-        "text": "За заслуги перед ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Федеративной ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Республикой ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Германия",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13248,46 +12046,14 @@
     "row": 19,
     "col": 2,
     "text": "Кавалер Большого креста 1 степени",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста 1 степени",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 19,
     "col": 3,
     "text": "ордена «За заслуги перед Федеративной Республикой Германия»",
-    "entities": [
-      {
-        "text": "За заслуги перед ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Федеративной ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Республикой ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Германия",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13316,18 +12082,13 @@
     "text": "Кавалер Большого креста ордена Почётного легиона",
     "entities": [
       {
-        "text": "Кавалер ",
-        "label": "MISC",
+        "text": "Большой крест",
+        "label": "FAC",
         "source": "gigachat_few"
       },
       {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Почётного легиона",
-        "label": "MISC",
+        "text": "ордена Почётного легиона",
+        "label": "ORG",
         "source": "gigachat_few"
       }
     ]
@@ -13339,18 +12100,13 @@
     "text": "Кавалер Большого креста ордена Почётного легиона",
     "entities": [
       {
-        "text": "Кавалер ",
-        "label": "MISC",
+        "text": "Большой крест",
+        "label": "FAC",
         "source": "gigachat_few"
       },
       {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Почётного легиона",
-        "label": "MISC",
+        "text": "ордена Почётного легиона",
+        "label": "LAW",
         "source": "gigachat_few"
       }
     ]
@@ -13380,36 +12136,14 @@
     "row": 21,
     "col": 2,
     "text": "Кавалер Большого креста ордена Спасителя",
-    "entities": [
-      {
-        "text": "Большой крест",
-        "label": "FAC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "ордена Спасителя",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 21,
     "col": 3,
     "text": "Кавалер Большого креста ордена Спасителя",
-    "entities": [
-      {
-        "text": "Большой крест",
-        "label": "FAC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "ордена Спасителя",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13443,26 +12177,14 @@
     "row": 22,
     "col": 2,
     "text": "Кавалер цепи ордена Звезды Румынии",
-    "entities": [
-      {
-        "text": "цепи ордена Звезды Румынии",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 22,
     "col": 3,
     "text": "Кавалер цепи ордена Звезды Румынии",
-    "entities": [
-      {
-        "text": "цепи ордена Звезды Румынии",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13534,49 +12256,21 @@
     "row": 24,
     "col": 1,
     "text": "10 мая 2000—",
-    "entities": [
-      {
-        "text": "10 мая 2000",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 24,
     "col": 2,
     "text": "Кавалер Большой ленты ордена 7 ноября",
-    "entities": [
-      {
-        "text": "Большой ленты ордена",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "7 ноября",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 24,
     "col": 3,
     "text": "Кавалер Большой ленты ордена 7 ноября",
-    "entities": [
-      {
-        "text": "Большой ленты ордена",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "7 ноября",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13618,28 +12312,8 @@
     "text": "Кавалер цепи ордена Карлоса III",
     "entities": [
       {
-        "text": "Кавалер",
+        "text": "Карлос III",
         "label": "PER",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "цепи",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "ордена",
-        "label": "ORG",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Карлосов",
-        "label": "NORP",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "III",
-        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -13649,13 +12323,7 @@
     "row": 26,
     "col": 0,
     "text": "Бельгия",
-    "entities": [
-      {
-        "text": "Бельгия",
-        "label": "GPE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13669,46 +12337,14 @@
     "row": 26,
     "col": 2,
     "text": "Кавалер Большого креста ордена Леопольда I",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Леопольда I",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 26,
     "col": 3,
     "text": "Кавалер Большого креста ордена Леопольда I",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Леопольда I",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13728,53 +12364,27 @@
     "row": 27,
     "col": 1,
     "text": "26 марта 2001—",
-    "entities": []
+    "entities": [
+      {
+        "text": "26 марта 2001",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 55,
     "row": 27,
     "col": 2,
     "text": "Кавалер ордена Амилкара Кабрала 1 класса",
-    "entities": [
-      {
-        "text": "Кавалер ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Амилкара ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Кабрала 1 класса",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 27,
     "col": 3,
     "text": "Кавалер ордена Амилкара Кабрала 1 класса",
-    "entities": [
-      {
-        "text": "Кавалер ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Амилкара ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Кабрала 1 класса",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13801,13 +12411,7 @@
     "row": 28,
     "col": 2,
     "text": "Кавалер цепи ордена Заслуг",
-    "entities": [
-      {
-        "text": "цепь ордена Заслуг",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13816,13 +12420,8 @@
     "text": "Кавалер цепи ордена Заслуг",
     "entities": [
       {
-        "text": "цепь",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "ордена Заслуг",
-        "label": "ORG",
+        "text": "цепь ордена Заслуг",
+        "label": "MISC",
         "source": "gigachat_few"
       }
     ]
@@ -13845,79 +12444,21 @@
     "row": 29,
     "col": 1,
     "text": "4 декабря 2001—",
-    "entities": [
-      {
-        "text": "4 декабря 2001",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 29,
     "col": 2,
     "text": "Кавалер Большого креста декорированного лентой ордена «За заслуги перед Итальянской Республикой»",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста декорированного лентой ордена «",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "За заслуги перед ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Итальянской ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Республикой",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 29,
     "col": 3,
     "text": "Кавалер Большого креста декорированного лентой ордена «За заслуги перед Итальянской Республикой»",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста декорированного лентой ордена «",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "За заслуги перед ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Итальянской ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Республикой",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -13944,46 +12485,14 @@
     "row": 30,
     "col": 2,
     "text": "Кавалер Большого креста ордена Экваториальной звезды",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Экваториальной звезды",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 30,
     "col": 3,
     "text": "Кавалер Большого креста ордена Экваториальной звезды",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Экваториальной звезды",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -14003,63 +12512,27 @@
     "row": 31,
     "col": 1,
     "text": "24 июня 2002—",
-    "entities": []
+    "entities": [
+      {
+        "text": "24 июня 2002",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 55,
     "row": 31,
     "col": 2,
     "text": "Кавалер Большого креста ордена Франсиско Миранды",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Франсиско ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Миранды",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 31,
     "col": 3,
     "text": "Кавалер Большого креста ордена Франсиско Миранды",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Франсиско ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Миранды",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -14079,7 +12552,13 @@
     "row": 32,
     "col": 1,
     "text": "23 сентября 2002—",
-    "entities": []
+    "entities": [
+      {
+        "text": "23 сентября 2002",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 55,
@@ -14146,7 +12625,7 @@
     "text": "ордена Заслуг",
     "entities": [
       {
-        "text": "Заслуг",
+        "text": "ордена Заслуг",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -14170,83 +12649,27 @@
     "row": 34,
     "col": 1,
     "text": "23 сентября 2002—",
-    "entities": []
+    "entities": [
+      {
+        "text": "23 сентября 2002",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 55,
     "row": 34,
     "col": 2,
     "text": "Кавалер Большого креста ордена Святого Михаила и Святого Георгия",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Святого ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Михаила и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Святого ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Георгия",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 34,
     "col": 3,
     "text": "Кавалер Большого креста ордена Святого Михаила и Святого Георгия",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Святого ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Михаила и ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Святого ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Георгия",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -14282,23 +12705,8 @@
     "text": "Кавалер цепи ордена Освободителя Сан-Мартина",
     "entities": [
       {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Освободителя ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Сан",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Мартина",
-        "label": "MISC",
+        "text": "Освободителя Сан-Мартина",
+        "label": "LAW",
         "source": "gigachat_few"
       }
     ]
@@ -14310,23 +12718,8 @@
     "text": "Кавалер цепи ордена Освободителя Сан-Мартина",
     "entities": [
       {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Освободителя ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Сан",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Мартина",
-        "label": "MISC",
+        "text": "Освободителя Сан-Мартина",
+        "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
     ]
@@ -14349,7 +12742,13 @@
     "row": 36,
     "col": 1,
     "text": "6 февраля 2003—",
-    "entities": []
+    "entities": [
+      {
+        "text": "6 февраля 2003",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 55,
@@ -14376,18 +12775,13 @@
     "text": "Командор Большого креста ордена Белой розы",
     "entities": [
       {
-        "text": "Командор ",
-        "label": "MISC",
+        "text": "Большой крест",
+        "label": "FAC",
         "source": "gigachat_few"
       },
       {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Белой розы",
-        "label": "MISC",
+        "text": "ордена Белой розы",
+        "label": "ORG",
         "source": "gigachat_few"
       }
     ]
@@ -14425,18 +12819,33 @@
     "text": "Кавалер цепи ордена Креста земли Марии",
     "entities": [
       {
-        "text": "Кавалер цепи ордена ",
+        "text": "Кавалер",
+        "label": "PER",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "цепи",
         "label": "MISC",
         "source": "gigachat_few"
       },
       {
-        "text": "Креста земли ",
-        "label": "MISC",
+        "text": "ордена",
+        "label": "ORG",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Креста",
+        "label": "FAC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "земли",
+        "label": "LOC",
         "source": "gigachat_few"
       },
       {
         "text": "Марии",
-        "label": "MISC",
+        "label": "PER",
         "source": "gigachat_few"
       }
     ]
@@ -14448,18 +12857,33 @@
     "text": "Кавалер цепи ордена Креста земли Марии",
     "entities": [
       {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
+        "text": "Кавалер",
+        "label": "PER",
         "source": "gigachat_few"
       },
       {
-        "text": "Креста земли ",
-        "label": "MISC",
+        "text": "цепи",
+        "label": "PRODUCT",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "ордена",
+        "label": "ORG",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Креста",
+        "label": "FAC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "земли",
+        "label": "LOC",
         "source": "gigachat_few"
       },
       {
         "text": "Марии",
-        "label": "MISC",
+        "label": "PER",
         "source": "gigachat_few"
       }
     ]
@@ -14482,7 +12906,13 @@
     "row": 38,
     "col": 1,
     "text": "27 июня 2003—",
-    "entities": []
+    "entities": [
+      {
+        "text": "27 июня 2003",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 55,
@@ -14491,23 +12921,13 @@
     "text": "Кавалер Большого креста ордена Витаутаса Великого",
     "entities": [
       {
-        "text": "Кавалер ",
-        "label": "MISC",
+        "text": "Большой крест",
+        "label": "FAC",
         "source": "gigachat_few"
       },
       {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Витаутаса ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Великого",
-        "label": "MISC",
+        "text": "ордена Витаутаса Великого",
+        "label": "ORG",
         "source": "gigachat_few"
       }
     ]
@@ -14517,28 +12937,7 @@
     "row": 38,
     "col": 3,
     "text": "Кавалер Большого креста ордена Витаутаса Великого",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Витаутаса ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Великого",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -14558,13 +12957,7 @@
     "row": 39,
     "col": 1,
     "text": "27 июня 2003—",
-    "entities": [
-      {
-        "text": "27 июня 2003",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -14573,13 +12966,8 @@
     "text": "Кавалер цепи ордена Трёх звёзд",
     "entities": [
       {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Трёх звёзд",
-        "label": "MISC",
+        "text": "цепь ордена Трёх звёзд",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -14591,13 +12979,8 @@
     "text": "Кавалер цепи ордена Трёх звёзд",
     "entities": [
       {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Трёх звёзд",
-        "label": "MISC",
+        "text": "цепь ордена Трёх звёзд",
+        "label": "PRODUCT",
         "source": "gigachat_few"
       }
     ]
@@ -14627,36 +13010,14 @@
     "row": 40,
     "col": 2,
     "text": "Athir Национального ордена Заслуг[5]",
-    "entities": [
-      {
-        "text": "Национального ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Заслуг",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 40,
     "col": 3,
     "text": "Athir Национального ордена Заслуг[5]",
-    "entities": [
-      {
-        "text": "Национального ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Заслуг",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -14683,36 +13044,14 @@
     "row": 41,
     "col": 2,
     "text": "Кавалер ордена Двойного белого креста 1 класса",
-    "entities": [
-      {
-        "text": "Кавалер ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Двойного белого креста 1 класса",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
     "row": 41,
     "col": 3,
     "text": "Кавалер ордена Двойного белого креста 1 класса",
-    "entities": [
-      {
-        "text": "Кавалер ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Двойного белого креста 1 класса",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -14732,35 +13071,20 @@
     "row": 42,
     "col": 1,
     "text": "24 июня 2004—",
-    "entities": []
+    "entities": [
+      {
+        "text": "24 июня 2004",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 55,
     "row": 42,
     "col": 2,
     "text": "Кавалер Большого креста ордена Святого Олафа",
-    "entities": [
-      {
-        "text": "Кавалер ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Святого ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Олафа",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -14769,23 +13093,13 @@
     "text": "Кавалер Большого креста ордена Святого Олафа",
     "entities": [
       {
-        "text": "Кавалер ",
-        "label": "MISC",
+        "text": "Большой крест",
+        "label": "FAC",
         "source": "gigachat_few"
       },
       {
-        "text": "Большого креста ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Святого ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Олафа",
-        "label": "MISC",
+        "text": "ордена Святого Олафа",
+        "label": "ORG",
         "source": "gigachat_few"
       }
     ]
@@ -14823,12 +13137,7 @@
     "text": "Кавалер цепи ордена Заслуг",
     "entities": [
       {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Заслуг",
+        "text": "цепи ордена Заслуг",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -14841,12 +13150,7 @@
     "text": "Кавалер цепи ордена Заслуг",
     "entities": [
       {
-        "text": "Кавалер цепи ордена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Заслуг",
+        "text": "цепи ордена Заслуг",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -14885,13 +13189,13 @@
     "text": "Кавалер ордена Белой звезды 1 класса",
     "entities": [
       {
-        "text": "Кавалер ордена ",
-        "label": "MISC",
+        "text": "ордена Белой звезды",
+        "label": "ORG",
         "source": "gigachat_few"
       },
       {
-        "text": "Белой звезды 1 класса",
-        "label": "MISC",
+        "text": "1 класса",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -14901,18 +13205,7 @@
     "row": 44,
     "col": 3,
     "text": "Кавалер ордена Белой звезды 1 класса",
-    "entities": [
-      {
-        "text": "ордена Белой звезды",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "1 класса",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 55,
@@ -14950,11 +13243,6 @@
         "text": "Нассау",
         "label": "PER",
         "source": "gigachat_few"
-      },
-      {
-        "text": "Золотое льва",
-        "label": "ORG",
-        "source": "gigachat_few"
       }
     ]
   },
@@ -14963,13 +13251,7 @@
     "row": 45,
     "col": 3,
     "text": "Рыцарь ордена Золотого льва Нассау",
-    "entities": [
-      {
-        "text": "Нассау»",
-        "label": "PER",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 56,
@@ -15025,13 +13307,8 @@
     "text": "Книга в основном посвящена Фермопильскому сражению",
     "entities": [
       {
-        "text": "Книга в основном посвящена ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Фермопильскому сражению",
-        "label": "MISC",
+        "text": "Фермопильское сражение",
+        "label": "EVENT",
         "source": "gigachat_few"
       }
     ]
@@ -15063,13 +13340,8 @@
     "text": "Книга о Фемистокле",
     "entities": [
       {
-        "text": "Книга о ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Фемистокле",
-        "label": "MISC",
+        "text": "Фемистокл",
+        "label": "PER",
         "source": "gigachat_few"
       }
     ]
@@ -15081,7 +13353,7 @@
     "text": "участнике греко-персидских войн.",
     "entities": [
       {
-        "text": "греко-персидские",
+        "text": "греко-персидские войны",
         "label": "EVENT",
         "source": "gigachat_few"
       }
@@ -15175,7 +13447,7 @@
     "text": "Год постройки",
     "entities": [
       {
-        "text": "постройки",
+        "text": "Год постройки",
         "label": "DATE",
         "source": "gigachat_few"
       }
@@ -15246,7 +13518,13 @@
     "row": 3,
     "col": 1,
     "text": "1980.0",
-    "entities": []
+    "entities": [
+      {
+        "text": "1980.0",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
@@ -15256,7 +13534,7 @@
     "entities": [
       {
         "text": "14",
-        "label": "QUANTITY",
+        "label": "DATE",
         "source": "gigachat_few"
       }
     ]
@@ -15387,7 +13665,13 @@
     "row": 8,
     "col": 1,
     "text": "2000.0",
-    "entities": []
+    "entities": [
+      {
+        "text": "2000.0",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
@@ -15428,7 +13712,18 @@
     "row": 10,
     "col": 1,
     "text": "2012.0",
-    "entities": []
+    "entities": [
+      {
+        "text": "2012",
+        "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "0",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
@@ -15442,20 +13737,25 @@
     "row": 11,
     "col": 0,
     "text": "13/14",
-    "entities": []
+    "entities": [
+      {
+        "text": "13",
+        "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "14",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
     "row": 11,
     "col": 1,
     "text": "2002.0",
-    "entities": [
-      {
-        "text": "2002.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -15482,7 +13782,13 @@
     "row": 12,
     "col": 1,
     "text": "2012.0",
-    "entities": []
+    "entities": [
+      {
+        "text": "2012.0",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
@@ -15509,13 +13815,7 @@
     "row": 13,
     "col": 1,
     "text": "2002.0",
-    "entities": [
-      {
-        "text": "2002.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -15613,13 +13913,7 @@
     "row": 16,
     "col": 1,
     "text": "2001.0",
-    "entities": [
-      {
-        "text": "2001.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -15633,13 +13927,7 @@
     "row": 17,
     "col": 0,
     "text": "20/12",
-    "entities": [
-      {
-        "text": "20/12",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -15695,13 +13983,7 @@
     "row": 20,
     "col": 0,
     "text": "22",
-    "entities": [
-      {
-        "text": "22",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -15734,26 +14016,14 @@
     "row": 21,
     "col": 0,
     "text": "23",
-    "entities": [
-      {
-        "text": "23",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
     "row": 21,
     "col": 1,
     "text": "2003.0",
-    "entities": [
-      {
-        "text": "2003.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -15825,7 +14095,13 @@
     "row": 23,
     "col": 1,
     "text": "2005.0",
-    "entities": []
+    "entities": [
+      {
+        "text": "2005.0",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
@@ -15885,13 +14161,7 @@
     "row": 25,
     "col": 1,
     "text": "2004.0",
-    "entities": [
-      {
-        "text": "2004.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -15972,13 +14242,7 @@
     "row": 28,
     "col": 1,
     "text": "1996.0",
-    "entities": [
-      {
-        "text": "1996.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16005,13 +14269,7 @@
     "row": 29,
     "col": 1,
     "text": "1996.0",
-    "entities": [
-      {
-        "text": "1996.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16047,18 +14305,13 @@
     "text": "ЖК «Магеллан» — дом «Северная Америка»",
     "entities": [
       {
-        "text": "Магеллан",
-        "label": "MISC",
+        "text": "ЖК «Магеллан»",
+        "label": "FAC",
         "source": "gigachat_few"
       },
       {
-        "text": "Северная ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Америка",
-        "label": "MISC",
+        "text": "дом «Северная Америка»",
+        "label": "FAC",
         "source": "gigachat_few"
       }
     ]
@@ -16075,13 +14328,7 @@
     "row": 31,
     "col": 1,
     "text": "1996.0",
-    "entities": [
-      {
-        "text": "1996.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16109,20 +14356,20 @@
     "row": 32,
     "col": 2,
     "text": "22",
-    "entities": []
+    "entities": [
+      {
+        "text": "22",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
     "row": 32,
     "col": 3,
     "text": "ЖК «Магеллан»",
-    "entities": [
-      {
-        "text": "Магеллан",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16149,13 +14396,7 @@
     "row": 33,
     "col": 1,
     "text": "1996.0",
-    "entities": [
-      {
-        "text": "1996.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16189,23 +14430,7 @@
     "row": 34,
     "col": 3,
     "text": "ЖК «Магеллан» — дом «Южная Америка»",
-    "entities": [
-      {
-        "text": "Магеллан",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Южная ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Америка",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16219,13 +14444,7 @@
     "row": 35,
     "col": 1,
     "text": "1997.0",
-    "entities": [
-      {
-        "text": "1997.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16279,13 +14498,7 @@
     "row": 37,
     "col": 1,
     "text": "1998.0",
-    "entities": [
-      {
-        "text": "1998.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16306,13 +14519,7 @@
     "row": 38,
     "col": 1,
     "text": "1994.0",
-    "entities": [
-      {
-        "text": "1994.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16333,13 +14540,7 @@
     "row": 39,
     "col": 1,
     "text": "1994.0",
-    "entities": [
-      {
-        "text": "1994.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16475,26 +14676,14 @@
     "row": 45,
     "col": 0,
     "text": "60",
-    "entities": [
-      {
-        "text": "60",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
     "row": 45,
     "col": 1,
     "text": "2006.0",
-    "entities": [
-      {
-        "text": "2006.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16576,7 +14765,13 @@
     "row": 48,
     "col": 2,
     "text": "19",
-    "entities": []
+    "entities": [
+      {
+        "text": "19",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
@@ -16603,7 +14798,13 @@
     "row": 49,
     "col": 1,
     "text": "2006.0",
-    "entities": []
+    "entities": [
+      {
+        "text": "2006.0",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
@@ -16630,13 +14831,7 @@
     "row": 50,
     "col": 1,
     "text": "2007.0",
-    "entities": [
-      {
-        "text": "2007.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16656,13 +14851,7 @@
     "row": 50,
     "col": 3,
     "text": "ЖК «Миллениум-Сити»",
-    "entities": [
-      {
-        "text": "ЖК «Миллениум-Сити»",
-        "label": "FAC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16758,13 +14947,7 @@
     "row": 54,
     "col": 2,
     "text": "19",
-    "entities": [
-      {
-        "text": "19",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16801,8 +14984,13 @@
     "text": "2012.0",
     "entities": [
       {
-        "text": "2012.0",
+        "text": "2012",
         "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "0",
+        "label": "TIME",
         "source": "gigachat_few"
       }
     ]
@@ -16812,13 +15000,7 @@
     "row": 56,
     "col": 2,
     "text": "19",
-    "entities": [
-      {
-        "text": "19",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16845,13 +15027,7 @@
     "row": 58,
     "col": 0,
     "text": "72",
-    "entities": [
-      {
-        "text": "72",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -16954,7 +15130,13 @@
     "row": 62,
     "col": 1,
     "text": "2009.0",
-    "entities": []
+    "entities": [
+      {
+        "text": "2009.0",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
@@ -16964,7 +15146,7 @@
     "entities": [
       {
         "text": "18",
-        "label": "QUANTITY",
+        "label": "DATE",
         "source": "gigachat_few"
       }
     ]
@@ -17002,13 +15184,7 @@
     "row": 64,
     "col": 1,
     "text": "2008.0",
-    "entities": [
-      {
-        "text": "2008.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -17029,13 +15205,7 @@
     "row": 65,
     "col": 1,
     "text": "2006.0",
-    "entities": [
-      {
-        "text": "2006.0",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -17143,7 +15313,13 @@
     "row": 69,
     "col": 1,
     "text": "2007.0",
-    "entities": []
+    "entities": [
+      {
+        "text": "2007.0",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 57,
@@ -17224,7 +15400,7 @@
     "entities": [
       {
         "text": "22",
-        "label": "DATE",
+        "label": "QUANTITY",
         "source": "gigachat_few"
       }
     ]
@@ -17234,13 +15410,7 @@
     "row": 71,
     "col": 3,
     "text": "ЖК «Столичный»",
-    "entities": [
-      {
-        "text": "Столичный",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 57,
@@ -17382,8 +15552,13 @@
     "text": "Рано утром",
     "entities": [
       {
-        "text": "Рано утром",
-        "label": "MISC",
+        "text": "рано",
+        "label": "TIME",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "утром",
+        "label": "TIME",
         "source": "gigachat_few"
       }
     ]
@@ -17419,7 +15594,13 @@
     "row": 3,
     "col": 0,
     "text": "1968",
-    "entities": []
+    "entities": [
+      {
+        "text": "1968",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 58,
@@ -17436,7 +15617,7 @@
     "entities": [
       {
         "text": "Три дня",
-        "label": "DATE",
+        "label": "TIME",
         "source": "gigachat_few"
       },
       {
@@ -17531,13 +15712,7 @@
     "row": 5,
     "col": 2,
     "text": "Севастополь",
-    "entities": [
-      {
-        "text": "Севастополь",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -17577,13 +15752,7 @@
     "row": 6,
     "col": 2,
     "text": "Ночная смена",
-    "entities": [
-      {
-        "text": "Ночная смена",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -17633,7 +15802,7 @@
     "entities": [
       {
         "text": "Тени исчезают в полдень",
-        "label": "MISC",
+        "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
     ]
@@ -17676,13 +15845,7 @@
     "row": 8,
     "col": 2,
     "text": "Поезд в далёкий август",
-    "entities": [
-      {
-        "text": "Поезд в далёкий август",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -17716,18 +15879,7 @@
     "row": 9,
     "col": 2,
     "text": "Человек в проходном дворе",
-    "entities": [
-      {
-        "text": "человек",
-        "label": "PER",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "проходной двор",
-        "label": "LOC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -17767,18 +15919,7 @@
     "row": 10,
     "col": 2,
     "text": "Илга-Иволга",
-    "entities": [
-      {
-        "text": "Илга",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Иволга",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -17910,13 +16051,7 @@
     "row": 13,
     "col": 2,
     "text": "Горячий снег",
-    "entities": [
-      {
-        "text": "Горячий снег",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -18015,13 +16150,7 @@
     "row": 15,
     "col": 2,
     "text": "Верный друг Санчо",
-    "entities": [
-      {
-        "text": "Санчо",
-        "label": "PER",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -18048,7 +16177,13 @@
     "row": 16,
     "col": 0,
     "text": "1974",
-    "entities": []
+    "entities": [
+      {
+        "text": "1974",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 58,
@@ -18142,7 +16277,13 @@
     "row": 18,
     "col": 2,
     "text": "Юркины рассветы",
-    "entities": []
+    "entities": [
+      {
+        "text": "Юркины рассветы",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 58,
@@ -18182,13 +16323,7 @@
     "row": 19,
     "col": 2,
     "text": "Маленький сержант / Borisek - malý serzhant",
-    "entities": [
-      {
-        "text": "Маленький сержант",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -18268,18 +16403,7 @@
     "row": 21,
     "col": 2,
     "text": "Освобождение Праги / Osvobození Prahy",
-    "entities": [
-      {
-        "text": "Освобождение ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Праги",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -18359,13 +16483,7 @@
     "row": 23,
     "col": 2,
     "text": "Память земли",
-    "entities": [
-      {
-        "text": "Память земли",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -18618,7 +16736,12 @@
     "text": "начальник милиции",
     "entities": [
       {
-        "text": "начальник милиции",
+        "text": "милиция",
+        "label": "ORG",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "начальник",
         "label": "PER",
         "source": "gigachat_few"
       }
@@ -18651,8 +16774,8 @@
     "text": "В день праздника",
     "entities": [
       {
-        "text": "В день праздника",
-        "label": "MISC",
+        "text": "день праздника",
+        "label": "EVENT",
         "source": "gigachat_few"
       }
     ]
@@ -18804,7 +16927,17 @@
     "entities": [
       {
         "text": "Утренние звёзды",
-        "label": "MISC",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Gwiazdy poranne",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "ЧССР",
+        "label": "GPE",
         "source": "gigachat_few"
       }
     ]
@@ -18992,12 +17125,12 @@
     "entities": [
       {
         "text": "парторг",
-        "label": "MISC",
+        "label": "NORP",
         "source": "gigachat_few"
       },
       {
-        "text": "стройка",
-        "label": "LOC",
+        "text": "стройки",
+        "label": "FAC",
         "source": "gigachat_few"
       }
     ]
@@ -19086,13 +17219,7 @@
     "row": 37,
     "col": 2,
     "text": "Послезавтра",
-    "entities": [
-      {
-        "text": "Послезавтра",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -19332,7 +17459,13 @@
     "row": 43,
     "col": 0,
     "text": "1984",
-    "entities": []
+    "entities": [
+      {
+        "text": "1984",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 58,
@@ -19395,7 +17528,7 @@
     "entities": [
       {
         "text": "Батальоны просят огня",
-        "label": "MISC",
+        "label": "EVENT",
         "source": "gigachat_few"
       }
     ]
@@ -19477,13 +17610,7 @@
     "row": 46,
     "col": 0,
     "text": "1985",
-    "entities": [
-      {
-        "text": "1985",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -19564,13 +17691,7 @@
     "row": 48,
     "col": 0,
     "text": "1986",
-    "entities": [
-      {
-        "text": "1986",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -19598,7 +17719,13 @@
     "row": 49,
     "col": 0,
     "text": "1986",
-    "entities": []
+    "entities": [
+      {
+        "text": "1986",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 58,
@@ -19612,18 +17739,7 @@
     "row": 49,
     "col": 2,
     "text": "Государственная граница. Год сорок первый",
-    "entities": [
-      {
-        "text": "Государственная граница",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Год сорок первый",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -19763,13 +17879,13 @@
     "text": "Государственная граница. За порогом победы",
     "entities": [
       {
-        "text": "Государственная граница",
-        "label": "MISC",
+        "text": "государственная граница",
+        "label": "GPE",
         "source": "gigachat_few"
       },
       {
-        "text": "За порогом победы",
-        "label": "MISC",
+        "text": "за порогом победы",
+        "label": "EVENT",
         "source": "gigachat_few"
       }
     ]
@@ -19812,13 +17928,7 @@
     "row": 53,
     "col": 2,
     "text": "Белые вороны",
-    "entities": [
-      {
-        "text": "Белые вороны",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -19873,8 +17983,8 @@
     "text": "Бывший папа",
     "entities": [
       {
-        "text": "Бывший папа",
-        "label": "MISC",
+        "text": "бывший папа",
+        "label": "PER",
         "source": "gigachat_few"
       }
     ]
@@ -20029,18 +18139,7 @@
     "row": 57,
     "col": 2,
     "text": "Осколок «Челленджера»",
-    "entities": [
-      {
-        "text": "Осколок «",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Челленджера",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 58,
@@ -20173,7 +18272,13 @@
     "row": 61,
     "col": 0,
     "text": "2001",
-    "entities": []
+    "entities": [
+      {
+        "text": "2001",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 58,
@@ -20343,26 +18448,14 @@
     "row": 0,
     "col": 3,
     "text": "Команда",
-    "entities": [
-      {
-        "text": "Команда",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
     "row": 0,
     "col": 4,
     "text": "Дисциплина",
-    "entities": [
-      {
-        "text": "Дисциплина",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -20547,13 +18640,7 @@
     "row": 3,
     "col": 1,
     "text": "Ридтц",
-    "entities": [
-      {
-        "text": "Ридтц",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -20758,31 +18845,14 @@
     "row": 5,
     "col": 4,
     "text": "2016 — н. в.",
-    "entities": [
-      {
-        "text": "2016",
-        "label": "DATE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "н. в.",
-        "label": "TIME",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
     "row": 6,
     "col": 0,
     "text": "GuardiaN",
-    "entities": [
-      {
-        "text": "GuardiaN",
-        "label": "PER",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -21225,13 +19295,7 @@
     "row": 12,
     "col": 3,
     "text": "KHAN",
-    "entities": [
-      {
-        "text": "KHAN",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -21311,18 +19375,7 @@
     "row": 13,
     "col": 5,
     "text": "2011 — н. в.",
-    "entities": [
-      {
-        "text": "2011",
-        "label": "DATE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "н. в.",
-        "label": "TIME",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -21488,7 +19541,13 @@
     "row": 16,
     "col": 4,
     "text": "Rocket League",
-    "entities": []
+    "entities": [
+      {
+        "text": "Rocket League",
+        "label": "PRODUCT",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -21648,7 +19707,13 @@
     "row": 18,
     "col": 5,
     "text": "2007—2021",
-    "entities": []
+    "entities": [
+      {
+        "text": "2007—2021",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -22402,7 +20467,13 @@
     "row": 31,
     "col": 5,
     "text": "2002—2010",
-    "entities": []
+    "entities": [
+      {
+        "text": "2002—2010",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -22442,16 +20513,9 @@
     "row": 32,
     "col": 4,
     "text": "DotA",
-    "entities": []
-  },
-  {
-    "table_id": 59,
-    "row": 32,
-    "col": 0,
-    "text": "Dota 2",
     "entities": [
       {
-        "text": "Dota 2",
+        "text": "DotA",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -22460,9 +20524,22 @@
   {
     "table_id": 59,
     "row": 32,
+    "col": 0,
+    "text": "Dota 2",
+    "entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 32,
     "col": 1,
     "text": "2009—2018",
-    "entities": []
+    "entities": [
+      {
+        "text": "2009—2018",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -22581,7 +20658,18 @@
     "row": 34,
     "col": 1,
     "text": "2006 — н. в.",
-    "entities": []
+    "entities": [
+      {
+        "text": "2006",
+        "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "н. в.",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -22649,7 +20737,13 @@
     "row": 35,
     "col": 0,
     "text": "Rocket Arena",
-    "entities": []
+    "entities": [
+      {
+        "text": "Rocket Arena",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -22768,18 +20862,7 @@
     "row": 37,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -22834,12 +20917,7 @@
     "text": "StarCraft: Brood War",
     "entities": [
       {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
+        "text": "StarCraft: Brood War",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -22962,14 +21040,26 @@
     "row": 40,
     "col": 0,
     "text": "StarCraft II",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft II",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
     "row": 40,
     "col": 1,
     "text": "2005—2014",
-    "entities": []
+    "entities": [
+      {
+        "text": "2005—2014",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -23009,13 +21099,7 @@
     "row": 41,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft: Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -23140,13 +21224,7 @@
     "row": 43,
     "col": 4,
     "text": "Warcraft III",
-    "entities": [
-      {
-        "text": "Warcraft III",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -23326,7 +21404,13 @@
     "row": 47,
     "col": 0,
     "text": "RAMZES666",
-    "entities": []
+    "entities": [
+      {
+        "text": "RAMZES666",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -23506,7 +21590,13 @@
     "row": 49,
     "col": 5,
     "text": "2010—2018",
-    "entities": []
+    "entities": [
+      {
+        "text": "2010—2018",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -23546,18 +21636,7 @@
     "row": 50,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -23624,18 +21703,7 @@
     "row": 51,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -23688,31 +21756,14 @@
     "row": 52,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
     "row": 52,
     "col": 0,
     "text": "StarCraft II",
-    "entities": [
-      {
-        "text": "StarCraft II",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -23772,7 +21823,13 @@
     "row": 53,
     "col": 5,
     "text": "2006—2010",
-    "entities": []
+    "entities": [
+      {
+        "text": "2006—2010",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -23871,18 +21928,7 @@
     "row": 55,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -23948,18 +21994,7 @@
     "row": 56,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -24061,7 +22096,12 @@
     "text": "Fly100%",
     "entities": [
       {
-        "text": "Fly100%",
+        "text": "Fly",
+        "label": "MISC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "100%",
         "label": "PERCENT",
         "source": "gigachat_few"
       }
@@ -24210,13 +22250,7 @@
     "row": 60,
     "col": 4,
     "text": "World of Tanks",
-    "entities": [
-      {
-        "text": "World of Tanks",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -24269,7 +22303,13 @@
     "row": 61,
     "col": 4,
     "text": "League of Legends",
-    "entities": []
+    "entities": [
+      {
+        "text": "League of Legends",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -24348,13 +22388,7 @@
     "row": 62,
     "col": 1,
     "text": "2004—2018",
-    "entities": [
-      {
-        "text": "2004—2018",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -24490,13 +22524,8 @@
     "text": "Ола Моум",
     "entities": [
       {
-        "text": "Ола ",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Моум",
-        "label": "MISC",
+        "text": "Ола Моум",
+        "label": "PER",
         "source": "gigachat_few"
       }
     ]
@@ -24526,13 +22555,7 @@
     "row": 65,
     "col": 5,
     "text": "2002—2011",
-    "entities": [
-      {
-        "text": "2002—2011",
-        "label": "DATE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -24566,13 +22589,7 @@
     "row": 66,
     "col": 4,
     "text": "Warcraft III",
-    "entities": [
-      {
-        "text": "Warcraft III",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -24619,18 +22636,7 @@
     "row": 67,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -24879,18 +22885,7 @@
     "row": 71,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -25011,12 +23006,7 @@
     "text": "StarCraft: Brood War",
     "entities": [
       {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
+        "text": "StarCraft: Brood War",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -25355,7 +23345,13 @@
     "row": 79,
     "col": 0,
     "text": "Champions Overwatch",
-    "entities": []
+    "entities": [
+      {
+        "text": "Champions Overwatch",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -25416,7 +23412,13 @@
     "row": 80,
     "col": 4,
     "text": "Rocket League",
-    "entities": []
+    "entities": [
+      {
+        "text": "Rocket League",
+        "label": "PRODUCT",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -25463,7 +23465,13 @@
     "row": 81,
     "col": 4,
     "text": "Warcraft III",
-    "entities": []
+    "entities": [
+      {
+        "text": "Warcraft III",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -25522,7 +23530,13 @@
     "row": 82,
     "col": 4,
     "text": "Counter-Strike",
-    "entities": []
+    "entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -25575,7 +23589,13 @@
     "row": 83,
     "col": 4,
     "text": "Warcraft III",
-    "entities": []
+    "entities": [
+      {
+        "text": "Warcraft III",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -25615,33 +23635,27 @@
     "row": 84,
     "col": 4,
     "text": "Warcraft III",
-    "entities": []
+    "entities": [
+      {
+        "text": "Warcraft III",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
     "row": 84,
     "col": 0,
     "text": "StarCraft II",
-    "entities": [
-      {
-        "text": "StarCraft II",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
     "row": 84,
     "col": 0,
     "text": "Heroes of the Storm",
-    "entities": [
-      {
-        "text": "Heroes of the Storm",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -25756,14 +23770,26 @@
     "row": 86,
     "col": 4,
     "text": "Counter-Strike",
-    "entities": []
+    "entities": [
+      {
+        "text": "Counter-Strike",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
     "row": 86,
     "col": 0,
     "text": "Counter-Strike: Global Offensive",
-    "entities": []
+    "entities": [
+      {
+        "text": "Counter-Strike: Global Offensive",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -25870,12 +23896,7 @@
     "text": "StarCraft: Brood War",
     "entities": [
       {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
+        "text": "StarCraft: Brood War",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -26111,7 +24132,13 @@
     "row": 92,
     "col": 4,
     "text": "Warcraft III",
-    "entities": []
+    "entities": [
+      {
+        "text": "Warcraft III",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -26186,12 +24213,7 @@
     "text": "StarCraft: Brood War",
     "entities": [
       {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
+        "text": "StarCraft: Brood War",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -26445,13 +24467,7 @@
     "row": 99,
     "col": 4,
     "text": "League of Legends",
-    "entities": [
-      {
-        "text": "League of Legends",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -26504,13 +24520,7 @@
     "row": 100,
     "col": 3,
     "text": "Team Vitality",
-    "entities": [
-      {
-        "text": "Vitality",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -26777,7 +24787,18 @@
     "row": 104,
     "col": 5,
     "text": "2008 — н. в.",
-    "entities": []
+    "entities": [
+      {
+        "text": "2008",
+        "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "н. в.",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -26824,13 +24845,7 @@
     "row": 105,
     "col": 4,
     "text": "Fortnite",
-    "entities": [
-      {
-        "text": "Fortnite",
-        "label": "PRODUCT",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -26879,12 +24894,7 @@
     "text": "StarCraft II: Wings of Liberty",
     "entities": [
       {
-        "text": "StarCraft II",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Wings of Liberty",
+        "text": "StarCraft II: Wings of Liberty",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -27058,13 +25068,7 @@
     "row": 108,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": [
-      {
-        "text": "Legacy of the Void",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -27118,18 +25122,7 @@
     "row": 109,
     "col": 0,
     "text": "StarCraft II: Wings of Liberty",
-    "entities": [
-      {
-        "text": "StarCraft II",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Wings of Liberty",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -27143,13 +25136,7 @@
     "row": 109,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": [
-      {
-        "text": "Legacy of the Void",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -27203,7 +25190,18 @@
     "row": 110,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Brood War",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -27228,7 +25226,18 @@
     "row": 110,
     "col": 1,
     "text": "2006 — н. в.",
-    "entities": []
+    "entities": [
+      {
+        "text": "2006",
+        "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "н. в.",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -27270,7 +25279,12 @@
     "text": "StarCraft II: Wings of Liberty",
     "entities": [
       {
-        "text": "StarCraft II: Wings of Liberty",
+        "text": "StarCraft II",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Wings of Liberty",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -27400,18 +25414,7 @@
     "row": 113,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -27469,7 +25472,18 @@
     "row": 114,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Brood War",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -27562,7 +25576,13 @@
     "row": 115,
     "col": 0,
     "text": "StarCraft II",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft II",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -27611,7 +25631,12 @@
     "text": "StarCraft II: Wings of Liberty",
     "entities": [
       {
-        "text": "StarCraft II: Wings of Liberty",
+        "text": "StarCraft II",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Wings of Liberty",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -27737,7 +25762,12 @@
     "text": "StarCraft II: Wings of Liberty",
     "entities": [
       {
-        "text": "StarCraft II: Wings of Liberty",
+        "text": "StarCraft II",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Wings of Liberty",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -27755,26 +25785,14 @@
     "row": 118,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": [
-      {
-        "text": "Legacy of the Void",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
     "row": 118,
     "col": 0,
     "text": "League of Legends",
-    "entities": [
-      {
-        "text": "League of Legends",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -28080,13 +26098,7 @@
     "row": 122,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": [
-      {
-        "text": "Legacy of the Void",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -28133,18 +26145,7 @@
     "row": 123,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": [
-      {
-        "text": "StarCraft",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Brood War",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -28327,13 +26328,7 @@
     "row": 125,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": [
-      {
-        "text": "Legacy of the Void",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -28382,12 +26377,7 @@
     "text": "StarCraft II: Wings of Liberty",
     "entities": [
       {
-        "text": "StarCraft II",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Wings of Liberty",
+        "text": "StarCraft II: Wings of Liberty",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -28407,7 +26397,7 @@
     "text": "Legacy of the Void",
     "entities": [
       {
-        "text": "Legacy of the Void",
+        "text": "Legacy of the Void»,",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -28418,7 +26408,18 @@
     "row": 126,
     "col": 1,
     "text": "2010 — н. в.",
-    "entities": []
+    "entities": [
+      {
+        "text": "2010",
+        "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "н. в.",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -28460,7 +26461,12 @@
     "text": "Warcraft III: The Frozen Throne",
     "entities": [
       {
-        "text": "Warcraft III: The Frozen Throne",
+        "text": "Warcraft III",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "The Frozen Throne",
         "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
@@ -28478,17 +26484,10 @@
     "row": 127,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": []
-  },
-  {
-    "table_id": 59,
-    "row": 127,
-    "col": 0,
-    "text": "Teamfight Tactics",
     "entities": [
       {
-        "text": "Teamfight Tactics",
-        "label": "MISC",
+        "text": "Legacy of the Void",
+        "label": "WORK_OF_ART",
         "source": "gigachat_few"
       }
     ]
@@ -28496,9 +26495,32 @@
   {
     "table_id": 59,
     "row": 127,
+    "col": 0,
+    "text": "Teamfight Tactics",
+    "entities": []
+  },
+  {
+    "table_id": 59,
+    "row": 127,
     "col": 1,
     "text": "2010—2016 2020",
-    "entities": []
+    "entities": [
+      {
+        "text": "2010",
+        "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "2016",
+        "label": "DATE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "2020",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -28538,7 +26560,18 @@
     "row": 128,
     "col": 4,
     "text": "StarCraft II: Wings of Liberty",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft II",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Wings of Liberty",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -28592,7 +26625,18 @@
     "row": 129,
     "col": 4,
     "text": "StarCraft II: Wings of Liberty",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft II",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Wings of Liberty",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -28606,13 +26650,7 @@
     "row": 129,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": [
-      {
-        "text": "Legacy of the Void",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -28691,13 +26729,7 @@
     "row": 130,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": [
-      {
-        "text": "Legacy of the Void",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -28790,18 +26822,7 @@
     "row": 131,
     "col": 1,
     "text": "2012 — н. в.",
-    "entities": [
-      {
-        "text": "2012",
-        "label": "DATE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "н. в.",
-        "label": "TIME",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -28907,13 +26928,7 @@
     "row": 133,
     "col": 3,
     "text": "Afreeca Freecs",
-    "entities": [
-      {
-        "text": "Afreeca Freecs",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -28963,13 +26978,7 @@
     "row": 133,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": [
-      {
-        "text": "Legacy of the Void",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -29016,7 +27025,18 @@
     "row": 134,
     "col": 4,
     "text": "StarCraft II: Wings of Liberty",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft II",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Wings of Liberty",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -29030,13 +27050,7 @@
     "row": 134,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": [
-      {
-        "text": "Legacy of the Void",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -29083,7 +27097,18 @@
     "row": 135,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Brood War",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -29115,7 +27140,13 @@
     "row": 135,
     "col": 0,
     "text": "Legacy of the Void",
-    "entities": []
+    "entities": [
+      {
+        "text": "Legacy of the Void",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -29169,7 +27200,18 @@
     "row": 136,
     "col": 4,
     "text": "StarCraft: Brood War",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Brood War",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -29354,20 +27396,20 @@
     "row": 139,
     "col": 4,
     "text": "StarCraft",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
     "row": 139,
     "col": 0,
     "text": "Age of Empires",
-    "entities": [
-      {
-        "text": "Age of Empires",
-        "label": "WORK_OF_ART",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 59,
@@ -29413,7 +27455,13 @@
     "row": 140,
     "col": 4,
     "text": "StarCraft",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -29446,14 +27494,26 @@
     "row": 141,
     "col": 4,
     "text": "StarCraft",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
     "row": 142,
     "col": 0,
     "text": "Artosis",
-    "entities": []
+    "entities": [
+      {
+        "text": "Artosis",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -29486,7 +27546,13 @@
     "row": 142,
     "col": 4,
     "text": "StarCraft",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -29638,7 +27704,13 @@
     "row": 145,
     "col": 0,
     "text": "StarCraft",
-    "entities": []
+    "entities": [
+      {
+        "text": "StarCraft",
+        "label": "WORK_OF_ART",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 59,
@@ -29671,18 +27743,7 @@
     "row": 146,
     "col": 2,
     "text": "Финляндия  Германия",
-    "entities": [
-      {
-        "text": "Финляндия",
-        "label": "GPE",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "Германия",
-        "label": "GPE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 60,
@@ -29731,8 +27792,13 @@
     "text": "Перспектива до 2050 года",
     "entities": [
       {
-        "text": "Перспектива до 2050 года",
+        "text": "Перспектива",
         "label": "MISC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "2050",
+        "label": "DATE",
         "source": "gigachat_few"
       }
     ]
@@ -29749,18 +27815,7 @@
     "row": 0,
     "col": 6,
     "text": "Эксплуатирующие организации",
-    "entities": [
-      {
-        "text": "эксплуатирующие",
-        "label": "MISC",
-        "source": "gigachat_few"
-      },
-      {
-        "text": "организации",
-        "label": "ORG",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 60,
@@ -29781,13 +27836,7 @@
     "row": 1,
     "col": 0,
     "text": "Аргентина[10]",
-    "entities": [
-      {
-        "text": "Аргентина",
-        "label": "GPE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 60,
@@ -29905,9 +27954,16 @@
     "row": 2,
     "col": 6,
     "text": "Айкакан атомайин электракаян",
+    "entities": []
+  },
+  {
+    "table_id": 60,
+    "row": 2,
+    "col": 7,
+    "text": "ВВЭР",
     "entities": [
       {
-        "text": "Айкакан атомайин электракаян",
+        "text": "ВВЭР",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -29916,29 +27972,22 @@
   {
     "table_id": 60,
     "row": 2,
-    "col": 7,
-    "text": "ВВЭР",
-    "entities": []
-  },
-  {
-    "table_id": 60,
-    "row": 2,
     "col": 8,
     "text": "ТВЭЛ",
-    "entities": []
+    "entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
     "row": 3,
     "col": 0,
     "text": "Бангладеш[13][14]",
-    "entities": [
-      {
-        "text": "Бангладеш",
-        "label": "GPE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 60,
@@ -29987,7 +28036,13 @@
     "row": 3,
     "col": 7,
     "text": "ВВЭР",
-    "entities": []
+    "entities": [
+      {
+        "text": "ВВЭР",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -30075,7 +28130,13 @@
     "row": 4,
     "col": 8,
     "text": "ТВЭЛ",
-    "entities": []
+    "entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -30154,7 +28215,7 @@
     "entities": [
       {
         "text": "Болгария",
-        "label": "MISC",
+        "label": "GPE",
         "source": "gigachat_few"
       }
     ]
@@ -30304,7 +28365,7 @@
     "entities": [
       {
         "text": "Великобритания",
-        "label": "MISC",
+        "label": "GPE",
         "source": "gigachat_few"
       }
     ]
@@ -30477,7 +28538,7 @@
     "text": "ТВЭЛ",
     "entities": [
       {
-        "text": "ТВЭЛ»,",
+        "text": "ТВЭЛ",
         "label": "MISC",
         "source": "gigachat_few"
       }
@@ -30491,7 +28552,7 @@
     "entities": [
       {
         "text": "Германия",
-        "label": "MISC",
+        "label": "GPE",
         "source": "gigachat_few"
       }
     ]
@@ -30715,7 +28776,7 @@
     "entities": [
       {
         "text": "27",
-        "label": "QUANTITY",
+        "label": "DATE",
         "source": "gigachat_few"
       }
     ]
@@ -31030,7 +29091,7 @@
     "entities": [
       {
         "text": "Канада",
-        "label": "MISC",
+        "label": "GPE",
         "source": "gigachat_few"
       }
     ]
@@ -31099,13 +29160,7 @@
     "row": 16,
     "col": 0,
     "text": "Bruce Power (англ.)русск.",
-    "entities": [
-      {
-        "text": "Bruce Power",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 60,
@@ -31186,13 +29241,7 @@
     "row": 17,
     "col": 4,
     "text": "36",
-    "entities": [
-      {
-        "text": "36",
-        "label": "QUANTITY",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 60,
@@ -31302,13 +29351,7 @@
     "row": 18,
     "col": 0,
     "text": "Мексика[28]",
-    "entities": [
-      {
-        "text": "Мексика",
-        "label": "GPE",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 60,
@@ -31380,7 +29423,7 @@
     "entities": [
       {
         "text": "Нидерланды",
-        "label": "MISC",
+        "label": "GPE",
         "source": "gigachat_few"
       }
     ]
@@ -31747,7 +29790,13 @@
     "row": 23,
     "col": 0,
     "text": "9РБМК",
-    "entities": []
+    "entities": [
+      {
+        "text": "9РБМК",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -31782,7 +29831,13 @@
     "row": 23,
     "col": 1,
     "text": "ТВЭЛ",
-    "entities": []
+    "entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -31792,7 +29847,7 @@
     "entities": [
       {
         "text": "Румыния",
-        "label": "MISC",
+        "label": "GPE",
         "source": "gigachat_few"
       }
     ]
@@ -31913,14 +29968,26 @@
     "row": 25,
     "col": 7,
     "text": "ВВЭР",
-    "entities": []
+    "entities": [
+      {
+        "text": "ВВЭР",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
     "row": 25,
     "col": 8,
     "text": "ТВЭЛ",
-    "entities": []
+    "entities": [
+      {
+        "text": "ТВЭЛ",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -32130,7 +30197,13 @@
     "row": 27,
     "col": 0,
     "text": "Westinghouse",
-    "entities": []
+    "entities": [
+      {
+        "text": "Westinghouse",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -32144,7 +30217,13 @@
     "row": 27,
     "col": 0,
     "text": "General Electric",
-    "entities": []
+    "entities": [
+      {
+        "text": "General Electric",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -32239,7 +30318,13 @@
     "row": 28,
     "col": 0,
     "text": "Westinghouse",
-    "entities": []
+    "entities": [
+      {
+        "text": "Westinghouse",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -32420,7 +30505,13 @@
     "row": 30,
     "col": 0,
     "text": "Westinghouse",
-    "entities": []
+    "entities": [
+      {
+        "text": "Westinghouse",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -32843,7 +30934,13 @@
     "row": 35,
     "col": 1,
     "text": "Westinghouse",
-    "entities": []
+    "entities": [
+      {
+        "text": "Westinghouse",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -32866,7 +30963,7 @@
     "entities": [
       {
         "text": "24",
-        "label": "QUANTITY",
+        "label": "DATE",
         "source": "gigachat_few"
       }
     ]
@@ -32928,7 +31025,7 @@
     "entities": [
       {
         "text": "Korea Nuclear Fuel",
-        "label": "MISC",
+        "label": "ORG",
         "source": "gigachat_few"
       }
     ]
@@ -33158,7 +31255,13 @@
     "row": 38,
     "col": 1,
     "text": "Toshiba",
-    "entities": []
+    "entities": [
+      {
+        "text": "Toshiba",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
   },
   {
     "table_id": 60,
@@ -33185,13 +31288,7 @@
     "row": 38,
     "col": 0,
     "text": "Hitachi",
-    "entities": [
-      {
-        "text": "Hitachi",
-        "label": "MISC",
-        "source": "gigachat_few"
-      }
-    ]
+    "entities": []
   },
   {
     "table_id": 60,

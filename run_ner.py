@@ -20,10 +20,8 @@ def run_ner(args):
     if args.method == "spacy":
         ner_model = SpacyNER()
     elif args.method == "gigachat_zero":
-        from src.ner.ner_gigachat import GigaChatNER
         ner_model = GigaChatNER(mode="zero")
     elif args.method == "gigachat_few":
-        from src.ner.ner_gigachat import GigaChatNER
         ner_model = GigaChatNER(mode="few")
 
     results = []

@@ -18,9 +18,9 @@ class GigaChatNER:
             timeout=120
         )
 
-    def extract_entities(self, text: str) -> List[Dict]:
+    def _build_prompt(self, text: str) -> str:
         if self.mode == "zero":
-            prompt = f"""
+            return f"""
 Ты — система распознавания именованных сущностей (NER) на русском языке. 
 Твоя задача — найти в тексте все значимые сущности и классифицировать их по следующим категориям:
 
@@ -48,7 +48,7 @@ class GigaChatNER:
 Текст для анализа: "{text}"
 """
         elif self.mode == "few":
-            prompt = f"""
+            return f"""
 Ты — система распознавания именованных сущностей (NER) на русском языке. 
 Твоя задача — найти в тексте все значимые сущности и классифицировать их по следующим категориям:
 
@@ -95,20 +95,25 @@ class GigaChatNER:
 
 Текст для анализа: "{text}"
 """
+    def extract_entities(self, text: str) -> List[Dict]:
+        prompt = self._build_prompt(text)
         response = self.model.invoke([HumanMessage(content=prompt)])
-        content = response.content.strip()
 
         try:
-            entities = json.loads(content)
-            if isinstance(entities, list):
-                for e in entities:
-                    e["source"] = self.source
-                return entities
-        except:
-            pass
+            data = json.loads(response.content)
+        except Exception:
+            return []
+
+        if not isinstance(data, list):
+            return []
 
         entities = []
-        for match in re.finditer(r"\b([А-ЯЁ][а-яёA-Z0-9\s&«»\(\)]+)\b", text):
-            entities.append({"text": match.group(1), "label": "MISC", "source": self.source})
+        for e in data:
+            if isinstance(e, dict) and "text" in e and "label" in e:
+                entities.append({
+                    "text": e["text"],
+                    "label": e["label"],
+                    "source": f"gigachat_{self.mode}"
+                })
 
         return entities

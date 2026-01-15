@@ -1,0 +1,1946 @@
+[
+  {
+    "table_id": 41,
+    "row": 0,
+    "col": 0,
+    "text": "Позиция",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 0,
+    "col": 1,
+    "text": "Название",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 0,
+    "col": 2,
+    "text": "Владелец",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 1,
+    "col": 0,
+    "text": "1",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 1,
+    "col": 1,
+    "text": "Первый канал",
+    "entities": [
+      {
+        "text": "Первый канал",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 1,
+    "col": 2,
+    "text": "АО «Первый канал»",
+    "entities": [
+      {
+        "text": "АО «Первый канал»",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 2,
+    "col": 0,
+    "text": "2",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 2,
+    "col": 1,
+    "text": "Россия-1",
+    "entities": [
+      {
+        "text": "Россия-1",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 2,
+    "col": 2,
+    "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+    "entities": [
+      {
+        "text": "Всероссийская государственная телевизионная и радиовещательная компания",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 3,
+    "col": 0,
+    "text": "3",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 3,
+    "col": 1,
+    "text": "Матч ТВ",
+    "entities": [
+      {
+        "text": "Матч ТВ",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 3,
+    "col": 2,
+    "text": "Газпром-Медиа Холдинг",
+    "entities": [
+      {
+        "text": "Газпром-Медиа Холдинг",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 4,
+    "col": 0,
+    "text": "4",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 4,
+    "col": 1,
+    "text": "НТВ",
+    "entities": [
+      {
+        "text": "НТВ",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 4,
+    "col": 2,
+    "text": "Газпром-Медиа Холдинг и АО «Телекомпания НТВ»",
+    "entities": [
+      {
+        "text": "Газпром-Медиа Холдинг",
+        "label": "ORG",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "АО «Телекомпания НТВ»",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 5,
+    "col": 0,
+    "text": "5",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 5,
+    "col": 1,
+    "text": "Пятый канал",
+    "entities": [
+      {
+        "text": "Пятый канал",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 5,
+    "col": 2,
+    "text": "Национальная Медиа Группа",
+    "entities": [
+      {
+        "text": "Национальная Медиа Группа",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 6,
+    "col": 0,
+    "text": "6",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 6,
+    "col": 1,
+    "text": "Россия-К",
+    "entities": [
+      {
+        "text": "Россия",
+        "label": "GPE",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 6,
+    "col": 2,
+    "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+    "entities": [
+      {
+        "text": "Всероссийская государственная телевизионная и радиовещательная компания",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 7,
+    "col": 0,
+    "text": "7",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 7,
+    "col": 1,
+    "text": "Россия-24",
+    "entities": [
+      {
+        "text": "Россия-24",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 7,
+    "col": 2,
+    "text": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+    "entities": [
+      {
+        "text": "Всероссийская государственная телевизионная и радиовещательная компания",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 8,
+    "col": 0,
+    "text": "8",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 8,
+    "col": 1,
+    "text": "Карусель",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 8,
+    "col": 2,
+    "text": "ЗАО «Карусель» (ВГТРК и ЗАО «Первый канал. Всемирная сеть»)",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 9,
+    "col": 0,
+    "text": "9",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 9,
+    "col": 1,
+    "text": "ОТР",
+    "entities": [
+      {
+        "text": "ОТР",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 9,
+    "col": 2,
+    "text": "АНО «Общественное телевидение России»",
+    "entities": [
+      {
+        "text": "АНО «Общественное телевидение России»",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 10,
+    "col": 0,
+    "text": "10",
+    "entities": []
+  },
+  {
+    "table_id": 41,
+    "row": 10,
+    "col": 1,
+    "text": "ТВ Центр",
+    "entities": [
+      {
+        "text": "ТВ Центр",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 41,
+    "row": 10,
+    "col": 2,
+    "text": "АО «Телекомпания „ТВ Центр“»",
+    "entities": [
+      {
+        "text": "АО «Телекомпания „ТВ Центр“»",
+        "label": "ORG",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 0,
+    "col": 0,
+    "text": "Место",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 0,
+    "col": 1,
+    "text": "Пилот",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 0,
+    "col": 2,
+    "text": "Штурман",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 0,
+    "col": 3,
+    "text": "Команда",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 0,
+    "col": 4,
+    "text": "Машина",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 0,
+    "col": 5,
+    "text": "Класс",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 0,
+    "col": 6,
+    "text": "Время",
+    "entities": [
+      {
+        "text": "Время",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 0,
+    "col": 7,
+    "text": "Разница",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 0,
+    "col": 8,
+    "text": "Очки",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 0,
+    "text": "1",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 1,
+    "text": "Калле Рованпера",
+    "entities": [
+      {
+        "text": "Калле Рованпера",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 2,
+    "text": "Йонне Халттунен",
+    "entities": [
+      {
+        "text": "Йонне Халттунен",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 3,
+    "text": "Toyota Gazoo Racing WRT",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 4,
+    "text": "Toyota Yaris WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 5,
+    "text": "WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 6,
+    "text": "3:28:24.6",
+    "entities": [
+      {
+        "text": "3:28:24.6",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 7,
+    "text": "0.0",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 1,
+    "col": 8,
+    "text": "30",
+    "entities": [
+      {
+        "text": "30",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 0,
+    "text": "2",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 1,
+    "text": "Отт Тянак",
+    "entities": [
+      {
+        "text": "Отт Тянак",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 2,
+    "text": "Мартин Ярвеойя",
+    "entities": [
+      {
+        "text": "Мартин Ярвеойя",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 3,
+    "text": "Hyundai Shell Mobis WRT",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 4,
+    "text": "Hyundai i20 Coupe WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 5,
+    "text": "WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 6,
+    "text": "3:29:06.7",
+    "entities": [
+      {
+        "text": "3:29:06.7",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 7,
+    "text": "+42.1",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 2,
+    "col": 8,
+    "text": "19",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 0,
+    "text": "3",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 1,
+    "text": "Себастьен Ожье",
+    "entities": [
+      {
+        "text": "Себастьен Ожье",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 2,
+    "text": "Жюльен Инграссия",
+    "entities": [
+      {
+        "text": "Жюльен Инграссия",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 3,
+    "text": "Toyota Gazoo Racing WRT",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 4,
+    "text": "Toyota Yaris WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 5,
+    "text": "WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 6,
+    "text": "3:29:35.9",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 7,
+    "text": "+1:11.3",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 3,
+    "col": 8,
+    "text": "18",
+    "entities": [
+      {
+        "text": "18",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 0,
+    "text": "4",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 1,
+    "text": "Дани Сордо",
+    "entities": [
+      {
+        "text": "Дани Сордо",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 2,
+    "text": "Борха Росада",
+    "entities": [
+      {
+        "text": "Борха Росада",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 3,
+    "text": "Hyundai Shell Mobis WRT",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 4,
+    "text": "Hyundai i20 Coupe WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 5,
+    "text": "WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 6,
+    "text": "3:31:25.6",
+    "entities": [
+      {
+        "text": "3:31:25.6",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 7,
+    "text": "+3:01.0",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 4,
+    "col": 8,
+    "text": "12",
+    "entities": [
+      {
+        "text": "12",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 0,
+    "text": "5",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 1,
+    "text": "Гас Гринсмит",
+    "entities": [
+      {
+        "text": "Гас Гринсмит",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 2,
+    "text": "Крис Паттерсон",
+    "entities": [
+      {
+        "text": "Крис Паттерсон",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 3,
+    "text": "M-Sport Ford WRT",
+    "entities": [
+      {
+        "text": "M-Sport",
+        "label": "ORG",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Ford WRT",
+        "label": "PRODUCT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 4,
+    "text": "Ford Fiesta WRC",
+    "entities": [
+      {
+        "text": "Ford Fiesta WRC",
+        "label": "PRODUCT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 5,
+    "text": "WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 6,
+    "text": "3:34:09.6",
+    "entities": [
+      {
+        "text": "3:34:09.6",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 7,
+    "text": "+5:45.0",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 5,
+    "col": 8,
+    "text": "10",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 0,
+    "text": "6",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 1,
+    "text": "Элфин Эванс",
+    "entities": [
+      {
+        "text": "Элфин Эванс",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 2,
+    "text": "Скотт Мартин",
+    "entities": [
+      {
+        "text": "Скотт Мартин",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 3,
+    "text": "Toyota Gazoo Racing WRT",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 4,
+    "text": "Toyota Yaris WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 5,
+    "text": "WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 6,
+    "text": "3:35:07.3",
+    "entities": [
+      {
+        "text": "3:35:07.3",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 7,
+    "text": "+6:42.7",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 6,
+    "col": 8,
+    "text": "12",
+    "entities": [
+      {
+        "text": "12",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 0,
+    "text": "7",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 1,
+    "text": "Адриен Фурмо",
+    "entities": [
+      {
+        "text": "Адриен Фурмо",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 2,
+    "text": "Рено Жамуль",
+    "entities": [
+      {
+        "text": "Рено Жамуль",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 3,
+    "text": "M-Sport Ford WRT",
+    "entities": [
+      {
+        "text": "M-Sport",
+        "label": "ORG",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "Ford WRT",
+        "label": "PRODUCT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 4,
+    "text": "Ford Fiesta WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 5,
+    "text": "WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 6,
+    "text": "3:35:19.0",
+    "entities": [
+      {
+        "text": "3:35:19.0",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 7,
+    "text": "+6:54.4",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 7,
+    "col": 8,
+    "text": "6",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 0,
+    "text": "8",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 1,
+    "text": "Тьерри Невилль",
+    "entities": [
+      {
+        "text": "Тьерри Невилль",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 2,
+    "text": "Мартин Вайдаег",
+    "entities": [
+      {
+        "text": "Мартин Вайдаег",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 3,
+    "text": "Hyundai Shell Mobis WRT",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 4,
+    "text": "Hyundai i20 Coupe WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 5,
+    "text": "WRC",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 6,
+    "text": "3:37:05.7",
+    "entities": [
+      {
+        "text": "3:37:05.7",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 7,
+    "text": "+8:41.1",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 8,
+    "col": 8,
+    "text": "6",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 0,
+    "text": "9",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 1,
+    "text": "Андреас Миккельсен",
+    "entities": [
+      {
+        "text": "Андреас Миккельсен",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 2,
+    "text": "Элиотт Эдмондсон",
+    "entities": [
+      {
+        "text": "Элиотт Эдмондсон",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 3,
+    "text": "Toksport WRT",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 4,
+    "text": "Škoda Fabia R5 Evo",
+    "entities": [
+      {
+        "text": "Škoda Fabia R5 Evo",
+        "label": "PRODUCT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 5,
+    "text": "WRC-2",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 6,
+    "text": "3:37:27.1",
+    "entities": [
+      {
+        "text": "3:37:27.1",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 7,
+    "text": "+9:02.5",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 9,
+    "col": 8,
+    "text": "2",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 0,
+    "text": "10",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 1,
+    "text": "Марко Буласиа Уилкинсон",
+    "entities": [
+      {
+        "text": "Марко Буласиа Уилкинсон",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 2,
+    "text": "Марсело Дер Оганесян",
+    "entities": [
+      {
+        "text": "Марсело Дер Оганесян",
+        "label": "PER",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 3,
+    "text": "Toksport WRT",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 4,
+    "text": "Škoda Fabia R5 Evo",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 5,
+    "text": "WRC-2",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 6,
+    "text": "3:37:43.8",
+    "entities": [
+      {
+        "text": "3:37:43.8",
+        "label": "TIME",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 7,
+    "text": "+9:19.2",
+    "entities": []
+  },
+  {
+    "table_id": 42,
+    "row": 10,
+    "col": 8,
+    "text": "1",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 0,
+    "col": 0,
+    "text": "Чарт (2018)",
+    "entities": [
+      {
+        "text": "Чарт",
+        "label": "MISC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "2018",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 0,
+    "col": 1,
+    "text": "Высшая позиция",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 1,
+    "col": 0,
+    "text": "Австрия (Ö3 Austria)[17]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 1,
+    "col": 1,
+    "text": "20",
+    "entities": [
+      {
+        "text": "20",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 2,
+    "col": 0,
+    "text": "Бельгия/Фландрия (Ultratop)[18]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 2,
+    "col": 1,
+    "text": "12",
+    "entities": [
+      {
+        "text": "12",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 3,
+    "col": 0,
+    "text": "Бельгия/Валлония (Ultratop)[19]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 3,
+    "col": 1,
+    "text": "43",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 4,
+    "col": 0,
+    "text": "Нидерланды (MegaCharts)[20]",
+    "entities": [
+      {
+        "text": "Нидерланды",
+        "label": "LOC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "MegaCharts",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 4,
+    "col": 1,
+    "text": "34",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 5,
+    "col": 0,
+    "text": "Франция (SNEP)[21]",
+    "entities": [
+      {
+        "text": "Франция",
+        "label": "GPE",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "SNEP",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 5,
+    "col": 1,
+    "text": "59",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 6,
+    "col": 0,
+    "text": "Германия (Offizielle Top 100)[22]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 6,
+    "col": 1,
+    "text": "27",
+    "entities": [
+      {
+        "text": "27",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 7,
+    "col": 0,
+    "text": "Ирландия (IRMA)[23]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 7,
+    "col": 1,
+    "text": "99",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 8,
+    "col": 0,
+    "text": "Норвегия (VG-lista)[24]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 8,
+    "col": 1,
+    "text": "32",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 9,
+    "col": 0,
+    "text": "Шотландия (Scottish Albums)[25]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 9,
+    "col": 1,
+    "text": "23",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 10,
+    "col": 0,
+    "text": "Испания (PROMUSICAE)[26]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 10,
+    "col": 1,
+    "text": "85",
+    "entities": [
+      {
+        "text": "85",
+        "label": "QUANTITY",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 11,
+    "col": 0,
+    "text": "Швейцария (Schweizer Hitparade)[27]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 11,
+    "col": 1,
+    "text": "14",
+    "entities": [
+      {
+        "text": "14",
+        "label": "DATE",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 44,
+    "row": 12,
+    "col": 0,
+    "text": "Великобритания (UK Albums)[28]",
+    "entities": []
+  },
+  {
+    "table_id": 44,
+    "row": 12,
+    "col": 1,
+    "text": "44",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 0,
+    "col": 0,
+    "text": "Происхождение",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 0,
+    "col": 1,
+    "text": "Численность",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 0,
+    "col": 2,
+    "text": "% от общего числа*",
+    "entities": [
+      {
+        "text": "%",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "общего",
+        "label": "MISC",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "числа",
+        "label": "MISC",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 1,
+    "col": 0,
+    "text": "Итальянцы",
+    "entities": [
+      {
+        "text": "итальянцы",
+        "label": "NORP",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 1,
+    "col": 1,
+    "text": "56 153 773",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 1,
+    "col": 2,
+    "text": "93",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 1,
+    "col": 0,
+    "text": "52 %",
+    "entities": [
+      {
+        "text": "52 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 2,
+    "col": 0,
+    "text": "Румыны",
+    "entities": [
+      {
+        "text": "Румыны",
+        "label": "NORP",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 2,
+    "col": 1,
+    "text": "796 477",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 2,
+    "col": 2,
+    "text": "1",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 2,
+    "col": 0,
+    "text": "32 %",
+    "entities": [
+      {
+        "text": "32 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 3,
+    "col": 0,
+    "text": "Североафриканцы",
+    "entities": [
+      {
+        "text": "Североафриканцы",
+        "label": "NORP",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 3,
+    "col": 1,
+    "text": "606 556",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 3,
+    "col": 2,
+    "text": "1",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 3,
+    "col": 0,
+    "text": "01 %",
+    "entities": [
+      {
+        "text": "01 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 4,
+    "col": 0,
+    "text": "Албанцы",
+    "entities": [
+      {
+        "text": "албанцы",
+        "label": "NORP",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 4,
+    "col": 1,
+    "text": "441 396",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 4,
+    "col": 2,
+    "text": "0",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 4,
+    "col": 0,
+    "text": "73 %",
+    "entities": [
+      {
+        "text": "73 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 5,
+    "col": 0,
+    "text": "Китайцы",
+    "entities": [
+      {
+        "text": "Китайцы",
+        "label": "NORP",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 5,
+    "col": 1,
+    "text": "170 265",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 5,
+    "col": 2,
+    "text": "0",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 5,
+    "col": 0,
+    "text": "28 %",
+    "entities": [
+      {
+        "text": "28 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 6,
+    "col": 0,
+    "text": "Украинцы",
+    "entities": [
+      {
+        "text": "украинцы",
+        "label": "NORP",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 6,
+    "col": 1,
+    "text": "153 998",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 6,
+    "col": 2,
+    "text": "0",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 6,
+    "col": 0,
+    "text": "26 %",
+    "entities": [
+      {
+        "text": "26 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 7,
+    "col": 0,
+    "text": "Азиаты (не считая китайцев)",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 7,
+    "col": 1,
+    "text": "445 795",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 7,
+    "col": 2,
+    "text": "0",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 7,
+    "col": 0,
+    "text": "74 %",
+    "entities": [
+      {
+        "text": "74 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 8,
+    "col": 0,
+    "text": "Латиноамериканцы",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 8,
+    "col": 1,
+    "text": "298 860",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 8,
+    "col": 2,
+    "text": "0",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 8,
+    "col": 0,
+    "text": "50 %",
+    "entities": [
+      {
+        "text": "50 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 9,
+    "col": 0,
+    "text": "Негры южнее Сахары",
+    "entities": [
+      {
+        "text": "негры",
+        "label": "NORP",
+        "source": "gigachat_few"
+      },
+      {
+        "text": "южнее Сахары",
+        "label": "LOC",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 9,
+    "col": 1,
+    "text": "264 570",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 9,
+    "col": 2,
+    "text": "0",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 9,
+    "col": 0,
+    "text": "44 %",
+    "entities": [
+      {
+        "text": "44 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  },
+  {
+    "table_id": 45,
+    "row": 10,
+    "col": 0,
+    "text": "другие",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 10,
+    "col": 1,
+    "text": "713 378",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 10,
+    "col": 2,
+    "text": "1",
+    "entities": []
+  },
+  {
+    "table_id": 45,
+    "row": 10,
+    "col": 0,
+    "text": "19 %",
+    "entities": [
+      {
+        "text": "19 %",
+        "label": "PERCENT",
+        "source": "gigachat_few"
+      }
+    ]
+  }
+]
